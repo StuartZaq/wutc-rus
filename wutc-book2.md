@@ -1,116 +1,117 @@
 ---
-title: Wolves Upon the Coast
-subtitle: Book 2 - Magic 
-author: Luke Gearing
+title: Волки на побережье
+subtitle: Книга 1 --- Магия
+author: Люк Гиринг
 mainfont: Vollkorn 
-geometry:
-	margin=1in
+geometry: margin=1in
 papersize: b5
 ---
 
-Effects beyond the mundane are achieved through the invocation of properties or through pacts with the supernatural.
+Эффекты, выходящие за рамки обыденного, достигаются через вызов свойств объектов или заключение договоров со сверхъестественными силами.
 
-# Spells
+# Заклинания
 
-## Alter Self	
+## Изменить себя
 
- _One Use:_ Consume a simulacrum of the target crafted with their hair and blood mixed with 100 chrysalises/cocoons. _1/day:_ Blasphemous induction into the Doppelganger cult. Unspeakable rites and child sacrifice. 
+_Одно применение:_ употребите симулякр цели, созданный из её волос и крови, смешанных со 100 куколками/коконами. _1/день:_ богохульное посвящение в культ Двойника. Невыразимые обряды и жертвоприношения детей. 
 
- The caster is able to reshape themselves in the image of another humanoid. Lasts 36 Turns.
+Заклинатель способен изменить себя по образу и подобию другого гуманоида. Длится 36 ходов.
 
-## Animal Growth	
+## Рост животных
 
-_One Use:_ The blood of a pregnant animal mixed with stewed lilac, left to brew for a year. Flicked at the target. 
+_Одно применение:_ кровь беременного животного смешивают с тушёной сиренью, оставляют настояться в течение года. Стряхнуть на цель. 
 
- 1d6 Animals become Giant (_see Volume 2: Monsters &_) for 12 Turns.
+1к6 животных становятся гигантскими (_см. Том 2: Монстры &_) на 12 ходов.
 
-## Animate Dead	
+## Оживить мёртвых
 
- _One Use:_ The teeth of a Hydra are scattered over the area. 
+_Одно применение:_ зубы Гидры разбросаны по всей области.
 
- 5d6 Skeletons rise from the earth, bound to the will of the caster.
+Из земли поднимаются 5к6 скелетов, подчиняющиеся воле заклинателя.
 
-## Anti-Magic Shield	
+## Противомагический щит
 
- _One Use:_ A circle described with ''chalk' formed from diamond-dust and dragonbone. 
+_Одно применение:_ круг, описанный "мелом", сделанным из алмазной пыли и драконьей кости.
 
- No magic may pass through, under or over this barrier - those within are utterly immune to magic.
+Никакая магия не может пройти через этот барьер, под ним или над ним — те, кто внутри, совершенно невосприимчивы к магии.
  
-## Baleful Polymorph	
+## Зловещий полиморф
 
- _One Use:_ A fragment of undifferentiated Chaos, thrown as a javelin and fuelled with malice. 
+_Одно применение:_ фрагмент неопознанного Хаоса, брошенный как копьё и наполненный злобой.
 
- The victim is transformed, as desired by the caster. 
+Жертва трансформируется, как того желает заклинатель.
 
-## Bless	
+## Благословение
 
-_One Use:_ Blast upon a horn wrenched from the skull of a Satyr or Narwhal. _1/day_ Blast upon a horn gifted by the unicorn. Allies of the caster receive a +1 to Hit and to Morale for 6 Turns. 
+_Одно применение:_ протрубите в рог, вырванный из черепа сатира или нарвала. _1/день_ трубите в рог, дарованный единорогом.
 
-## Charm Monster	
+Союзники заклинателя получают бонус +1 к попаданию и к боевому духу на 6 ходов. 
 
- _One Use:_ Craft a mask of the creatures to be charmed, using their skin, blood, hair and horn. For each HD, 1 corpse must be processed. _1/day:_ Become a monster yourself. This one of the paths a man could walk to leave mortality behind. 
+## Очарование монстра
 
- 3d6 HD of creatures are bound to the will of the caster. Orders antithetical to their nature cause them to break free if they are able to make a Warding saving throw.
+_Одно применение:_ создайте маску существа, которого вы хотите очаровать, используя его кожу, кровь, волосы и рога. Для каждого КЗ необходимо обработать 1 труп. _1/день:_ станьте монстром сами. Это один из путей, по которому человек может пройти, чтобы оставить смерть позади. 
+
+3к6 КЗ существ связаны волей заклинателя. Приказы против их природы, позволят им вырваться на свободу, если им удастся сделать спасбросок отражения.
+
+## Очарование персоны
+
+_Одно применение:_ толстая перламутровая пуля, собранная в доме дриады и выплюнутая в цель. _1/день:_ поднимитесь на гору потрясающей красоты с двенадцатью спутниками, все с одинаковым стремлением и знаниями. Лишь один может спуститься с горы живым, проклятый этой силой. 
+
+Один человек или пост-человек должен совершить спасбросок отражения — в случае неудачи он подчиняется воле заклинателя. Приказы против его природы, позволяют его вырваться на свободу, если ему удастся сделать спасбросок отражения.
+
+## Круг невидимости
+
+_Одно применение:_ порошок, полученный из глаз медузы-горгоны, разбросан в этой области. 
+
+Все в пределах этой области подвержены _невидимости_.
  
-## Charm Person	
+## Круг защиты
 
-_One Use:_ A thick pearlescent slug, gathered from the home of Dryad and spat at the target. _1/day:_ Ascend a mountain of stunning beauty with twelve companions, all of equal drive and knowledge. One may descend the mountain alive, cursed with this power. 
+_Одно применение:_ заклинатель покрывает свой рот благословенными маслами и без особых усилий выполняет глоссолалию. Происхождение благословения определяет, против кого эффективна защита. _1/день:_ потенциальный заклинатель татуируется увещеваниями и изгнаниями, используя чернила гигантского кальмара или желчь, собранную с многовекового дерева.
 
- A single human or post-human must make a Warding saving throw - if failed, they are bound to the will of the caster. Orders antithetical to their nature cause them to break free if they are able to make a Warding saving throw.
+Все, кто находится в пределах этой области, подлежат _защите_.
  
-## Circle of Invisibility	
+## Ясновидение
 
- _One Use:_ Powder derived from the eyes of a Medusae is scattered in the area. 
+_Одно применение:_ хрупкое лезвие из обсидиана должно быть использовано, чтобы открыть лоб заклинателя, позволяя их сущности выскользнуть наружу. _1/день:_ заклинателя подвергают трепанации с помощью сверла из звёздчатого металла, которое затем выбрасывают в незапятнанный рыбой бассейн. 
 
- All within this area are subject to _Invisibility._
+Сознание заклинателя освобождается от тела и может перемещаться на расстояние до полумили от своего тела в течение 36 ходов. Оно не может проходить через свинец или 20 футов камня.
  
-## Circle of Protection 
+## Облачный убийца
 
-_One Use:_ The caster coats their mouth with blessed oils and performs glossolalia effortlessly. The origin of the blessing determines whom the protection is effective against. _1/day:_ The prospective caster is tattooed with exhortations and banishments, using ink from a giant squid or a gall harvested from a centuries-old tree.
+_Одно применение:_ лёгкие определённых драконов, сформированные в мехи. 
 
- All those within the are are subject to _Protection._
+Вызывается густой ядовитый туман, тяжелее воздуха. Те, кто будет застигнут им, должны пройти спасбросок стойкости или умереть ужасной смертью.
  
-## Clairvoyance	
+## Цветные брызги
 
-_One Use:_ A fragile blade of obsidian must be used to open the casters forehead, allowing their presence to slip forth. _1/day:_ The caster is trepanned using a drill of star-metal which is discarded in a pool unsullied by fish. 
+ _Одно применение:_ обезглавить пещерного угря, пьющего свет. _1/день:_ глазная линза выброшенного на берег кита держится перед источником света. 
 
- The caster's awareness is freed form the body, and able to travel up to half a mile from their body for 36 Turns. They may not pass through lead or 20' of stone.
+Яркий свет чужеродных цветов оглушает тех, кто не может пройти спасбросок отражения, делая их неспособными действовать в течение 1к6 раундов.
  
-## Cloudkill	
+## Понимать языки
 
-_One Use:_ The lungs of certain dragons, formed into bellows. 
+_Одно применение:_ местная ядовитая змея должна быть проглочена живьём. Длится 1к4 дня. _1/день:_ древняя грамматика должна быть восстановлена и съедена. Навсегда:_ язык заклинателя рассекают золотым серпом под луной, спрятавшейся за упавшей Вавилонской башней. 
 
- A thick, heavier-than-air poisonous fog is summoned. Those caught within must make a Physique save or die wretched deaths. 
+Все языки могут быть поняты, на них можно говорить, читать и писать.
+
+## Путаница
+
+_Одно применение:_ череп отшельника, наполненный маковыми зёрнами, встряхивают, как погремушку, накладывая заклинание на тех, кто его слышит. 
+
+До 3к6 КЗ существ приходят в замешательство — они справляются с ним с шансом 2 из 6, иначе отключаются от этого мира и начинают смотреть на всё ничего не понимающими глазами.
  
-## Colour Spray	
+## Непрерывный свет
 
- _One Use:_ Behead a light-drinking cave-eel. _1/day:_ The eye-lens of a beached whale is held up before a light-source. 
+_Одно применение:_ сердце мёртвой кузницы бросается к цели. _1/день:_ какой-то фрагмент Солнца должен быть проглочен. 
 
- A glare of alien colours stuns those unable to make a Warding save, rendering them unable to take action for 1d6 rounds.
- 
-## Comprehend Languages	
+Область постоянно освещается солнечным светом, исходящим от источника, выбранного заклинателем.
 
-_One Use:_ A local, poisonous serpent must be swallowed alive. Lasts 1d4 days._1/day:_ An ancient grammar must be recovered and eaten. _Permanent:_ The casters tongue is split open with a golden sickle beneath a moon hidden behind the fallen Tower of Babel. 
+## Контроль воды
 
- All languages may be understood, spoken, read and written.
+_Одно применение:_ необходимо воззвать к истинному имени водоёма. В одну воду нельзя войти дважды, так что имя будет меняться каждый раз. 
 
-## Confusion	
-
-_One Use:_ The skull of a hermit, filled with poppy-seeds is shaken like a rattle, inflicting the spell upon those who hear it. 
-
- Up to 3d6 HD of creatures become confused - they defend themselves 2-in-6, otherwise uncomprehending eyes stare at a world untethered from system.
- 
-## Continuous Light	
-
- _One Use:_ The heart of a dead forge is tossed towards the target. _1/day:_ Some fragment of a sun must be swallowed. 
-
- An area is permanently light by actual sunlight, emanating from a source chosen by the caster. 
-
-## Control Water	
-
-_One Use:_ The true name of the body of water must be invoked. Being transient, the name will change each time. 
-
- Water may be commanded to allow passage through it or to rise up and flood an area.
+Можно приказать воде пропустить идущих через неё или подняться и затопить область.
 
 ## Control Weather	
 
@@ -136,21 +137,23 @@ _One Use:_ Flesh for flesh - a bath of blood.
 
  Every 1HD of creature blood spilled heals 1HP. Can be used by multiple people.
 
-## Curse
+## Проклятие
 
-_One Use:_ Release a dirge on a horn wrenched from the skull of a 6HD or less Demon. _1/day:_ Release a dirge on a horn wrenched from the skull of 7HD or more Demon. The enemies of the caster are subject to a penalty of -1 to Hit and to Morale for 6 Turns.
+_Одно применение:_ сыграйте погребальную песнь на роге, вырванном из черепа демона с 6 КЗ или менее. _1/день:_ сыграйте погребальную песнь на роге, вырванном из черепа демона с 7 КЗ или более. Враги заклинателя получают штраф -1 на попадание и боевой дух на 6 ходов.
 
 \newpage
 
-## Darkness 
+## Тьма 
 
-_One Use:_ Burst the eye of a mother fox or bat. Fling the pulp. _1/day:_ Make a home for darkness in your chest cavity - a glazed clay sphere, inserted surgically. Alternatively, find some Talking Darkness and strike a deal. Total darkness suffuses an area, out to the distance a torch would illuminate. No light may pierce such magical darkness. Lasts 24 hours.
+_Одно применение:_ лопните глаз матери-лисы или летучей мыши. Бросьте мякоть. _1/день:_ создайте дом для темноты в своей грудной полости — глазурованную глиняную сферу, вставленную хирургическим путём. В качестве альтернативы, найдите какую-нибудь говорящую тьму и заключите с ней сделку.
 
-## Detect Invisibility	
+Кромешная тьма заполняет область, на расстоянии, которое мог бы осветить факел. Никакой свет не может пронзить такую волшебную тьму. Длится 24 часа.
 
-_One Use:_ Three drops of fluid left by ghost in each eye. _1/day:_ Replacing an eye with a huge pearl.
+## Обнаружить невидимость
 
- The caster can always see _Invisible_ creatures. 
+_Одно применение:_ по три капли в каждый глаз той жидкости, что оставил призрак. _1/день:_ замена глаза огромной жемчужиной.
+
+Заклинатель может видеть невидимых существ. 
  
 ## Detect Magic	
 
