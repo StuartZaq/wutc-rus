@@ -445,39 +445,37 @@ _Одно применение:_ глаз ведьмы, надутый как в
 
 Действует как отдельный третий глаз, которым заклинатель может видеть на любом расстоянии. Он невидим и движется по воздуху со скоростью идущего человека. Он существует 6 ходов.
 
-# Warding 
+# Отражение 
 
-The base Warding save represents an innate protection against ill magics. These are supplemented with the use of protective charms. 
+Базовый спасбросок отражения представляет собой врождённую защиту от злой магии. Его можно дополнить с помощью защитных амулетов. 
 
-Unless noted otherwise, a character may only benefit from one such charm a day although many may be carried. Uses involving the application of a charm after the fact do not count for this limit. (_Ex: A character may be daubed in the blood of a Bear and
-re-roll a save using an unguent of Betony. They would not benefit
-from the blood of a bear and wearing a garland of Betony._)
+Если иное не указано, персонажу может помогать только один такой амулет в течение дня, хотя он может носить несколько. Использование амулетов после применения заклинания не подпадает под это ограничение. (_Пример: персонаж может быть вымазан кровью медведя и повторно пройти спасбросок, используя мазь из Буквицы. Одновременное ношение на себе крови медведя и гирлянды из Буквицы по принесло бы им дополнительной пользы._)
 
-_Plants are only effective for 2 weeks after being picked unless specifically turned to a power or unguent as per the description._
+_ Растения эффективны только в течение 2 недель после сбора, если специально не использовать их в качестве мазей или не черпать из них силу в соответствии с описанием._
 
-## Blood
+## Кровь
 
-The stuff of life, and charged with energy.
+Жизненный материал, заряженный энергией.
 
-**Bear** - The blood of a bear, worn as a second skin, forgoes fear and domination. +4 Warding vs Mind-Altering spells.
+**Волк** - Drinking deeply of wolf-blood with companions creates a bond against enchantment. +1 Warding per companion also drinking of wolf-blood to a maximum of +5.
 
-**Bird** - The blood of a bird smeared over the face guarantees freedom from magical chains and bindings. +6 Warding vs Mobility-reducing effects.
+**Кит** - The blood of the deep, rich in evil and malice, drunk til the belly rejects it and vomits it back out as pink foam. +4 Warding.
 
-**Cat** - Taken from a black cat with nary a speck of white, and daubed at the arm-pits, groin and neck, a counter-charm. +2 Warding.
+**Кошка** - Taken from a black cat with nary a speck of white, and daubed at the arm-pits, groin and neck, a counter-charm. +2 Warding.
 
-**Child** - An extreme rite reserved by the Druids. The life of one for the protection of another. +6 Warding. 
+**Лошадь** - A bath of horse-blood marks a warrior as ready to die by weapons, not sorcery. +3 Warding vs mortal magic users. 
 
-**Dog** - Douse the hands and lips in the blood of a hound and know your form and freedom. +3 Warding vs Body-Affecting spells.
+**Медведь** - The blood of a bear, worn as a second skin, forgoes fear and domination. +4 Warding vs Mind-Altering spells.
 
-**Fish** - The alien blood of fish, rubbed into the scalp, confuses and repels the spirits of the land. +2 Warding vs land-bound spirits.
+**Птица** - The blood of a bird smeared over the face guarantees freedom from magical chains and bindings. +6 Warding vs Mobility-reducing effects.
 
-**Horse** - A bath of horse-blood marks a warrior as ready to die by weapons, not sorcery. +3 Warding vs mortal magic users. 
+**Ребёнок** - An extreme rite reserved by the Druids. The life of one for the protection of another. +6 Warding. 
 
-**Whale** - The blood of the deep, rich in evil and malice, drunk til the belly rejects it and vomits it back out as pink foam. +4 Warding.
+**Рыба** - The alien blood of fish, rubbed into the scalp, confuses and repels the spirits of the land. +2 Warding vs land-bound spirits.
 
-**Wolf** - Drinking deeply of wolf-blood with companions creates a bond against enchantment. +1 Warding per companion also drinking of wolf-blood to a maximum of +5.
+**Собака** - Douse the hands and lips in the blood of a hound and know your form and freedom. +3 Warding vs Body-Affecting spells.
 
-## Betony
+## Буквица
 
 A purple flowering plant. Worn as a garland, it protects against the spirits of the dead. Chewed and eaten at dusk, it protects the imbiber against sorcery until the sun next rises. It can also undo paralytic magics if applied to victims as an unguent. +4 Warding vs Ghosts. +6 Warding vs Spells at night. Re-roll Save against Paralysing magic at +4.
 
