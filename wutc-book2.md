@@ -500,109 +500,108 @@ Flat heavy pebbles painted with the geometric magic of the Pictish druids. Ran a
 
 Цветок из южных краёв, который воняет, как гниющее мясо. Масло, выжатое из мясистых лепестков, защищает от змей и морских чудовищ. Приготовленные листья являются абортивным средством. +5 к Отражению против змеевидных или морских чудовищ. Если лепесток находится на борту корабля, перебросьте первую встречу с речным/морским чудовищем за путешествие.
 
-## Собаки
+## Собаки 
 
 Чего только не было сказано о верных спутниках, чьи чувства простираются за пределы человеческого зрения, человеческого слуха и человеческой чувствительности? Призрачно-белая гончая защищает сердце, рыжая собака --- разум, а собака, воспитанная в церкви, --- душу. +1 к Отражению против эффектов страха. +2 к Отражению против против эффектов, изменяющих сознание. +1 к Отражению. Эти преимущества могут сочетаться с другими амулетами, хотя одновременно может быть полезна лишь одна собака.
 
-## Elecampane 
+## Девясил 
 
-Bright yellow flowers, open to the world and drinking it in. Those in Albann know it as a sign of elves, and leave it well alone. Eaten, others know it to fortify healing magics and protect the lungs. Warding automatically fails vs Elves. +1 to Healing rolls from magical sources. +4 Warding vs Inhaled effects.
+Ярко-жёлтые цветы, открытые миру и впитывающие его в себя. Жители Олбанна знают их как признак эльфов и не обращают на них внимания. Другие же знают, что если их сьесть, можно усилить целебную магию и защитить лёгкие. Отражение автоматически проваливается против эльфов. +1 к броскам исцеления из магических источников. +4 к Отражению против эффектов вдыхания.
 
-## Eye Talismans 
+## Глазные талисманы 
 
-Blue, white and black, the circles ensnare one another and form a mirror for malignant gazes and glares.  +2 Warding vs Gaze-based magic. Successful saves cause the sources to also make a Warding save. 
+Синие, белые и чёрные круги переплетаются друг с другом и образуют зеркало для злобных взглядов. +2 к Отражению против магии, основанной на взгляде. Успешный спасбросок приводит к тому, что источник взгляда также должен пройти спасбросок.
 
-## Faces 
+## Лица 
 
-The face of a monster seen, slain and recreated in paint upon a shield grants +3 Warding against any who have not seen such a creature. This benefit can be concurrent with other charms. 
+Если убидеть лицо монстра, убить его и воссоздать лицо краской на щите, вы получите бонус +3 к спасброскам Отражения против любого, кто не видел такого существа. Это преимущество может сочетаться с другими амулетами.
 
-## Gargoyles 
+## Горгульи 
 
-Leering figures and depictions of evil greater than the terrors that stalk the earth, or so it is hoped.  Supernatural beings make a Morale Check. On failure, bearer takes +3 Warding vs them.
+Злобные фигуры, изображающе зло большее, чем ужасы, которые бродят по земле, во всяком случае на это надеются. Сверхъестественные существа делают проверку Боевого Духа. В случае провала, носитель получает бонус +3 к спасброску Отражения против них.
 
-## Hazel 
+## Лесной орех 
 
-The hazel-tree affords protection to those who shelter beneath her branches. Some small nugget of this is remains within the nuts she spreads upon the ground, which protect against all things that creep upon the earth. +4 Warding for those beneath the branches --- this benefit may be concurrent with other charms. +1 Warding vs all and an additional +3 Warding vs legless beasts.
+Орешник даёт защиту тем, кто укрывается под его ветвями. Немного этой защиты остается и в орехах, которые он рассыпает по земле, и которые защищают от всего, что ползает по земле. +4 к Отражению для тех, кто находится под ветвями --- это преимущество может сочетаться с другими амулетами. +1 к Отражению против всех и дополнительно +3 к Отражению против безногих тварей.
 
-## Hawthorn 
+## Боярышник 
 
-Known for its pungent smell, this stink permeates across realities. This stench unweaves and undoes the magics of the dead. Destroying a Hawthorn is a cursed act. +5 Warding vs Spirits and Undead. -6 Warding for 2 years.
+Известная своим резким запахом, его вонь проникает во все реальности. Это зловоние расплетает и уничтожает магию мёртвых. Уничтожение боярышника --- это проклятое деяние. +5 к Отражению против духов и нежити. -6 к Отражению на 2 года.
 
-## Heather 
+## Вереск 
 
-The highlands of Fortu are purple and white with heather. Ale made of the purple is said to give luck and courage in equal measure. The white, which grows only where no blood has been shed, is said to be a charm against violence when worn. 1 Warding or +2 Warding vs Fear effects. Automatic Save once against damage-dealing magical effect --- but the sprig is destroyed.
+Высокогорья Форту покрыты пурпурным и белым вереском. Говорят, что эль, сделанный из пурпурного вереска в равной мере дарит удачу и мужество. Говорят, что белый вереск растёт только там, где не проливалась кровь и является оберегом от насилия, если его носить. +1 к Отражению или +2 к Отражению против эффектов страха. Один автоматический успех при спасброске против магического эффекта, наносящего урон, --- но веточка разрушается.
 
-## Hellebore 
+## Морозник
 
-Flowers in many colours, none to be trifled with. The black purges the mind and body, explosively. The white numbs pain and distances the imbiber from reality. The green is said to be a cure for sadness, although this is just a cruel joke.  Re-roll Warding vs Mind-Altering effects at +6 --- regardless of success, bed-bound with violent diarrhoea. No effect. Physique save or painful death. 
+Цветы самых разных цветов, ни с одним из которых нельзя шутить. Чёрный взрывоопасно очищает разум и тело. Белый заглушает боль и отдаляет человека от реальности. Говорят, что зеленый --- лекарство от грусти, хотя это всего лишь жестокая шутка. Перебросьте спасбросок Отражения против эффектов, изменяющих сознание, с бонусом +6 --- независимо от успеха, вы будете прикованы к постели с сильной диареей. Никакого эффекта. Спасбросок Стойкости или мучительная смерть.
 
-## Herb Paris 
+## Вороний глаз
 
-A leafy plant producing but one single berry. Crushed and smeared on the brow, it prevents the mind being bewitched. Eaten whole, it is poisonous. +4 Warding vs Mind Altering effects. Physique save or painful death.
+Покрытое листьями растение, дающее всего одну ягоду. Раздавленный и намазанный на лоб, он предотвращает околдовывание ума. Съеденный целиком, он ядовит. +4 к Отражению против эффектов, изменяющих сознание. Спасбросок Стойкости или мучительная смерть.
 
-## Holly 
+## Остролист 
 
-The prickly rich-green leaves of the holly nestle rich red berries in the deepest winter. Wearing the leaves in the hair protects against enchantment. The berries, worn in a bunch, repel lightning. +2 Warding. +6 Warding vs Lightning-based effects.
+Колючие насыщенно-зелёные листья остролиста в самую глубокую зиму укрывают сочные красные ягоды. Ношение листьев в волосах защищает от колдовства. Ягоды, собранные в гроздь, отталкивают молнии. +2 к Отражению. +6 к Отражению против молниевых эффектов.
 
-## Horses 
+## Лошади
 
-The work of an animal does not end in death. The skull of a horse with a name makes for a cumbersome protective charm. If still enrobed in flesh, the head is a dire curse. +3 Warding. 1-in-6 chance of splitting per successful save.
+Работа животного не заканчивается смертью. Череп лошади с именем создаёт громоздкий защитный амулет. Если голова все ещё покрыта плотью, то она является страшным проклятием. +3 к Отражению. С шансом 1 из 6 расколется после успешного спасброска.
 
-## Horseshoes 
+## Подкова
 
-A perennial charm of fortune.  +1 Warding. If purchased for this purpose, no effect --- they must be found, or stolen. 
+Вечный талисман удачи. +1 к Отражению. Если они приобретены для этой цели, никакого эффекта не будет --- они должны быть найдены или украдены.
 
-## Ivy 
+## Плющ 
 
-Creeping vines bind buildings tight and worm through the smallest gaps. Those within are protected from magics flung towards the building. +3 Warding for all inside. This benefit can be concurrent with other charms. 
+Ползучие лианы крепко обвивают здания и проникают в мельчайшие щели. Те, кто находится внутри, защищены от магии, направляемой на здание. +3 к Отражению для всех внутри. Это преимущество может сочетаться с другими амулетами.
 
-## Meullein Candle 
+## Свеча из коровяка
 
-A candle made of these leaves gives a low, guttering flame. Those within the meagre light of such a candle are protected from the machinations and enchantments of witches. +6 Warding vs mortal magic users. 
+Свеча, сделанная из этих листьев, даёт слабое, колеблющееся пламя. Те, кто находится в пределах скудного света такой свечи, защищены от козней и чар ведьм. +6 к Отражению против смертных магов.
 
 \newpage
 
-## Oak 
+## Дуб 
 
-A wood of stout reputation and deep strength. A shield of oak stops magic as well as blades. A pocket of acorns protects against all comers, and a leaf around the neck cuts through illusions.  A shield of oak may be sacrificed to add +6 to a failed Warding save. +1 Warding. +4 Warding vs Illusions. 
+Древесина с надежной репутацией и сильной прочностью. Дубовый щит останавливает магию так же, как и клинки. Карман с желудями защищает от всех пришельцев, а лист на шее разрушает иллюзии. Дубовый щит может быть принесён в жертву, чтобы добавить +6 к неудачному спасброску Отражения. +1 к Отражению. +4 к Отражению против иллюзий.
 
-## Penises 
+## Члены 
 
-Invaders from the south bore charms of winged penises --- the laughter they caused said to distract malign forces.  +1 Warding. +2 Warding if a ribald joke is made using the charm. 
+Захватчики с юга носили амулеты в виде крылатых пенисов --- говорили, что смех, который они вызывали, отвлекал злые силы. +1 к Отражению. +2 к Отражению, если во время использования амулета была произнесена непристойная шутка.
 
-## Pocket Figures 
+## Карманные фигурки 
 
-Carved figures of saints, gods and heroes are widespread and multivarious. Each has a story, and are said to protect from that which they overcame.  Heroes and Saints grant +2 Warding against that which they overcame in their stories. Gods grant +1 Warding against things within their dominion, and against anything they opposed. 
+Резные фигуры святых, богов и героев широко распространены и разнообразны. У каждого из них есть своя история, и говорят, что они защищают от того, что они преодолели. Герои и Святые дают +2 к Отражению против того, что они преодолели в своих историях. Боги даруют +1 к Отражению против вещей, находящихся в пределах их владений, и от всего, чему они противостояли.
 
-## Rosemary 
+## Розмарин  
 
-Blue flowers and green-needles sprout from this storied plant. A garland of flowers worn or a twig carried protects against invisible things. +4 Warding vs Spirits and incorporeal beings.
+Голубые цветы и зелёная хвоя произрастают из этого легендарного растения. Надетая гирлянда из цветов или веточка, которую носят с собой, защищает от невидимых предметов. +4 к Отражению против духов и бестелесных существ.
 
-## Rowan 
+## Рябина 
 
-The orange-red berries of the rowan are each marked with a five-pointed star --- an indicator of their potency. Ground to a paste and smeared on a shield, they protect the wielder. +4 Warding til the paste dries entirely (~2 Hours).
+Оранжево-красные ягоды рябины помечены пятиконечной звездой --- показателем их полезности. Измельчённые в пасту и намазанные на щит, они защищают владельца. +4 к Отражению, пока паста полностью не высохнет (~2 часа).
 
-## Rue 
+## Рута 
 
-Blue-green leaves also known as witchbane, and for good reason. A bundle of leaves can be burnt, those inhaling the smoke protected against magic.  +3 Warding vs mortal magic users. Those breathing this smoke are unable to cast spells. Lasts 4 hours. 
+Сине-зелёные листья также известны как ведьмина отрава, и на то есть веская причина. Пучок листьев можно сжечь, и те, кто вдыхает дым, защищены от магии. +3 к Отражению против смертных магов. Те, кто дышит этим дымом, не могут творить заклинания. Длится 4 часа.
 
-## Sulphur 
+## Сера 
 
-A mineral eager to burn and release it's terrible stink, all those breathing in the pungent smoke fall to retching but are purified of foul enchantment.  Re-roll Warding at +6. Physique save to not lose d6 rounds to vomiting. 
+Минерал жаждет сгореть и испускает ужасную вонь, всех, кто вдыхает едкий дым, начинает тошнить, но они очищаются от скверных чар. Перебросьте спасбросок Отражения с бонусом +6. Сделайте спасбросок Стойкости, чтобы не пропустить к6 раундов из-за рвоты.
 
-## Verbena 
+## Вербена 
 
-The purple flowers of the Verbena, worn in a pocket, distract malign forces.  +3 Warding. After a single successful save, the flower withers and becomes useless. 
+Пурпурные цветы вербены, которые носят в кармане, отвлекают злые силы. +3 к Отражению. После одного успешного спасброска цветок увядает и становится бесполезным.
 
-## Writing 
+## Письмена 
 
-The written word, whether latin script or ancient runes, has a magic of its own and can protect against other forms. Markings in common materials give +1 Warding against exactly what they describe. Markings in sea-beast ink and monster-blood taken from a 5HD+ creature grant +2 Warding against a category of threat. Runes in crushed diamond mixed with royal blood may grant +3 Warding forever more, power condensed into a single phrase or marking. Sea-beast ink and monster-blood may be used to create tattoos, which grant +1 Warding permanently. This benefit can be concurrent with other charms. Up to two such tattoos may be worn, but the second must be sourced from a higher HD creature than the first.
+Написанное слово, будь то латинский шрифт или древние руны, обладает собственной магией и может защитить от других форм. Надпись на обычных материалах даёт +1 к Отражению именно от того, что они описывают. Отметки чернилами морского зверя и кровью монстра взятые у существа с КЗ 5+ даруют +2 к Отражению против определённой категории угрозы. Руны из измельчённого алмаза, смешанные с королевской кровью, могут даровать +3 к Отражению навсегда, сила концентрируется в одной фразе или надписи. Чернила морского зверя и кровь монстра могут быть использованы для создания татуировок, которые постоянно дают +1 к Отражению. Это преимущество может сочетаться с другими амулетами. Можно носить до двух таких татуировок, но вторая должна быть сделана из существа с более высоким КЗ, чем первая.
 
-## Yarrow 
+## Тысячелистник 
 
-White and lilac flowers, pounded to a poultice and spread upon the back, are said to instill bravery enough to face down the unworldly.  +6 Warding vs Fear effects. 
+Считается, что белые и сиреневые цветы, растёртые в виде припарки и нанесённые на спину, придают храбрости, достаточной для того, чтобы противостоять всему, что не от мира сего. +6 к Отражению против эффекта страха.
 
-## Yew 
+## Тис 
 
-Another storied tree, the berries used to avoid capture --- the eaters escaping into death. It has authority over the dead, and demands they remain asleep. Shields of yew carry this charm with them. +4 Warding vs effects from the undead beneath a Yew tree. +3 Warding for a yew-shield bearer. 
-
+Еще одно легендарное дерево, ягоды которого использовались, чтобы избежать поимки --- сьевшие их сбегали навстречу смерти. Оно имеет власть над мёртвыми и требует, чтобы они оставались спящими. Щиты из тиса несут в себе этот заговор. +4 к Отражению против эффектов от нежити под тисовым деревом. +3 к Отражению для носителя тисового щита.
