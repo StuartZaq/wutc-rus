@@ -457,23 +457,23 @@ _ Растения эффективны только в течение 2 нед�
 
 Жизненный материал, заряженный энергией.
 
-**Волк** - Drinking deeply of wolf-blood with companions creates a bond against enchantment. +1 Warding per companion also drinking of wolf-blood to a maximum of +5.
+**Волк** --- Обильное питьё волчьей крови с компаньонами создаёт связь, защищающую от чар. +1 к Отражению за каждого компаньона, пьющего волчью кровь вместе с вами, до максимум +5.
 
-**Кит** - The blood of the deep, rich in evil and malice, drunk til the belly rejects it and vomits it back out as pink foam. +4 Warding.
+**Кит** --- Кровь глубины, богатая злом и пороком, пьётся до тех пор, пока желудок не отвергнет её и не вырвет обратно в виде розовой пены. +4 к Отражению.
 
-**Кошка** - Taken from a black cat with nary a speck of white, and daubed at the arm-pits, groin and neck, a counter-charm. +2 Warding.
+**Кошка** --- Взятая у чёрной кошки без единого белого пятнышка и намазанная в подмышечные впадины, в паху и на шее --- работает как контрзаклинание. +2 к Отражению.
 
-**Лошадь** - A bath of horse-blood marks a warrior as ready to die by weapons, not sorcery. +3 Warding vs mortal magic users. 
+**Лошадь** --- Ванна с лошадиной кровью свидетельствует о том, что воин готов умереть от оружия, а не от колдовства. +3 к Отражению против смертных магов.
 
-**Медведь** - The blood of a bear, worn as a second skin, forgoes fear and domination. +4 Warding vs Mind-Altering spells.
+**Медведь** --- Кровь медведя, которую носят как вторую кожу, избавляет от страха и доминирования. +4 к Отражению против заклинаний, изменяющих сознание.
 
-**Птица** - The blood of a bird smeared over the face guarantees freedom from magical chains and bindings. +6 Warding vs Mobility-reducing effects.
+**Птица** --- Кровь птицы, размазанная по лицу, гарантирует свободу от магических цепей и оков. +6 к Отражению против эффектов снижающих мобильность.
 
-**Ребёнок** - An extreme rite reserved by the Druids. The life of one for the protection of another. +6 Warding. 
+**Ребёнок** --- Экстремальный обряд, хранимый друидами. Жизнь одного ради защиты другого. +6 к Отражению.
 
-**Рыба** - The alien blood of fish, rubbed into the scalp, confuses and repels the spirits of the land. +2 Warding vs land-bound spirits.
+**Рыба** --- Чужеродная рыбья кровь, втираемая в кожу головы, сбивает с толку и отталкивает духов земли. +2 к Отражению против духов, привязанных к суше.
 
-**Собака** - Douse the hands and lips in the blood of a hound and know your form and freedom. +3 Warding vs Body-Affecting spells.
+**Собака** --- Обмакни руки и губы в кровь гончей и познай свою форму и свободу. +3 к Отражению против заклинаний, воздействующих на тело.
 
 ## Буквица
 
@@ -521,7 +521,7 @@ Leering figures and depictions of evil greater than the terrors that stalk the e
 
 ## Hazel 
 
-The hazel-tree affords protection to those who shelter beneath her branches. Some small nugget of this is remains within the nuts she spreads upon the ground, which protect against all things that creep upon the earth. +4 Warding for those beneath the branches - this benefit may be concurrent with other charms. +1 Warding vs all and an additional +3 Warding vs legless beasts.
+The hazel-tree affords protection to those who shelter beneath her branches. Some small nugget of this is remains within the nuts she spreads upon the ground, which protect against all things that creep upon the earth. +4 Warding for those beneath the branches --- this benefit may be concurrent with other charms. +1 Warding vs all and an additional +3 Warding vs legless beasts.
 
 ## Hawthorn 
 
@@ -529,11 +529,11 @@ Known for its pungent smell, this stink permeates across realities. This stench 
 
 ## Heather 
 
-The highlands of Fortu are purple and white with heather. Ale made of the purple is said to give luck and courage in equal measure. The white, which grows only where no blood has been shed, is said to be a charm against violence when worn. 1 Warding or +2 Warding vs Fear effects. Automatic Save once against damage-dealing magical effect - but the sprig is destroyed.
+The highlands of Fortu are purple and white with heather. Ale made of the purple is said to give luck and courage in equal measure. The white, which grows only where no blood has been shed, is said to be a charm against violence when worn. 1 Warding or +2 Warding vs Fear effects. Automatic Save once against damage-dealing magical effect --- but the sprig is destroyed.
 
 ## Hellebore 
 
-Flowers in many colours, none to be trifled with. The black purges the mind and body, explosively. The white numbs pain and distances the imbiber from reality. The green is said to be a cure for sadness, although this is just a cruel joke.  Re-roll Warding vs Mind-Altering effects at +6 - regardless of success, bed-bound with violent diarrhoea. No effect. Physique save or painful death. 
+Flowers in many colours, none to be trifled with. The black purges the mind and body, explosively. The white numbs pain and distances the imbiber from reality. The green is said to be a cure for sadness, although this is just a cruel joke.  Re-roll Warding vs Mind-Altering effects at +6 --- regardless of success, bed-bound with violent diarrhoea. No effect. Physique save or painful death. 
 
 ## Herb Paris 
 
@@ -549,7 +549,7 @@ The work of an animal does not end in death. The skull of a horse with a name ma
 
 ## Horseshoes 
 
-A perennial charm of fortune.  +1 Warding. If purchased for this purpose, no effect - they must be found, or stolen. 
+A perennial charm of fortune.  +1 Warding. If purchased for this purpose, no effect --- they must be found, or stolen. 
 
 ## Ivy 
 
@@ -567,7 +567,7 @@ A wood of stout reputation and deep strength. A shield of oak stops magic as wel
 
 ## Penises 
 
-Invaders from the south bore charms of winged penises - the laughter they caused said to distract malign forces.  +1 Warding. +2 Warding if a ribald joke is made using the charm. 
+Invaders from the south bore charms of winged penises --- the laughter they caused said to distract malign forces.  +1 Warding. +2 Warding if a ribald joke is made using the charm. 
 
 ## Pocket Figures 
 
@@ -579,7 +579,7 @@ Blue flowers and green-needles sprout from this storied plant. A garland of flow
 
 ## Rowan 
 
-The orange-red berries of the rowan are each marked with a five-pointed star - an indicator of their potency. Ground to a paste and smeared on a shield, they protect the wielder. +4 Warding til the paste dries entirely (~2 Hours).
+The orange-red berries of the rowan are each marked with a five-pointed star --- an indicator of their potency. Ground to a paste and smeared on a shield, they protect the wielder. +4 Warding til the paste dries entirely (~2 Hours).
 
 ## Rue 
 
@@ -603,5 +603,5 @@ White and lilac flowers, pounded to a poultice and spread upon the back, are sai
 
 ## Yew 
 
-Another storied tree, the berries used to avoid capture - the eaters escaping into death. It has authority over the dead, and demands they remain asleep. Shields of yew carry this charm with them. +4 Warding vs effects from the undead beneath a Yew tree. +3 Warding for a yew-shield bearer. 
+Another storied tree, the berries used to avoid capture --- the eaters escaping into death. It has authority over the dead, and demands they remain asleep. Shields of yew carry this charm with them. +4 Warding vs effects from the undead beneath a Yew tree. +3 Warding for a yew-shield bearer. 
 
