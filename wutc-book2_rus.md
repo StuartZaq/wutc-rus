@@ -647,16 +647,16 @@ _Растения эффективны только в течение 2 неде
 
 \newpage 
 
-# Appendix 1: Turn Undead
+# Приложение 1: Обращение нежити
 
-The unhappy dead forced to walk each respond to different banishment rituals, depending upon their faith in life. The teaching of such rites is often restricted to the upper echelons of the faiths - or their agents. Turned undead flee the area, making no attacks.
+Несчастные мертвецы, которых вынудили вновь ходить по земле, могут быть изгнаны разными ритуалами, но в зависимости от их веры при жизни. Учения таким обрядам часто доступно лишь высшим эшелонам конфессий или их проповедникам. Обращённая нежить сбегает, ни на кого не нападая.
 
-Christian and Muslim dead resist turning. They were raised early, their covenant broken. All they desire is revenge upon the cruel world. A holy symbol of silver may drive them back, although they make a Warding Save to resist. Each makes this save individually, and those passing are immune to further attempts.
+Мёртвые христиане и мусульмане сопротивляются обращению. Их подняли совсем недавно, их заветы были нарушены. Всё, чего они желают, --- это отомстить жестокому миру. Священный символ из серебра может отбросить их назад, впрочем, они будут сопротивляться, делая спасброски отражения. Каждый кидает спасбросок индивидуально, и те, кто проходит его, невосприимчивы к дальнейшим попыткам.
 
-The Druidic dead are turned by the flinging of earth gathered from the roots of an oak tree. 2d6HD of undead are driven back per round.
+Друидических мертвецов можно обратить, бросив в них землю, собранную с корней дуба. Каждый раунд можно отбросить 2к6 КЗ нежити.
 
-The dead of the ancient Norse are turned through recitation of deeds - for each successful Boast recounted, 1d6 of undead are turned. 
+Мертвецов древних скандинавов можно обратить посредством перечисления ваших деяний --- за каждое успешное хвастовство, рассказанное вслух, обращается 1к6 нежити.
 
-The dead of Noos are turned with sea-water, becoming calm and still when doused with a cups worth.
+Мертвецы Нуса обращаются с помощью морской воды, становясь спокойными и неподвижными, стоит плеснуть на них хотя бы чашку воды.
 
-The dead of the Marches do not attack those reciting the names and lineages of Belgic ancestors. Many has pass-phrases woven into them as part of their raising process.
+Мертвецы Пограничья не нападают на тех, кто произносит имена и родословные бельгийских предков. Во многих вплетены кодовые фразы, бывшие частью процесса их поднятия.
