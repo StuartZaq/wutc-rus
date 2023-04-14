@@ -1,10 +1,14 @@
 ---
 title: Волки на побережье
 subtitle: Книга 1 --- Правила
-author: Люк Гиринг
+author:
+- name: Люк Гиринг
+  affiliation: автор
+- name: Сергей Померанцев
+  affiliation: переводчик
+date: "`r Sys.Date()`"
 mainfont: Vollkorn 
-geometry: margin=1in
-papersize: b5
+papersize: a5
 ---
 
 Вашего прошлого больше нет. Его отняли у вас, либо вы были вынуты из гущи событий.  
