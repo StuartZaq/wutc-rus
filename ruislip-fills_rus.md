@@ -1,10 +1,10 @@
 ---
-title: Ruislip & Surrounds 
-author: Luke Gearing
-mainfont: Vollkorn
-geometry:
-	margin=1in
+title: Райслип и окрестности 
+author: Люк Гиринг
+date: \today
+mainfont: Vollkorn 
 papersize: b5
+geometry: margin=1in
 ---
 
 Maps by Roz Leahy
@@ -30,9 +30,9 @@ After this, roll 1d6, and:
 | 0| Hot.
 | 1| Warm.
 | 2| Overcast.
-| 3-4| Fog.
+| 3--4| Fog.
 | 5| Light Rain. 
-| 6-7| Heavy rain.
+| 6--7| Heavy rain.
 | 8| Storm. 
 
 Rain and Storms have a 5% chance of being Snow. Consecutive results continue to be Snow.
@@ -45,18 +45,18 @@ Do not roll encounters for Island hexes.
 
 | 1d100 | Encounter | 
 | --- | --------|
-| 1-5 | 2d20 Bandits. 
-| 6-10 | 1 Druid and 1d20 Fanatics.
-| 11-13 | 1 Priest and 1d20 Faithful. 
-| 14-16 | Merchant carriage and 2d6 Guards. 
-| 17-18 | Herd of Deer, 2-in-6 stalked by 3d6 hungry Wolves. 
-| 19-20 | 1d100 livestock, 1 herdsman per 20.
-| 21-24 | Conflict - roll a d20 for each side. 
-| 25-30 | Corpse - roll d20 to determine origin.
-| 31-50 | [If within 3 hexes of 03.07] The Ogre from 03.07.
-| 51-70 | [If Adjacent to 01.09] The Manticore from 01.09.
-| 71-80 | [If in Northern Ruislip] The Griffon from 05.05.
-| 81-90 | [If Night] 2d20 Orcs from 03.11.
+| 1--5 | 2d20 Bandits. 
+| 6--10 | 1 Druid and 1d20 Fanatics.
+| 11--13 | 1 Priest and 1d20 Faithful. 
+| 14--16 | Merchant carriage and 2d6 Guards. 
+| 17--18 | Herd of Deer, 2-in-6 stalked by 3d6 hungry Wolves. 
+| 19--20 | 1d100 livestock, 1 herdsman per 20.
+| 21--24 | Conflict - roll a d20 for each side. 
+| 25--30 | Corpse - roll d20 to determine origin.
+| 31--50 | [If within 3 hexes of 03.07] The Ogre from 03.07.
+| 51--70 | [If Adjacent to 01.09] The Manticore from 01.09.
+| 71--80 | [If in Northern Ruislip] The Griffon from 05.05.
+| 81--90 | [If Night] 2d20 Orcs from 03.11.
 | 91 +  | No Encounter.
 
 \newpage
