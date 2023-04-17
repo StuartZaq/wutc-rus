@@ -37,31 +37,31 @@ geometry: margin=1in
 
 Есть 5% вероятность того, что дождь и буря будут снежными. Последующие результаты по-прежнему остаются снежными.
 
-# Encounters 
+# Столкновения 
 
-Every 12 hours, an Encounter roll should be made. Use the location to determine goals as needed - most do not wander aimlessly. If an entry does not appear in _Volume 2: Monsters &_, use statistics for Bandits.
+Каждые 12 часов необходимо делать проверку на столкновение. Используйте местоположение персонажей для определения целей встреченных монстров --- большинство из них не блуждают бесцельно. Если в в _Том 2: Монстры &_ необходимого монстра нет, используйте характеристики бандитов.
 
-Do not roll encounters for Island hexes.
+Не делайте проверку на столкновение для островных гексов.
 
-| 1d100 | Encounter | 
-| --- | --------|
-| 1--5 | 2d20 Bandits. 
-| 6--10 | 1 Druid and 1d20 Fanatics.
-| 11--13 | 1 Priest and 1d20 Faithful. 
-| 14--16 | Merchant carriage and 2d6 Guards. 
-| 17--18 | Herd of Deer, 2-in-6 stalked by 3d6 hungry Wolves. 
-| 19--20 | 1d100 livestock, 1 herdsman per 20.
-| 21--24 | Conflict - roll a d20 for each side. 
-| 25--30 | Corpse - roll d20 to determine origin.
-| 31--50 | [If within 3 hexes of 03.07] The Ogre from 03.07.
-| 51--70 | [If Adjacent to 01.09] The Manticore from 01.09.
-| 71--80 | [If in Northern Ruislip] The Griffon from 05.05.
-| 81--90 | [If Night] 2d20 Orcs from 03.11.
-| 91 +  | No Encounter.
+| 1к100  | Столкновение | 
+| ------ | --------|
+| 1--5   | 2к20 бандитов. 
+| 6--10  | 1 друид и 1к20 фанатиков.
+| 11--13 | 1 священник и 1к20 верующих. 
+| 14--16 | Торговая повозка и 2к6 охранников. 
+| 17--18 | Стадо оленей, с шансом 2 из 6 преследуемое 3к6 голодными волками. 
+| 19--20 | 1к100 голов скота, 1 пастух на каждые 20.
+| 21--24 | Конфликт --- киньте к20 для каждой из сторон. 
+| 25--30 | Труп - киньте к20, чтобы определить, чей он.
+| 31--50 | [Если в пределах 3 гексов от 03.07] огр из 03.07.
+| 51--70 | [Если рядом с 01.09] мантикора из 01.09.
+| 71--80 | [Если в Северном Райслипе] грифон из 05.05.
+| 81--90 | [Ночью] 2к20 орков из 03.11.
+| 91 +   | Без столкновений.
 
 \newpage
 
-# Ruislip Islands 
+# Острова Райслипа 
 
 ## 02.05 Dunrick
 
