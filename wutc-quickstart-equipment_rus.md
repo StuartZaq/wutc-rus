@@ -1,89 +1,91 @@
 ---
-title: Wolves Upon the Coast Equipment Packages
-mainfont: Vollkorn
-geometry:
-	margin=1in
+title: Волки на побережье
+subtitle: Наборы экипировки
+author: Люк Гиринг
+date: \today
+mainfont: Vollkorn 
 papersize: b5
+geometry: margin=1in
 ---
+
 \twocolumn
 
+## Всё необходимое, стоимость: 21 см
 
-## Essentials, Cost: 21sp
+- Кинжал 
+- Рюкзак
+- Шест, 10'
+- Рацион, походный на день
+- Факелы
 
-- Dagger 
-- Backpack
-- Pole, 10'
-- Ration, Dry Day
-- Torches
+## Квартирмейстер, стоимость: 47 см
 
-## Quartermaster, Cost: 47sp
+- Посох
+- Ослы (2)
+- Сокол
+- Овцы (3)
 
-- Quarterstaff
-- Donkeys (2)
-- Hawk
-- Sheep (3)
+## Ловец преступников, стоимость: 48 см
 
-## Outlaw Catcher, Cost: 48sp
+- Лёгкий доспех
+- Короткий меч
+- Сети (2)
+- Ловушки (5)
 
-- Light Armour
-- Short Sword
-- Nets (2)
-- Snares (5)
+## Пехотинец, стоимость: 50 см
 
-## Footman, Cost: 50sp
+- Лёгкий доспех
+- Щит
+- Боевой топор 
+- Дротики (2)
 
-- Light Armour
-- Shield
-- Battle Axe 
-- Javelins (2)
+## Хозяин гончих, стоимость: 50 см
 
-## Houndsman, Cost: 50sp
+- Щит
+- Праща
+- Памни для пращи (20)
+- Собаки (2)
 
-- Shield
-- Sling
-- Sling Bullets (20)
-- Dogs (2)
+## Застрельщик, стоимость: 60 см
 
-## Skirmisher, Cost: 60sp
+- Боевой топор
+- Щит 
+- Дротики (2)
+- Копьё
+- Рюкзак
+- Факелы (6)
+- Верёвка, 50' пеньковая
 
-- Light Armour
-- Shield 
-- Javelins (2)
-- Spear
-- Backpack
-- Torches (6)
-- Rope, 50' Hemp
+## Охотник, стоимость: 60 см
 
-## Hunter, Cost: 60sp
+- Длинный лук
+- Стрелы (15)
+- Рюкзак
+- Кремень и огниво 
+- Ловушки (5)
 
-- Longbow
-- Arrows (15)
-- Backpack
-- Flint & Steel 
-- Snares (5)
+## Осквернитель могил, стоимость: 92 см
 
-## Grave-Defiler, Cost: 92sp
+- Ручной топорик
+- Рюкзак
+- Бутылка
+- Свечи, жир (3)
+- Лом 
+- Игральные кости
+- Кремень и огниво 
+- Крюк-кошка
+- Молоток и деревянные колья 	
+- Фонарь, бычий глаз
+- Зеркало, маленькое металлическое
+- Масло, пинта в колбе
+- Шест, 10'
+- Верёвка, 50' пеньковая
+- Лопата, деревянная
+- Железный шип (3)
 
-- Hand-Axe
-- Backpack
-- Bottle
-- Candle, Tallow (3)
-- Crowbar 
-- Dice
-- Flint & Steel
-- Grappling Hook
-- Hammer & Wooden Stakes
-- Lantern, Bullseye
-- Mirror, Small Metal
-- Oil, Pint Flask
-- Pole, 10'
-- Rope, 50' Hemp
-- Shovel, Wooden
-- Iron Spike (3)
+## Тяжёлый пехотинец, стоимость: 110 см
 
-## Armoured Footman, Cost: 110sp
-
-- Medium Armour
-- Shield
-- Battle Axe
-- Javelins (2)
+- Средний доспех
+- Щит
+- Боевой топор
+- Дротики (2)
