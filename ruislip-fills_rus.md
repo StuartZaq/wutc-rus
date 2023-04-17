@@ -65,27 +65,27 @@ geometry: margin=1in
 
 ## 02.05 Данрик
 
-This small isle is thick with hypertrophied vegetable growth. The plants lean eagerly towards Ruislip, leaves extended like fingers. 
+Этот островок густо зарос гипертрофированной растительностью. Растения жадно тянутся к Райслипу, листья вытянуты, как пальцы.
 
-Those sleeping here are strangled in the night by the plants, loving coils around necks. In the years to come, they awake as if from a dream, skin of bark, legs all root and leaves fat and green. 
+Тех, кто спит здесь, растения душат ночью, обвивая шеи нежными кольцами. В последующие годы они пробуждаются, словно ото сна, их кожа словно кора, ноги сплошь покрыты корнями, а листья толстые и зелёные.
 
 ## 05.05 Отмель
 
-An inhospitable spit of land rearing up from the ocean. Rocks jut like spears. Clambering to the top without tools is likely to result in death upon the rocks.
+Негостеприимная береговая коса, вздымающаяся из океана. Камни точно копья. Карабкание на вершину без вспомогательных инструментов, скорее всего, приведёт к гибели на камнях.
 
-At the top is the Griffon nest. Five chicks squawk hungrily. They each have 1HD. Killing them will drive the Griffon to rampage across Ruislip, seeking the murderers.
+На вершине находится гнездо грифона. Пять цыплят жадно пищат. 1 КЗ у каждого. Их убийство заставит Грифона бесчинствовать по всему Райслипу в поисках убийц.
 
-There is a 20% chance it is in it's lair - otherwise returning on a 2-in-6 per Turn. It will be seen coming 1 Turn away, unless weather is poor. 
+Вероятность того, что он находится в своём логове, составляет 20% --- в противном случае он возвращается с шансом 2 из 6 каждый ход. Его можно будет увидеть за 1 ход до сближения, если только погода не будет плохой.
 
 ## Остров Кинди
 
-### 01.16 Burnt Village 
+### 01.16 Сожженная деревня
 
-Devastation marks this area. Lifeless blackened ruins, consumed utterly by flame. Gouges as deep as plough-lines in the remaining stone - as if something terrible dug here. No bodies, no bones, no life. Just devastation, untouched by the years. 
+Эта область была просто опустошена. Безжизненные почерневшие руины, разорённые огнём. Выбоины, глубокие, как борозды плуга, в оставшемся камне --- как будто здесь копалось что-то ужасное. Ни тел, ни костей, ни жизни. Лишь опустошение, не тронутое годами.
 
 ### 02.16 Логово Шруткина
 
-A huge dome of earth, grass and shrubs grown atop it. Breathing can be heard within - the slumber of Sruthkin, a Dragon. Atop the hoard of his slain raider kin he dreams, scales iron and bronze. If anyone carrying more than 200sp enters, he will awaken. Otherwise, only violence or disturbing the hoard will awaken him.
+Огромный купол из земли, травы и кустарников, выросших на его вершине. Внутри слышно дыхание --- это спит Шруткин, дракон. Поверх сокровищ своих убитых сородичей-налетчиков он видит сны, покрытый чешуёй из железа и бронзы. Если войдет кто-то, имеющий при себе более 200 см, он проснется. В противном случае его разбудит только насилие или потревоженные сокровища.
 
 The hoard is magnificent (Monstrous V):
 
@@ -100,9 +100,9 @@ The hoard is magnificent (Monstrous V):
 
 \newpage
 
-# Ruislip
+# Райслип
 
-### 03.07 Ogre House 
+### 03.07 Дом огра
 
 A drystone house, chaotically expanded and repaired into a near labyrinth, hides between two low hills. Heaps of bones, driftwood, and flowers are all around it. Within can be heard heavy footsteps and a low, continuous monologue. The words are indistinct. An Ogre dwells within. He wishes to possess all bones - flaccid carcasses are strewn within. Rats sneak into his bone-hoard at night. This enrages him. He is attuned to all sounds in the house, and stalks intruders cautiously.
 
