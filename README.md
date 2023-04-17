@@ -1,10 +1,16 @@
 # Волки на побережье
 
-!! добавить инфо о релизе (март) и ссылки на оригиналы. 
+This is a translation of release-march version of files found on itch.
+
+Это перевод мартовских версий файлов с itch.
 
 ## Wolves Upon the Coast, Russian translation of the rules
 
-Translation of the book of rules and translation of the book of magic for "Wolves Upon the Coast".
+https://lukegearing.blot.im/wolves-upon-the-coast
+
+https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
+
+Russian translation of the **book of rules** and the **book of magic** for "Wolves Upon the Coast".
 
 PDFs are made from .md files with terminal commands:
 
@@ -26,7 +32,11 @@ PDFs are made from .md files with terminal commands:
 
 ## Wolves Upon the Coast, перевод правил на русский язык
 
-Перевод книги правил и перевод книги магии для "Волков на побережье".
+https://lukegearing.blot.im/wolves-upon-the-coast
+
+https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
+
+Перевод на русский язык **книги правил** и **книги магии** для "Волков на побережье".
 
 ПДФки сделаны из .md файлов с помощью терминала и команд:
 
