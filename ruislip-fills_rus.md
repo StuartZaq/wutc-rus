@@ -63,13 +63,13 @@ geometry: margin=1in
 
 # Острова Райслипа 
 
-## 02.05 Dunrick
+## 02.05 Данрик
 
 This small isle is thick with hypertrophied vegetable growth. The plants lean eagerly towards Ruislip, leaves extended like fingers. 
 
 Those sleeping here are strangled in the night by the plants, loving coils around necks. In the years to come, they awake as if from a dream, skin of bark, legs all root and leaves fat and green. 
 
-## 05.05 Shoal
+## 05.05 Отмель
 
 An inhospitable spit of land rearing up from the ocean. Rocks jut like spears. Clambering to the top without tools is likely to result in death upon the rocks.
 
@@ -77,13 +77,13 @@ At the top is the Griffon nest. Five chicks squawk hungrily. They each have 1HD.
 
 There is a 20% chance it is in it's lair - otherwise returning on a 2-in-6 per Turn. It will be seen coming 1 Turn away, unless weather is poor. 
 
-## Isle of Kindee
+## Остров Кинди
 
 ### 01.16 Burnt Village 
 
 Devastation marks this area. Lifeless blackened ruins, consumed utterly by flame. Gouges as deep as plough-lines in the remaining stone - as if something terrible dug here. No bodies, no bones, no life. Just devastation, untouched by the years. 
 
-### 02.16 Lair of Sruthkin
+### 02.16 Логово Шруткина
 
 A huge dome of earth, grass and shrubs grown atop it. Breathing can be heard within - the slumber of Sruthkin, a Dragon. Atop the hoard of his slain raider kin he dreams, scales iron and bronze. If anyone carrying more than 200sp enters, he will awaken. Otherwise, only violence or disturbing the hoard will awaken him.
 
@@ -133,7 +133,7 @@ The second is in Ghom, and reads "Let not this marker dub us property of the sea
 
 \newpage
 
-### 02.08 Stamullen
+### 02.08 Стамуллен
 
 Hidden amongst the deeper trees, the village of Stamullen can be smelt before it is heard, and heard before it is seen. Honey bees fill the air - multiple large colonies swell amongst the proliferation of wildflowers. They seem docile and loathe to sting. 79 people live here, well fed and clothed with their honey-wealth. 
 
@@ -142,7 +142,7 @@ They all owe this to Macullen, one of the newest Druids. Against the orders of t
 15 skirmishers, 12 bee-swarms.
 
 
-### 04.08 Culemwardern
+### 04.08 Кулемвардерн
 
 Atop a hillock, a town of 600 squats behind a wooden palisade, spikes bristling against all comers. The wide, slow river flows past them and towards the sea. Their fishing vessels make the journey daily, although they watch the sky fearfully. 
 
@@ -152,7 +152,7 @@ Forgall believe the inhabitants of Cloyne are behind the Griffon attacks. He and
 
 40 footmen, 50 skirmishers, two Karvi equivalent ships plus 8 fishing boats.
 
-### 05.08 Cloyne
+### 05.08 Клойн
 
 58 live within this loose accumulation of hovels. Cattle and swine are attended to by children whilst the parents fish upon the sea. They watch the North carefully - their waters have been appropriated by Culemwardern before.  The Griffon does not attack their vessels - those of Culemwardern are closer and more laden with fish.
 
@@ -177,7 +177,7 @@ The deeper, higher, dryer caves serve as a den - this is where it eats and dream
 
 \newpage
 
-### 03.09 Donenashoe
+### 03.09 Доненашоу
 
 The forests in this hex have swathes of damage through them, forming bands of growth. Swollen herds of deer eat the many fresh shoots.
 
@@ -196,7 +196,7 @@ The centre of the city is dominated by a Temple. Moving towards it, the streets 
 - A back-back full of religious icons in silver and gold - depicting eagles, bulls, wolves, cities build atop corpses, winged figures pulling up unfortunate sinners. Worth 600sp.
 - A single draft of _The Sculptors Medium._ (&T)
 
-### 05.09 Belcarra 
+### 05.09 Белькарра 
 
 Stilt-houses rise from the fog of the moor. Fires are scant amongst the 99 inhabitants. Their lives are spent in quiet service to the Druid-Cult. Ecstatic rituals can be heard at night, deadened by the fog. All are expected to fight if needed. Those who won't are used as practice for the rest - the Druids remember the previous occupation, and will never allow it to happen again. 
 
@@ -223,7 +223,7 @@ Within their lair, buried beneath accumulated shit, is wealth from a previous li
 - Sacrificial Knife of meteoric iron worth 150sp.
 - _Falcon Hood._ (&T)
 
-### 01.10 Dorbog 
+### 01.10 Дорбог 
 
 The boundless western sea pummels Dorbog, home to 800. It shows clear signs of Norse influence, long wooden houses jostling with Ruis drystone architecture. Above both towers a fortress built in a style imported from the south, long ago. The fingers of captive kings were crushed in it's construction.  
 From this fortress rules Donnagh (HD 5, Maille, Shield, Mace), freshly ascended after his uncle died childless two years ago. A Druid, Mish (Cure Light, Moderate Wounds), is always by his side. Donnagh acts to force peace upon the isle - promising both Cioran and Glas to side against them if they seek war.
@@ -306,7 +306,7 @@ The crew hail from all the villages and towns of Ruislip, and speak passable Bry
 
 \newpage
 
-### 02.11 Ogonnelloe
+### 02.11 Огоннелло
 
 A ruined fort - nothing but an L of stacked stone - pierces the treeline and marks the location of Ogonnelloe, home to 80. They are trappers of game and hewers of wood. 
 
@@ -335,7 +335,7 @@ In case of an attack, they blow horns to summon back the war-bands, and use jave
 	+ A pouch of cinnamon bark, worth 100sp.
 	+ _The Running Net_ (&T)
 
-### 01.12 St Olham's Monastery 
+### 01.12 Монастырь Святого Ольгама 
 
 The only monastery on Ruislip, inhabited by 96 monks.  The abbot, Sean, was raised in the Druid-Cult, and despises them with a passion. He is dedicated to rooting out their influence on the politics of Ruislip - to the point of betraying his Christian ideals. The other monks put their entire faith in him - such converts are vanishingly rare. 
 
@@ -355,7 +355,7 @@ A huge wolfhound bathes in the river. If offered food, it will become incredibly
 
 \newpage
 
-### 05.12 Blulach
+### 05.12 Блюлах
 
 A thousand souls dwell within the stone walls of Blulach, open only to the channel that separates Ruislip and Albann. Within the walls, stone streets and cramped wooden houses. Brythonic is as common and Ruis in the markets and alehouses. A church looms above most of the buildings, and shows signs of generations of devoted maintenance. 
 
@@ -369,7 +369,7 @@ A paddock of 20 riding horses, liable to snap, eyes rolling, is kept outside the
 
 20 armoured footmen, 40 footmen, 60 skirmishers, 20 horsemen, 2 Knarr plus 8 fishing boats.
 
-### 06.12 Barrows
+### 06.12 Курганы
 
 As the salt just begins to fade from the air, the Barrows dot the landscape. A ruined camp is nearby - weeks old. Supplies and digging tools have been left. Sustained inspection reveals an excavated entrance to a barrow-mound, covered with cunningly pinned turf.  
 
@@ -400,7 +400,7 @@ By the river they cluster, as they have done for decades. 11 Gargoyles, coated i
 
 They slowly, painfully pivot their heads to watch you. If you bear no buckets, they achingly move to defend themselves. Their pain fuels their violence. 
 
-### 04.14 Killucan
+### 04.14 Киллюкан
 
 This sparse village of 43 is gathered around a tiny church. They are outnumbered 4-1 by their cattle, and distrust river fish. They are used only as bait for ocean fishing. They always have a bountiful harvest. 
 
