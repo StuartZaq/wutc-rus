@@ -7,35 +7,35 @@ papersize: b5
 geometry: margin=1in
 ---
 
-Maps by Roz Leahy
+Карты сделаны Роз Лихи
 
 ---
-Where not specified, inhabitants speak Ruis and do not keep written records.  
-Those on the Eastern coasts will have passable Brythonic or Pictish.  
-Monuments are inscribed with a script called Ghom - all Druids are able to read Ghom.  
-Scholars and monasteries will speak Latin - old records will also be in Latin.
+Если не указано иного, то жители будут говорить на руисском языке, они не ведут письменных записей.  
+Те, кто живёт на восточном побережье, будут сносно говорить на британском или пиктском языках.  
+Монументы исписаны письменностью под названием гом --- все друиды умеют читать гом.  
+Учёные и монахи будут говорить на латыни --- старые записи также будут на латыни.  
 
 \pagebreak
 
-# Weather
+# Погода
 
-Roll 1d8 at commencement of play.  
-After this, roll 1d6, and:  
-- If the previous days score was 2 or less, -2 to the dice roll.  
-- If the previous days score was 5 or more, +2 to the dice roll.
+Киньте 1к8 в начале игры.  
+После этого бросайте 1к6 и:  
+- Если в предыдущий день значение было 2 и менее, отниминет -2 от значание броска.  
+- Если в предыдущий день значание было 5 и более, добавьте +2 к значению броска.
 
-| # | Weather |
-|---|--------|
-|-1| Very Hot.
-| 0| Hot.
-| 1| Warm.
-| 2| Overcast.
-| 3--4| Fog.
-| 5| Light Rain. 
-| 6--7| Heavy rain.
-| 8| Storm. 
+| #   | Погода |
+|-----|--------|
+|-1   | Очень жарко.
+| 0   | Жарко.
+| 1   | Тепло.
+| 2   | Высокая облачность.
+| 3--4| Туман.
+| 5   | Слабый дождь. 
+| 6--7| Ливень.
+| 8   | Шторм. 
 
-Rain and Storms have a 5% chance of being Snow. Consecutive results continue to be Snow.
+Есть 5% вероятность того, что дождь и буря будут снежными. Последующие результаты по-прежнему остаются снежными.
 
 # Encounters 
 
