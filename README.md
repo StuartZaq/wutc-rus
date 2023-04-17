@@ -14,6 +14,14 @@ PDFs are made from .md files with terminal commands:
 
 `lang=ru` added to have the header of the table of contents written in Russian.
 
+## On the roadmap
+
+- Translation of
+  - wutc-quickstart-equipment.md
+  - ruislip-fills.md
+  - treasure-special.md
+  - wandering-isles.md
+
 ## Wolves Upon the Coast, перевод правил на русский язык
 
 Перевод книги правил и перевод книги магии для "Волков на побережье".
@@ -27,3 +35,12 @@ PDFs are made from .md files with terminal commands:
 `--pdf-engine=xelatex` добавлено чтобы терминал/pandoc поняли кириллические символы в .md файлах. 
 
 `lang=ru` добавлено, чтобы заголовок содержания был написан по-русски.
+
+# В планах
+
+
+- Перевод
+  - wutc-quickstart-equipment.md
+  - ruislip-fills.md
+  - treasure-special.md
+  - wandering-isles.md
