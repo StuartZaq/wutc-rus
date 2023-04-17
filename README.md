@@ -1,8 +1,8 @@
 # Волки на побережье
 
-This is a translation of release-march version of files found on itch.
+This is a translation of **release-march** version of files found on itch.
 
-Это перевод мартовских версий файлов с itch.
+Это перевод **мартовских** версий файлов с itch.
 
 ## Wolves Upon the Coast, Russian translation of the rules
 
