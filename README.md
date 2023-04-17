@@ -1,5 +1,7 @@
 # Волки на побережье
 
+!! добавить инфо о релизе (март) и ссылки на оригиналы. 
+
 ## Wolves Upon the Coast, Russian translation of the rules
 
 Translation of the book of rules and translation of the book of magic for "Wolves Upon the Coast".
