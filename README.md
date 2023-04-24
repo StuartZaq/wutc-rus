@@ -1,8 +1,10 @@
 # Волки на побережье
 
-This is a translation of **release-march** version of files found on itch.
+This is a translation of **release-march** version of files found on itch.  
+**UPD:** with a huge tweak in Magic rules from the future update.
 
-Это перевод **мартовских** версий файлов с itch.
+Это перевод **мартовских** версий файлов с itch.  
+**UPD:** в правила по Магии добавлен довольно существенный кусок из будущего релиза правил.
 
 ## Wolves Upon the Coast, Russian translation of the rules
 
@@ -25,7 +27,6 @@ PDFs are made from .md files with terminal commands:
 ## On the roadmap
 
 - Translation of
-  - wutc-quickstart-equipment.md
   - ruislip-fills.md
   - treasure-special.md
   - wandering-isles.md
@@ -50,9 +51,7 @@ https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
 # В планах
 
-
 - Перевод
-  - wutc-quickstart-equipment.md
   - ruislip-fills.md
   - treasure-special.md
   - wandering-isles.md
