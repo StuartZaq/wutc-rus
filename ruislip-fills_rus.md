@@ -116,7 +116,7 @@ geometry: margin=1in
 - 360 см в виде золотой нити.
 - Грубая карта, наколотая на козью шкуру. На ней изображена улица в Доненашоу. Под каменными плитами спрятано сокровище (Чудовища III):
 	+ 600 см смешанной чеканки.
-	+ 150 серебряных тетрадрахм (&T).
+	+ 150 серебряных тетрадрахм. (&T)
 	+ 300 см в виде ритуальных благовоний.
 	+ _Жемчужный глаз._ (&T)
 	+ Флакон _Инверсивной маскировки._ (&T)
@@ -142,58 +142,57 @@ geometry: margin=1in
 15 застрельщиков, 12 пчелиных роев.
 
 ### 04.08 Кулемвардерн
+На вершине холма, за деревянным частоколом, раскинулся городок из 600 человек, ощетинившийся шипами против всех вокруг. Широкая, медленная река тёчет мимо них к морю. Их рыболовецкие суда совершают это путешествие ежедневно, хотя они со страхом смотрят на небо.
 
-Atop a hillock, a town of 600 squats behind a wooden palisade, spikes bristling against all comers. The wide, slow river flows past them and towards the sea. Their fishing vessels make the journey daily, although they watch the sky fearfully. 
+Ими правит Кьёран (4 КЗ, кольчуга в полный рост, двуручный топор), не считающий себя должным ни богу, ни человеку. Его соперник, Форгалл, утверждает, что его дед приплыл из Олбанна. Люди требуют, чтобы Кьёран убил грифона, который нападает на их рыболовецкие суда. Он не хочет покидать Кулемвардерна потому что боится быть убитым грифоном или того, что Форгалл настроит город против него. Он предлагает 1200 см в виде украшений и монет за голову грифона.
 
-They are ruled by Cioran (4HD, Full Length Maille, Two-Handed Axe), who owes loyalty to no man nor god. His Rival, Forgall, claims his grandfather sailed from Albann. The people clamour for Cioran to slay the Griffon which attacks their fishing vessels. He does not want to leave Culemwardern - he fears death by the Griffon and Forgall securing the town against him. He offers 1200sp in jewellery and coins for the head of the Griffon.
+Форгалл считает, что за нападениями грифона стоят жители Клойна. Он и Кьоран согласны друг с другом в том, что влиянию друидов необходимо противостоять.
 
-Forgall believe the inhabitants of Cloyne are behind the Griffon attacks. He and Cioran agree that the influence of the Druids is to be opposed. 
-
-40 footmen, 50 skirmishers, two Karvi equivalent ships plus 8 fishing boats.
+40 пехотинцев, 50 застрельщиков, два корабля, эквивалентных карвам, плюс 8 рыбацких лодок.
 
 ### 05.08 Клойн
 
-58 live within this loose accumulation of hovels. Cattle and swine are attended to by children whilst the parents fish upon the sea. They watch the North carefully - their waters have been appropriated by Culemwardern before.  The Griffon does not attack their vessels - those of Culemwardern are closer and more laden with fish.
+58 человек живут в этом беспорядочном скоплении лачуг. За крупным рогатым скотом и свиньями ухаживают дети, пока родители ловят рыбу в море. Они внимательно следят за севером --- их воды и раньше принадлежали Кулемвардерну. Грифон не нападает на их суда --- суда Кулемвардерна ближе и богаче нагружены рыбой.
 
-Nominally they are ruled by Beyf (2HD, Maille, Sword & Shield) but most affairs fall to the Druid in 06.09. Few of the villagers have seen them directly - the druid speaks in broken twigs, whorls of blood and burst earth. Those most able to interpret these signs are expected to be called to join that secretive order. The populace is fanatically loyal to the Druid-Cult - most (80%) would die willingly for them.
+Номинально ими правит Бейф (2 КЗ, кольчуга, меч и щит), но большинством дел занимается друид в 06.09. Мало кто из жителей деревни видел его воочию --- друид говорит сломанными ветками, завитками крови и лопнувшей землёй. Если кто-то будет способен интерпретировать эти знаки, будут призваны присоединиться к этому тайному ордену. Население фанатично предано культу друидов --- большинство (80%) охотно отдали бы за них жизнь.
 
-19 skirmishers, 5 fishing boats. 
+19 застрельщиков, 5 рыбацких лодок.
 
-### 01.09 Manticore Cave
+### 01.09 Пещера мантикоры
 
-The cliffs above the stony beach are wounded by sea-caves, accessible on foot whilst the tide is out. Echoes of water move strangely in this chaotic geology. A Manticore stalks the caves, wearing a stolen face. It allows itself to be seen but does not engage in combat - it wants the Faceless Man to hire ever-more expensive mercenaries. Stealing his face was not enough - it wants to ruin his fortunes. It attempts to toy with intruders until the tide comes back in, drowning them.
+Скалы над каменистым пляжем изрезаны морскими пещерами, до которых можно дойти пешком во время отлива. Отголоски воды странно перемещаются в этих хаотичных разрезах. Мантикора крадётся по пещерам, надев украденное лицо. Она позволяет увидеть себя, но не вступает в бой --- она хочет, чтобы безликий человек нанимал всё более дорогих наёмников. Украсть его лицо было недостаточно --- она хочет разрушить его состояние. Она пытается играть с незваными гостями до тех пор, пока прилив не вернётся и не утопит их.
 
-There is a 50% chance it is in it's lair - otherwise returning on a 2-in-6 per Turn spent exploring.
+Вероятность того, что она находится в своем логове, составляет 50% --- в противном случае она возвращается с шансом 2 из 6 каждый ход, потраченный на исследование.
 
-The deeper, higher, dryer caves serve as a den - this is where it eats and dreams of revenge. It has destroyed a holy book in Latin, and uses the paper as bedding. Wealth has accumulated from the corpses eaten (Monstrous III):
+Более глубокие, высокие и сухие пещеры служат ей логовом --- именно здесь она ест и мечтает о мести. Она уничтожила священную книгу, написанную на на латыни и использует бумагу в качестве подстилки. Богатство накопилось за счет съеденных трупов (Чудовища III):
 
-- 500sp in contemporary coins.
-- The heavy leather covers of a Latin holy text. Worth 50sp to a bookbinder.
-- Several suits of fine silks and furs - worth 400sp if repairs and cleaned.
-- _Fairypenny_ (&T)
-- A vial of lethal poison.
-- _Library Flagstone_ (&T)
+- 500 см в виде современных монет.
+- Тяжёлые кожаные переплёты священного текста на латыни. Переплетчик возьмёт их за 50 см.
+- Несколько костюмов из тонкого шёлка и меха стоимостью 400 см, если починить и очистить их.
+- _Волшебный пенc._ (&T)
+- Флакон со смертельным ядом.
+- Библиотечная плита._ (&T)
 
 \newpage
 
 ### 03.09 Доненашоу
 
-The forests in this hex have swathes of damage through them, forming bands of growth. Swollen herds of deer eat the many fresh shoots.
+Леса в этом гексе испещрены просеками от разрушений, внутри которых растёт молодняк. Разбухшие стада оленей поедают множество свежих побегов.
 
-This crumbling ruined city is haunted by Llamon, a Juggernaut. She has four legs of ridged stone, and a body of thick, shaggy fur twined with a parasitic bramble. Small, weak eyes have a dull orange glow. If intruders are spotted entering Donenashoe, she will clumsily pursue, further devastating the ruins. She will pursue as far as adjacent hexes before slowly returning. If the belly of Llamon is split open, her guts tumble out and she dies.
+В этом полуразрушенном городе обитает Ламон, джаггернаут. У неё четыре ноги из остроконечных камней и тело, покрытое густым лохматым мехом, обвитым паразитической ежевикой. Маленькие, слабые глаза имеют тусклый оранжевый отблеск. Если она заметит незваных гостей входящими в Доненашоу, она будет неуклюже преследовать их, ещё больше опустошая руины. Она будет преследовать незванных гостей до соседних гексов, прежде чем медленно вернуться. Если вспороть живот Ламон, её кишки вывалятся наружу, и она умрёт.
 
-The remaining buildings are made of stone, quarried in eastern Albann and carved to a style from over the seas. Within squat 198 Goblins. They covet man-made goods - wearing scraps of fabric as status symbols.
+Остальные здания построены из камня, добытого в карьерах восточного Олбанна и вырезанного в заморском стиле. В них заселились 198 гоблинов. Они жаждут товаров, созданных человеком, --- носят лоскутки ткани в качестве символов статуса.
 
-Each Turn, there is a 2-in-6 chance of encountering 4d6 Goblins. Roll reaction each time, unless Goblin corpses are present. 
+Каждый ход есть вероятность 2 из 6 столкнуться с 4к6 гоблинами. Бросайте реакцию каждый раз, если только рядом нет трупов гоблинов.
 
-For each Turn spent searching, 3d6sp in coins and baubles can be found by searching the buildings. 
+За каждый ход, потраченный на обыск зданий, можно найти 3к6 см в виде монет и безделушкек.
 
-The centre of the city is dominated by a Temple. Moving towards it, the streets begin to fill with perfect marble statues of Goblins. It takes 30 minutes to reach from the edge of the city. The Temple is structurally sound, but has been heavily defaced. Statues of human warriors cluster around it, faces full of fear. It contains a Medusa. The wealth inside is undisturbed (Monstrous III):
+В центре города возвышается храм. По мере продвижения к нему, улицы начинают заполняться идеальными мраморными статуями гоблинов. Путь от окраины годода до туда занимает 30 минут. Храм имеет прочную конструкцию, но был сильно разрушен. Вокруг него громоздятся статуи человеческих воинов с лицами, полными страха. В храме живёт Медуза. Богатство внутри нетронуто (Чудовища III):
 
-- 1000sp in mixed coins - many of heavy gold, stamped with centuries-dead emperors.
-- 5 delicate bottles of pungent religious perfume, worth 500sp.
-- A back-back full of religious icons in silver and gold - depicting eagles, bulls, wolves, cities build atop corpses, winged figures pulling up unfortunate sinners. Worth 600sp.
-- A single draft of _The Sculptors Medium._ (&T)
+- 1000 см в виде смешанных монет --- многие из тяжёлого золота, с оттисками умерших столетия назад императоров.
+- 5 изящных флаконов резких религиозных духов стоимостью 500 см.
+- !!Задняя стенка!!, полная религиозных икон в серебре и золоте --- с изображением орлов, быков, волков, городов, построенных на трупах, крылатых фигур, поднимающих несчастных грешников. Стоит 600 см.
+- Единственный черновик _Материи скульпторов._ (&T)
 
 ### 05.09 Белькарра 
 
