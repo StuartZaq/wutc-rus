@@ -79,7 +79,7 @@ geometry: margin=1in
 
 ## Остров Кинди
 
-### 01.16 Сожженная деревня
+### 01.16 Сожжённая деревня
 
 Эта область была просто опустошена. Безжизненные почерневшие руины, разорённые огнём. Выбоины, глубокие, как борозды плуга, в оставшемся камне --- как будто здесь копалось что-то ужасное. Ни тел, ни костей, ни жизни. Лишь опустошение, не тронутое годами.
 
@@ -89,10 +89,10 @@ geometry: margin=1in
 
 Сокровищница просто грандиозна (Чудовища V):
 
-- 17000 см в куче монет всех происхождений и номиналов.
+- 17000 см в виде кучи монет всех происхождений и номиналов.
 - 10 золотых слитков стоимостью 2000 см.
 - 20 серебряных слитков стоимостью 1000 см.
-- 10 Кольчуг в полный рост, стоимостью 1500 см.
+- 10 Кольчуг в полный рост стоимостью 1500 см.
 - _Водяной колокол._ (&T)
 - _Китовый глаз._ (&T)
 - _Армвольф._ (&T)
@@ -104,43 +104,42 @@ geometry: margin=1in
 
 ### 03.07 Дом огра
 
-A drystone house, chaotically expanded and repaired into a near labyrinth, hides between two low hills. Heaps of bones, driftwood, and flowers are all around it. Within can be heard heavy footsteps and a low, continuous monologue. The words are indistinct. An Ogre dwells within. He wishes to possess all bones - flaccid carcasses are strewn within. Rats sneak into his bone-hoard at night. This enrages him. He is attuned to all sounds in the house, and stalks intruders cautiously.
+Каменный дом с сухой кладкой, хаотично расширявшийся и ремонтировавшийся, превратившийся почти в лабиринт, прячется между двумя невысокими холмами. Вокруг него повсюду кучи костей, коряг и цветов. Внутри слышны тяжёлые шаги и тихий, непрерывный монолог. Слова неразборчивы. Внутри обитает огр. Он желает владеть всеми костями --- внутри всё усыпано обмякшими тушами. По ночам крысы пробираются в его кладовую с костями. Это приводит его в ярость. Он прислушивается ко всем звукам в доме и осторожно выслеживает незваных гостей.
 
-There is a 80% chance they are here - otherwise returning on a 3-in-6 per Turn spent exploring, an animal or human trapped in their sack, screaming.
+Вероятность того, что он здесь, составляет 80% --- в противном случае, он вернётся с шансом 3 из 6 каждый ход, потраченный на исследование. Звери или люди в его мешке будут кричать.
 
-The bone-hoard is within a sack he carries. In addition to the thousands of bones (Monstrous II): 
+Костяная сокровищница находится в мешке, который он носит с собой. В дополнение к тысячам костей (Чудовища II): 
 
-- 400sp in rough, local silver coins.
-- 200sp in cowry shells.
-- 240sp in wolf pelts, stained and degraded with rot.
-- 360sp in golden thread.
-- A rough map, pricked onto goatskin. It shows a street within Donenashoe. Beneath the flagstones is hidden treasure (Monstrous III):
-	+ 600sp in mixed coinage.
-	+ 150 _Silver Tetradrachms_ (&T).
-	+ 300sp worth of ritual incenses.
-	+ A _Pearl Eye._ (&T)
-	+ A vial of _Inverse Varnish._ (&T)
-	+ _Nastroph_, in a small stone case. (&T)
+- 400 см в виде необработанных местных серебряных монет.
+- 200 см в виде ракушек каури.
+- 240 см в виде волчьих шкур, испачканных и разложившихся от гнили.
+- 360 см в виде золотой нити.
+- Грубая карта, наколотая на козью шкуру. На ней изображена улица в Доненашоу. Под каменными плитами спрятано сокровище (Чудовища III):
+	+ 600 см смешанной чеканки.
+	+ 150 серебряных тетрадрахм (&T).
+	+ 300 см в виде ритуальных благовоний.
+	+ _Жемчужный глаз._ (&T)
+	+ Флакон _Инверсивной маскировки._ (&T)
+	+ _Настроф_, в маленьком каменном футляре. (&T)
 
-### 04.07 Beached Whale 
+### 04.07 Выброшенная косатка 
 
-Upon the sands, a beached killer whale slowly dies. It snaps at those approaching like a feral dog. In it's stomach, 1d100 fish in various states of decomposition, a statue of an angry sea god and a clam with a pearl worth 100sp.
+На песке медленно умирает выброшенная на берег косатка. Она огрызается на приближающихся, как дикая собака. В её желудке 1к100 рыб в различных стадиях разложения, статуя разгневанного морского бога и моллюск с жемчужиной стоимостью 100 см.
 
-### 01.08 Runestones 
+### 01.08 Рунические камни 
 
-A pair of stones, each with inscriptions. The first is in Norse, and reads "Hwrulf threw this stone from the hill behind which the sun sets. Before that, he slew a barbarian chief.".  
-The second is in Ghom, and reads "Let not this marker dub us property of the sea men but only act as a gravestone.". The second runestone is noticeably bigger. 
+Пара камней, на каждом из которых есть надписи. Первая надпись на древнескандинавском языке гласит: "Хврульф бросил этот камень с холма, за которым садится солнце. До этого он убил вождя варваров."  
+Вторая надпись на Гоме и гласит: "Да не наречёт нас этот знак собственностью людей с моря, а всего лишь служит им надгробием." Второй рунический камень заметно больше.
 
 \newpage
 
 ### 02.08 Стамуллен
 
-Hidden amongst the deeper trees, the village of Stamullen can be smelt before it is heard, and heard before it is seen. Honey bees fill the air - multiple large colonies swell amongst the proliferation of wildflowers. They seem docile and loathe to sting. 79 people live here, well fed and clothed with their honey-wealth. 
+Скрытую среди густых деревьев деревню Стамуллен можно учуять раньше, чем услышать, и услышать прежде, чем увидеть. Воздух наполнен медоносными пчёлами --- многочисленные большие колонии набухают среди быстро разрастающегося множества полевых цветов. Они кажутся послушными и не будут никого жалить. Здесь живут 79 человек, хорошо питающихся и одетых благодаря своему медовому богатству. 
 
-They all owe this to Macullen, one of the newest Druids. Against the orders of the Druid-Cult, he has tamed the bees. He does not know they will destroy him and make his ribcage the foundation for a new nest. The village will die as the bees return to defending their nests. This will happen in 1d6 weeks - preceded by fen wolves raiding the nests. The Druid-Cult will only dispatch one member of their order to perform the killing. If Macullen survives, they will accept his judgement and leave the village bee. 
+Все они обязаны этим Макаллену, одному из новейших друидов. Вопреки приказам культа друидов, он приручил пчёл. Он не знает, что они убьют его и сделают из его грудной клетки основу для нового гнезда. Деревня погибнет, когда пчёлы вернутся к защите своих гнёзд. Это произойдёт через 1к6 недель, а перед этим болотные волки разорят гнёзда. Культ друидов отправит только одного члена своего ордена для убийства. Если Макаллен выживет, они примут его решение и покинут оставят пчелиную деревню.
 
-15 skirmishers, 12 bee-swarms.
-
+15 застрельщиков, 12 пчелиных роев.
 
 ### 04.08 Кулемвардерн
 
