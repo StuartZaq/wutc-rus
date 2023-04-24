@@ -191,48 +191,49 @@ geometry: margin=1in
 
 - 1000 см в виде смешанных монет --- многие из тяжёлого золота, с оттисками умерших столетия назад императоров.
 - 5 изящных флаконов резких религиозных духов стоимостью 500 см.
-- !!Задняя стенка!!, полная религиозных икон в серебре и золоте --- с изображением орлов, быков, волков, городов, построенных на трупах, крылатых фигур, поднимающих несчастных грешников. Стоит 600 см.
+- Рюкзак полный религиозных икон в серебре и золоте --- с изображением орлов, быков, волков, городов, построенных на трупах, крылатых фигур, поднимающих несчастных грешников. Стоит 600 см.
 - Единственный черновик _Материи скульпторов._ (&T)
 
 ### 05.09 Белькарра 
 
-Stilt-houses rise from the fog of the moor. Fires are scant amongst the 99 inhabitants. Their lives are spent in quiet service to the Druid-Cult. Ecstatic rituals can be heard at night, deadened by the fog. All are expected to fight if needed. Those who won't are used as practice for the rest - the Druids remember the previous occupation, and will never allow it to happen again. 
+Дома на сваях поднимаются из тумана на вересковых пустошах. Среди 99 жителей, огней почти нет. Их жизни проходят в тихом служении культу друидов. Ночью можно услышать приглушённые туманом экстатические ритуалы. Все они будут сражаться, если потребуется, во всяком случае это от них ожидается. Тех, кто этого не сделает, используют в качестве практики для остальных --- друиды помнят предыдущий захват и никогда не позволят ему повториться.
 
-A large, unlit pyre stands in the middle of the village. It would burn 30ft high, and be visible for miles. 
+В центре деревни стоит большой незажжённый погребальный костер. Он будет гореть на 30 футов в высоту и будет виден на многие мили вокруг.
 
-All are painted in swirling patterns of blue. They will not speak to outsiders. They only point to the South if questioned. If pressed, they begin threatening with their weapons, and light the immense signal fire to warn the Druids.
+Все жители раскрашены в закрученные узоры синего цвета. Они не будут разговаривать с посторонними. Они указывают на юг только в том случае, если их спрашивают об этом. Если на них надавить, они начинают угрожать своим оружием и зажигают огромный сигнальный огонь, чтобы предупредить друидов.
 
-80 fanatical footmen.
+80 фанатичных пехотинцев.
 
 \newpage
 
-### 06.09 Bitter Druid
+### 06.09 Озлобленный друид
 
-The sea wind bites with teeth here. It is desolate - few trees are to be seen, only the sharp undulation of the terrain and the rocks emerging like bones from wounds. Within such a crease, charms of bone may be found. These were taken from long-retreated conquerors, and mark the lair of a Druid. 
+Морской ветер здесь рвёт особенно жгуче. Здесь пустынно --- видно мало деревьев, только резкая волнистость местности и скалы, выступающие, как кости из ран. Внутри такой складки могут быть найдены кусочки костей. Они были взяты у давно отступивших завоевателей и обозначают логово друида.
 
-They have abandoned language, and shepherd the people of Cloyne. They are centuries old - the same Druid who was cast out from Culemwardern when a Brythonic conqueror took it. Resentment burns within eyes more animal than man. They are clad only in discarded feathers and blood.  
-They know the spell _Invisibility_ and may cast it once a day. This spell does not affect the sight of domesticated animals. They use this to harass and ambush intruders and threats. Those taking maximum damage (or Surprised) have a triple-gouge symbol clawed into their forehead - this marks them as an enemy of the Druid-Cult. This heals into an obvious scar.
+Они отказались от языка и пасут народ Клойна. Им много веков --- это тот же самый друид, который был изгнан из Кулемвардерна, когда его захватил бриттский завоеватель. В глазах горит негодование, скорее звериное, чем человеческое. Они одеты только в выброшенные перья и кровь.
+Они знают заклинание "Невидимость" и могут произносить его раз в день. Это заклинание не влияет на зрение домашних животных. Они используют его, чтобы преследовать незваных гостей, устраивать засады и угрожать им. У тех, кто получает максимальный урон (или застигнут врасплох), на лбу будет выцарапан символ с тройной выемкой --- указание на то, что они враги культа друидов. ОН заживёт, превратившись в очевидный шрам.
 
-There is a 30% chance they are here - otherwise returning on a 4-in-6 per Turn spent exploring.
+Вероятность того, что они здесь, составляет 30% --- в противном случае они вернуться с шансом 4 из 6 каждый ход, потраченный на исследование.
 
-Within their lair, buried beneath accumulated shit, is wealth from a previous life (Temple I):
+В их логове, погребённом под накопившимся дерьмом, находится богатство из прошлой жизни (Храм I):
 
-- 400sp in golden coins, marked in Ghom.
-- Sacrificial Knife of meteoric iron worth 150sp.
-- _Falcon Hood._ (&T)
+- 400 см в виде золотых монет, с пометкой на Гоме.
+- Жертвенный нож из метеоритного железа стоимостью 150 см.
+- _Капюшон сокола._ (&T)
 
 ### 01.10 Дорбог 
 
-The boundless western sea pummels Dorbog, home to 800. It shows clear signs of Norse influence, long wooden houses jostling with Ruis drystone architecture. Above both towers a fortress built in a style imported from the south, long ago. The fingers of captive kings were crushed in it's construction.  
-From this fortress rules Donnagh (HD 5, Maille, Shield, Mace), freshly ascended after his uncle died childless two years ago. A Druid, Mish (Cure Light, Moderate Wounds), is always by his side. Donnagh acts to force peace upon the isle - promising both Cioran and Glas to side against them if they seek war.
+Бескрайнее западное море омывает Дорбог, где проживает 800 человек. Здесь видны явные признаки древнескандинавского влияния: длинные деревянные дома соседствуют с архитектурой руиссов с сухой кладкой. Над обеими башнями возвышается крепость, построенная в стиле, давным-давно привезённом с юга. Пальцы плененных королей были раздавлены при его строительстве.
 
-The people of Dorbog are diseased. None know it, but the river that runs through the town is polluted. Dead livestock and wildlife can be found all along it. Mish is willing to offer the healing arts of the Druid-Cult for one who resolved this issue. Those already marked for death by the cult could find forgiveness in such an act. 
+Из этой крепости правит Доннах (КЗ 5, кольчуга, щит, булава), недавно взошедший на престол после того, как его дядя умер бездетным два года назад. Друид Миш (лечение лёгких и умеренных ран) всегда рядом с ним. Доннах действует так, чтобы установить мир на острове, обещая и Кьёзану и Гласу встать на их сторону, если они захотят войны.
 
-On the outskirts of Dorbog is a faceless man. His name has been forgotten. He has sold everything to pay for someone to recover his face from the dog that stole it and fled to the North. - a sign in Latin outside his house explains this, promising 1000sp. This bounty has long since been stolen. He is not aware. 
+Жители Дорбога больны. Никто этого не знает, но река, протекающая через город, загрязнена. Повсюду на ней можно найти мертвый домашний скот и диких животных. Миш готов предложить искусство исцеления культа друидов тому, кто решит эту проблему. Те, кто уже был отмечен культом на смерть, могли бы найти прощение в таком поступке.
 
-50 armoured footmen, 50 skirmishers, three Karvi plus eight fishing boats. 
+На окраине Дорбога живёт безликий человек. Его имя было забыто. Он продал всё, чтобы заплатить за тому, кто вернёт его лицо, что похитила собака, сбежавшая на север. Вывеска на латыни возле его дома объясняет это, обещая 1000 см. Эта награда давным-давно была украдена. Он не осознаёт этого.
 
-Most of the population speaks passable Norse.
+50 тяжёлых пехотинцев, 50 застрельщиков, три карва плюс восемь рыбацких лодок.
+
+Большая часть населения сносно говорит по-древнескандинавски.
 
 ### 03.10 Awoken King
 
