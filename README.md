@@ -22,14 +22,13 @@ PDFs are made from .md files with terminal commands:
 
 `pandoc -V lang=ru wutc-quickstart-equipment_rus.md -s -o "Quickstart Equipment (RUS).pdf" --pdf-engine=xelatex`
 
+`pandoc -V lang=ru ruislip-fills_rus.md -s -o "Ruislip (RUS).pdf" --pdf-engine=xelatex`
+
 `--pdf-engine=xelatex` added so terminal/pandoc understand cyrillic symbols in .md files. 
 
 `lang=ru` added to have the header of the table of contents written in Russian.
 
 ## On the roadmap
-
-- Pandoc rendering (.md -> .pdf)
-  - ruislip-fills.md
 
 - Translation of
   - treasure-special.md
@@ -51,14 +50,13 @@ https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
 `pandoc -V lang=ru wutc-quickstart-equipment_rus.md -s -o "Quickstart Equipment (RUS).pdf" --pdf-engine=xelatex`
 
+`pandoc -V lang=ru ruislip-fills_rus.md -s -o "Ruislip (RUS).pdf" --pdf-engine=xelatex`
+
 `--pdf-engine=xelatex` добавлено чтобы терминал/pandoc поняли кириллические символы в .md файлах. 
 
 `lang=ru` добавлено, чтобы заголовок содержания был написан по-русски.
 
 # В планах
-
-- Преобразование через pandoc (.md -> .pdf)
-  - ruislip-fills.md
 
 - Перевод
   - treasure-special.md
