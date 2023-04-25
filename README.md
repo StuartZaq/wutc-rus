@@ -12,7 +12,7 @@ https://lukegearing.blot.im/wolves-upon-the-coast
 
 https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
-Russian translation of the **book of rules** and the **book of magic** for "Wolves Upon the Coast".
+Russian translation of "Wolves Upon the Coast".
 
 PDFs are made from .md files with terminal commands:
 
@@ -41,7 +41,7 @@ https://lukegearing.blot.im/wolves-upon-the-coast
 
 https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
-Перевод на русский язык **книги правил** и **книги магии** для "Волков на побережье".
+Перевод на русский язык "Волков на побережье".
 
 ПДФки сделаны из .md файлов с помощью терминала и команд:
 
