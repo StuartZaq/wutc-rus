@@ -10,7 +10,7 @@ geometry: margin=1in
 Карты нарисованы Роз Лихи
 
 ---
-Если не указано иного, то жители будут говорить на руисском языке, они не ведут письменных записей.  
+Если не указано иного, то жители будут говорить на райском языке, они не ведут письменных записей.  
 Те, кто живёт на восточном побережье, будут сносно говорить на бриттском или пиктском языках.  
 Монументы исписаны письменностью под названием гом --- все друиды умеют читать гом.  
 Учёные и монахи будут говорить на латыни --- старые записи также будут на латыни.  
@@ -223,7 +223,7 @@ geometry: margin=1in
 
 ### 01.10 Дорбог 
 
-Бескрайнее западное море омывает Дорбог, где проживает 800 человек. Здесь видны явные признаки древнескандинавского влияния: длинные деревянные дома соседствуют с архитектурой руиссов с сухой кладкой. Над обеими башнями возвышается крепость, построенная в стиле, давным-давно привезённом с юга. Пальцы плененных королей были раздавлены при его строительстве.
+Бескрайнее западное море омывает Дорбог, где проживает 800 человек. Здесь видны явные признаки древнескандинавского влияния: длинные деревянные дома соседствуют с архитектурой райсов с сухой кладкой. Над обеими башнями возвышается крепость, построенная в стиле, давным-давно привезённом с юга. Пальцы плененных королей были раздавлены при его строительстве.
 
 Из этой крепости правит Доннах (КЗ 5, кольчуга, щит, булава), недавно взошедший на престол после того, как его дядя умер бездетным два года назад. Друид Миш (лечение лёгких и умеренных ран) всегда рядом с ним. Доннах действует так, чтобы установить мир на острове, обещая и Кьёзану и Гласу встать на их сторону, если они захотят войны.
 
@@ -235,73 +235,73 @@ geometry: margin=1in
 
 Большая часть населения сносно говорит по-древнескандинавски.
 
-### 03.10 Awoken King
+### 03.10 Пробудившийся король
 
-Deep in the forested wetlands, the waters are not still. A Mummy - once a king, sent to beg aid - has arisen with a troop of twelve skeletons, all armed & armoured in bronze (Maille, Swords). The Mummy wields _Eyebiter_ (&T). The band slay animals and leave them in the spring that feeds the river - and so death creeps downstream to Dorbog. They have grave-goods (Tomb III):
+Глубоко в поросших лесом болотных угодьях вода не стоит на месте. Мумия --- некогда бывшая королём, посланным просить милостыню --- восстала с отрядом из двенадцати скелетов, все вооруженные и закованные в бронзу (кольчуги, мечи). Мумия владеет _Кусачим глазом_ (&T). Банда убивает животных и оставляет их в источнике, питающем реку, --- таким образом смерть ползёт вниз по течению к Дорбогу. Их погребальный инвентарь состоиз из (Гробница III):
 
-- 6 _Doubleface Drachm._ (&T)
-- Thirteen heavy bronze necklaces, studded with gems. Worth 1300sp.
-- _Ivory Miniature_ (&T)
-
-\newpage
-
-### 05.10 Stone Circle
-
-A huge stone circle crowns a hill, rising atop the crawling shrubs. Movement is constant - there are always 2d4 Druids in straw cloaks and fern coats here, maintaining and guarding. Birds, deer and disheveled humans often approach, bow, shit, and leave. One of the Druids eats this, and then whispers to the others. 
-
-On full moons and before major actions they conduct sacrifices - usually individuals kidnapped from Albann, but Ruislish opposed to their designs are favoured. These are conducted on the stone tables surrounded by the circles. 
-
-The hill is a barrow complex - the Druids study and sleep within it, nestled with the bones of their forebears. The tunnels are tight and claustrophobic. 
-
-If the Stone Circle is attacked, the Druids summon 2d20 wolves from the moor. Rats within the barrow pour forth as three independent 5HD swarms. An Ennt awakens in 1d6 Rounds and joins the fray, begrudgingly. This is the last favour it owe the Druids.
-
-In times of war, the population of Belcarra camp here. 
-
-The Druids have the following spells - read down in order as far as is needed.
-
-1. Fireball
-2. Fear
-3. Haste/Slow
-4. Lightning Bolt
-5. Transmute Mud to Rock
-6. Weather Control
-7. Web
-8. Wall of Fire
-
-Searching the barrow takes a full day, but reveals much treasure (Temple III) :
-
-- 4000sp in lost coins.
-- A 4000-coin _Coat of Coins_ (&T), taken from an invading general celebrating their previous conquests. Has 5 different currencies used in it's construction.
-- Three full bags of uncut gems, worth 1000sp.
-- Two blocks of ivory, engraved with symbols of authority - worth 500sp.
-- Three full baskets of shells, worth 450sp.
-- A _Cloak of Hands._(&T) 
-- A _Mummified Dog._(&T) 
-- A _Faerie Boat._(&T) 
-- A _Potion of Architecture Friendship._(&T) 
-- _Red Pouch._(&T) 
-- _Egron,_ bound in vines coiled like chains.(&T) 
+- 6 _двуликих драхм._ (&T)
+- Тринадцать тяжёлых бронзовых ожерелий, усыпанных драгоценными камнями. Стоит 1300 см.
+- _Миниатюра из слоновой кости_ (&T)
 
 \newpage
 
-### 06.10 Pirates 
+### 05.10 Кромлех
 
-A Karvi is hidden in a deep, narrow cove. 30 Bandits (Light Armour, Swords, Javelins) cook fish over coals, careful to avoid too much smoke. Booty from Albann is heaped around. They are lead by Niamh (5HD, Maille, Battle-Axe, Bow). She challenges superior foes to a duel - giving her crew a chance to escape aboard their ship. If she thinks her crew can win, they simply attack.
+Огромный каменный круг, возвыщающийся над ползучими кустами, венчает холм. Движение здесь не останавливается --- 2к4 друидов в соломенных плащах и папоротниковых накидках поддерживают и охраняют это место. Птицы, олени и косматые люди часто подходят, кланяются, гадят и уходят. Один из друидов съедает это, а затем шепчет остальным.
 
-The crew hail from all the villages and towns of Ruislip, and speak passable Brythonic and Pictish. 1d20 of them are drunk at any given point. Their unspent haul (Bandits II):
+В полнолуния и перед крупными событиями они совершают жертвоприношения --- обычно это люди, похищенные из Олбанна, но предпочтение отдаётся жителям Райслипа, выступающим против их замыслов. Ритуалы проводятся на каменных столах, окружённых кругами.
 
-- 300sp in silver Brythonic coins
-- A small bone case containing 10 doses of opium, worth 300sp. The case is decorated with a flowing, abstract motif.
-- Six silver ingots, each stamped with the profile face of a Pictish king. Worth 300sp.
-- Four bags of ornamental flower seeds, worth 320sp. 
-- A _God Casket._(&T)
-- A pictoral map, marking a small cairn in the interior of an island. Those who have seen it would recognise this isle as Dunrick. At this location, a huge hoard is buried (Bandits III): 
-	+ 1000sp in Brythonic, Pictish and Ruislip coins
-	+ A large jar, full of black pepper corns. Worth 1000sp 
-	+ A hundred swords. Worth 120sp.
-	+ Three vats of Greek Fire. Worth 2400sp.
-	+ Eight full kegs of pickled vegetables. Worth 500sp.
-	+ Twenty wrapped blocks of salt. Worth 2000sp.
+Холм представляет собой комплекс курганов --- друиды учатся и спят в нём, укрывшись костями своих предков. Туннели тесные и вызывают клаустрофобию.
+
+Если кромлех будет атакован, друиды призовут 2к20 волков с пустошей. Крысы внутри кургана появляются тремя независимыми стаями с 5 КЗ. Энт пробуждается через 1к6 раундов и неохотно присоединяется к схватке. Это последняя услуга, которой он обязан друидам.
+
+Во время войны население Белькарры разбивало здесь лагерь.
+
+У друидов есть следующие заклинания --- читайте по порядку, насколько это необходимо.
+
+1. Огненный шар
+2. Страх
+3. Спешка/Замедление
+4. Удар молнии
+5. Превращение камня в грязь
+6. Контроль погоды
+7. Сеть
+8. Стена огня
+
+Обыск курганов занимает целый день, но зато позволяет обнаружить много сокровищ (Храм III) :
+
+- 4000 см в виде потерянных драхм.
+- _Платье из монет_ (&T) насчитывающее 4000 монет, отобранное у генерала-захватчика, празднующего свои предыдущие завоевания. Имеет 5 различных валют, используемых при его создании.
+- Три полных мешка необработанных драгоценных камней стоимостью 1000 см.
+- Два куска слоновой кости с выгравированными символами власти стоимостью 500 см.
+- Три полные корзины ракушек стоимостью 450 см.
+- Плащ из рук._(&T)
+- Мумифицированная собака._(&T)
+- Волшебная лодка._(&T)
+- _Зелье архитектурной дружбы._(&T)
+- _Красный подсумок._(&T)
+- _Эгрон,_ опутанный виноградными лозами, обвитыми ими, словно цепями.(&T)
+
+\newpage
+
+### 06.10 Пираты 
+
+Карв спрятан в глубокой, узкой бухте. 30 бандитов (лёгкие доспехи, мечи, дротики) готовят рыбу на углях, стараясь избегать слишком сильного дыма. Добыча из Олбанна валяется повсюду. Их возглавляет Ниам (5 КЗ, кольчуга, боевой топор, лук). Она вызывает на дуэль лучших воинов противников, давая своей команде шанс спастись на борту их корабля. Если она считает, что её команда может победить, они просто атакуют.
+
+Команда родом из всех деревень и городков Райслипа и сносно говорит на бриттском и пиктском языках. 1dк0 из них в любой момент пьяны. Их неизрасходованный улов (Бандиты II):
+
+- 300 см в виде серебряных бриттских монет
+- Маленький костяной футляр, содержащий 10 доз опиума, стоит 300 см. Корпус украшен струящимся абстрактным узором.
+- Шесть серебряных слитков, на каждом из которых отчеканен профиль пиктского короля. Стоят 300 см.
+- Четыре пакетика семян декоративных цветов стоимостью 320 см.
+- _Божий ларец._(&T)
+- Карта с изображением небольшой пирамиды из камней в глубине острова. Те, кто когда-либо видел его, узнали бы этот остров как Данрик. В этом месте зарыт огромный клад (Бандиты III):
+	+ 1000 см в виде бриттских, пиктских и райских монет
+	+ Большой кувшин, полный зёрен чёрного перца. Стоит 1000 см.
+	+ Сотня мечей. Стоит 120 см.
+	+ Три чана с греческим огнём. Стоит 2400 см.
+	+ Восемь полных бочонков маринованных овощей. Стоят 500 см.
+	+ Двадцать завёрнутых кусков соли. Стоят 2000 см.
 
 \newpage
 
