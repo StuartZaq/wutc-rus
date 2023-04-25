@@ -371,44 +371,48 @@ geometry: margin=1in
 
 ### 06.12 Курганы
 
-As the salt just begins to fade from the air, the Barrows dot the landscape. A ruined camp is nearby - weeks old. Supplies and digging tools have been left. Sustained inspection reveals an excavated entrance to a barrow-mound, covered with cunningly pinned turf.  
+Стоит соли только начинать испаряться из воздуха, ландшафт уже усеивают курганы. Неподалеку находится разрушенный лагерь, которому несколько недель. Припасы и землеройные инструменты были оставлены. При тщательном осмотре обнаруживается раскопанный вход в насыпть кургана, покрытый искусно приколотым дёрном.
 
-In the darkness below, a Wraith lurks, accompanied by 4 Zombies - the thralls earned with the blood of grave-robbers. It will try to avoid combat during the day, unless the Zombies can be positioned to block the exit - then it strikes those bearing light first. 
+В темноте внизу скрывается призрак в сопровождении 4 зомби --- рабов, которые оказались здесь благодаря расхитителям могил. Он будет пытаться избегать боя в течение дня, если только зомби не смогут расположиться так, чтобы перекрыть выход --- тогда он ударит, сперва по тем, кто несёт свет.
 
-At night, it emerges and haunts the hex, drawing victims into ambushes with it's Zombie thralls. 
+Ночью он появляется и ходит по всему гексу, заманивая жертв в засады со своими рабами-зомби.
 
-Within each barrow is a Tomb III hoard. Disturbing unopened mounds releases another Wraith. The already opened barrow contains (Tomb III):
+Внутри каждого кургана находится сокровища Гробница III. Потревожив неоткрытые курганы, вы выпустите ещё одного призрака. Уже открытый курган содержит (Гробница III):
 
 - 300sp in old bronze coins.
 - Several springs of still-pungent funeral herbs, worth 100sp.
 - A _Ships Head,_ taking the form of a spike painted with a hundred eyes. (&T)
 - A tub containing a single dose of _The Wax of Refusal._ (&T)
 
+- 300 см в виде старых бронзовых монет.
+- Несколько отростков всё ещё едко пахучих погребальных трав, стоимостью 100 см.
+- _Голова корабля_, имеющая форму шипа, с нарисованной на ней сотней глаз. (&T)
+- Ванночка, содержащая одну дозу _Воска отказа._ (&T)
+
 \newpage
 
-### 02.13 Nameless Hamlet 
+### 02.13 Безымянная деревушка
 
-Above a thin sandy beach, an empty hamlet. No food, no nets, no tools. Furs and clothes have been left to rot. Nothing has stirred here for years - thatched roofs have fallen in. Birds nest in ruins. Shells are abundant within the shells of buildings.  
+Над тонкой полоской песчаного пляжа раскинулась пустая деревушка. Ни еды, ни сетей, ни инструментов. Меха и одежда были оставлены гнить. Здесь годами никто ничего не трогал --- соломенные крыши обвалились. Птицы гнездятся в руинах. Ракушки в изобилии встречаются в остовах зданий.
 
-The sea seems gentle here. Foam forms castles which are dissolved beneath a lead sky.
+Море здесь кажется ласковым. Пена образует замки, которые растворяются под свинцовым небом.
 
-At night, yellow-blue lights dance beneath the water, a half-mile off the coast. 2d6 Merfolk remember fishing there.
+Ночью жёлто-голубые огоньки танцуют под водой, в полумиле от берега. 2к6 русалок помнят, как там ловили рыбу.
 
-### 04.13 Gargoyles
+### 04.13 Горгульи
 
-By the river they cluster, as they have done for decades. 11 Gargoyles, coated in hard-baked mud. Despite new beliefs, people from Blulach still sneak out and throw the water over them. Less people die this way. When Glas has tried to deal with them, too many cousins have died - only two of the Gargoyles died.
+Они группируются у реки, как делали это десятилетиями. 11 горгулий, покрытых запёкшейся грязью. Несмотря на новые верования, люди из Блюлаха по-прежнему тайком выходят и обливают их водой. Так умрёт меньше людей. Когда Глас попытался разобраться с ними, погибло слишком много сородичей и всего 2 горгульи.
 
-They slowly, painfully pivot their heads to watch you. If you bear no buckets, they achingly move to defend themselves. Their pain fuels their violence. 
+Они медленно, с трудом поворачивают головы, чтобы посмотреть на вас. Если у вас нет вёдер, они с мучительно передвигаются, чтобы защититься. Их боль подпитывает их насилие.
 
 ### 04.14 Киллюкан
 
-This sparse village of 43 is gathered around a tiny church. They are outnumbered 4-1 by their cattle, and distrust river fish. They are used only as bait for ocean fishing. They always have a bountiful harvest. 
+Эта малонаселённая деревня из 43 человек расположена вокруг крошечной церкви. Их крупный рогатый скот превосходит их численностью в 4 раза, и они не доверяют речной рыбе. Они используются её лишь в качестве приманки для рыбной ловли в океане. У них всегда обильный урожай.
 
-Ultán plans to join the Gargoyles, having announced this publicly a week ago. Everyone knows this is because Ciamhnait spurned his advances. None are motivated to stop him - even his parents do not care. He continues to mope and loudly plan his journey.
+Ултан планирует присоединиться к горгульям, публично объявив об этом неделю назад. Все знают, причиной тому --- отвергнутые ухаживания за Чамнайт. Ни у кого нет мотивов останавливать его --- даже его родителям наплевать. Он продолжает хандрить и громко планировать своё путешествие.
 
-Unbeknownst the priest, Killucan was once much larger. Half the village took to the water. The remaining half still feel the call of the sea. Some develop scales and hide them. 
+Пока деревню Киллюкан не заприметил священник, она была намного больше. Половина деревни бросилась к воде. Оставшаяся половина всё ещё чувствует зов моря. У некоторых появляются чешуйки, которые они скрывают.
 
-They defer to Glas of Blulach in terms of governance. 
+Они подчиняются Гласу из Блюлаха в плане управления.
 
-5 footmen, 5 skirmishers, 5 fishing boats.
-
+5 пехотинцев, 5 застрельщиков, 5 рыбацких лодок.
