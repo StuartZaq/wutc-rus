@@ -28,8 +28,10 @@ PDFs are made from .md files with terminal commands:
 
 ## On the roadmap
 
-- Translation of
+- Pandoc rendering (.md -> .pdf)
   - ruislip-fills.md
+
+- Translation of
   - treasure-special.md
   - wandering-isles.md
 
@@ -55,7 +57,9 @@ https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
 # В планах
 
-- Перевод
+- Преобразование через pandoc (.md -> .pdf)
   - ruislip-fills.md
+
+- Перевод
   - treasure-special.md
   - wandering-isles.md
