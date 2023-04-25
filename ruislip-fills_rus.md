@@ -308,66 +308,66 @@ geometry: margin=1in
 
 ### 02.11 Огоннелло
 
-A ruined fort - nothing but an L of stacked stone - pierces the treeline and marks the location of Ogonnelloe, home to 80. They are trappers of game and hewers of wood. 
+Разрушенный форт --- не что иное, как нагромождение камней буквой "L" --- пронзает линию деревьев и выдаёт местоположение Огоннелло, где проживает 80 человек. Они охотятся на дичь и валят лес.
 
-The village was lead by Ailín until recently - he has been missing for three days. Before that, Caoimhe disappeared. All are set to fearfully clutching swords as the night creeps through the village. 
+До недавнего времени деревней руководил Айлин --- но последние три дня его никто не видел. Перед ним исчез Каоимхе. Все настроены в страхе сжимать мечи, когда ночь подкрадывается к деревне.
 
-For centuries, against the day they are needed again, a Werewolf has dwelt in the village, passing on the curse as they feel time settle against old bones. Before the newest apprentice - Clodagh - could complete her training, the previous Werewolf was killed by his wife - jealous of the time he spent with young Clodagh. As such, she does not know how to control the curse. She was told of others on Albann who share the curse, but no more than that.
+Веками, в деревне обитал оборотень, готовый явить себя в случае нужды и передававший проклятие, когда чувствовал, что время оседает на старых костях. Прежде чем новая ученица Клодах смогла завершить своё обучение, предыдущий оборотень был убит своей женой, ревновавшей его к юной Клодах, с которой тот проводил много времени. Таким образом, она не знает, как контролировать проклятие. Ей рассказывали о других жителях Олбанна, на которых лежит то же проклятие, но не более того.
 
-The bodies have been devoured. The next attack may not be fatal, and propagate the curse. Both the Druid Cult and the Christians will begin to notice as the bodies stack. 
+Тела были сожраны. Следующая атака может оказаться не смертельной, а распространить проклятие. Культ друидов и христиане начнут замечать, что количество мертвых тел увеличивается.
 
-24 skirmishers. 
+24 застрельщика.
 
-### 03.11 Orc Fort
+### 03.11 Форт оков
 
-Within the depths of the moor, a fort leans, the wet soil unable to support it. Water pools, rainbow shimmers playing across the surface. During the day, greasy black smoke emerges, coiling into the sky. The fort has a partially collapsed dry-stonewall surrounding it - there are 3 main sections which have collapsed. 
+В глубине вересковых пустошей покоится крепость, влажная почва не в состоянии ее выдержать. Всюду заводи, на поверхности которых играют радужные переливы. Днём появляется жирный чёрный дым, клубящийся в небо. Форт окружает частично разрушенная стена из сухой кладки --- есть 3 основные секции, которые обрушились.
 
-The fort is narrow, and has three floors. 80 Orcs dwell within. During the day they forge their weapons and slugs of iron. At night they roam the surrounding hexes in bands of 16, looking for victims. 30 remain to guard the lumps of meat growing into more Orcs.  
+Форт узкий и имеет три этажа. Внутри обитают 80 орков. Днём они куют своё оружие и железные заготовки. По ночам они группами по 16 орков бродят по окрестностям в поисках жертв. 30 остаются охранять куски мяса, превращающиеся в новых орков.
 
-In case of an attack, they blow horns to summon back the war-bands, and use javelins and bows to keep intruders at bay, firing from the upper floors. All have axes, clubs or swords. 20 of them have javelins. A further 20 have bows. A pit for remains also acts as a store of treasure (Monstrous II twice):
+В случае нападения они трубят в рога, чтобы отозвать боевые отряды, и используют дротики и луки, чтобы держать незваных гостей на расстоянии, стреляя с верхних этажей. Они вооружены топорами, дубинками или мечами. У 20 из них есть дротики. Еще у 20 есть луки. Яма для останков также служит хранилищем сокровищ (Чудовища II дважды):
 
-- 600sp in mixed coinage - much of it silver and local.
-- 5 Tin ingots, worth 225sp.
-- 5 bundles of dried Liberty Caps, worth 250sp.
-- A single block of pure ivory, worth 200sp.
-- A vellum map with instructions in Latin. They describe an otherwise nondescript hill in 06.11. Buried half-way up is a metal box, heavily rusted. Within is (Magic User I):
-	+ 300sp in silver dhirrams.
-	+ A pouch of cinnamon bark, worth 100sp.
-	+ _The Running Net_ (&T)
+- 600 см смешанной чеканки --- большая часть из серебра и из местных монет.
+- 5 оловянных слитков стоимостью 225 см.
+- 5 пачек сушёных грибов псилоцибе, стоимостью 250 см.
+- Один блок из чистой слоновой кости стоимостью 200 см.
+- Карта на пергаменте с инструкциями на латыни. Они описывают ничем не примечательный холм в 06.11. На полпути вверх зарыт металлический ящик, сильно проржавевший. Внутри (Маг I):
+	+ 300 см в виде в серебряных дирхам.
+	+ Кисет коры корицы стоимостью 100 см.
+	+ _Бегущая сеть._ (&T)
 
 ### 01.12 Монастырь Святого Ольгама 
 
-The only monastery on Ruislip, inhabited by 96 monks.  The abbot, Sean, was raised in the Druid-Cult, and despises them with a passion. He is dedicated to rooting out their influence on the politics of Ruislip - to the point of betraying his Christian ideals. The other monks put their entire faith in him - such converts are vanishingly rare. 
+Единственный монастырь на Рейслипе, в котором проживают 96 монахов. Настоятель Шон был воспитан в культе друидов и страшно презирает их. Он стремится искоренить их влияние на политику Райслипа --- вплоть до предательства своих христианских идеалов. Другие монахи вложили в него всю свою веру --- такие новообращённые исчезающе редки.
 
-All of the monks at least passably speak Latin and Ruis - many of them can read. Sean is able to read Ghom. They have the most complete historical annals, although they are very one-sided - going so far as to praise the ancient invaders who first brought the faith to the island. Some of the more free-spirited monks also collate myths and stories. 
+Все монахи хотя бы сносно владеют латынью и райским языками --- многие из них умеют читать. Шон умеет читать Гом. У них самые полные исторические летописи, хотя они очень односторонни --- заходят так далеко, что восхваляют древних захватчиков, которые первыми принесли веру на остров. Некоторые из наиболее свободомыслящих монахов также собирают мифы и истории.
 
-Hospitality is offered to all who do not openly bear pagan symbols - if they are willing to listen to the sermons. 
+Гостеприимство окажут всем, кто не носит открыто языческих символов, если те будут готовы слушать проповеди.
 
-The monastery contains (Temple II):
+В монастыре находится (Храм II):
 
-- 2000sp in Ruis and Brythonic coins.
-- Ten bottles of fine wine from Pyorra, worth 200sp.
-- The complete skeleton of St Olham, worth 1500sp to jaded Christian collector or pagan warlord.
+- 2000 см раиских и бриттских монетах.
+- Десять бутылок изысканного вина из Пиорры стоимостью 200 см.
+- Полный скелет Святого Ольгама, стоимостью 1500 см для пресыщенного христианского коллекционера или языческого военачальника.
 
-### 03.12 A Dog 
+### 03.12 Пёс
 
-A huge wolfhound bathes in the river. If offered food, it will become incredibly loyal although will cheekily steal food whenever inconvenient.
+Огромный волкодав купается в реке. Если предложить ему еду, он станет невероятно лояльным, хотя и будет нахально воровать еду всякий раз, когда она будет крайне важна для вас.
 
 \newpage
 
 ### 05.12 Блюлах
 
-A thousand souls dwell within the stone walls of Blulach, open only to the channel that separates Ruislip and Albann. Within the walls, stone streets and cramped wooden houses. Brythonic is as common and Ruis in the markets and alehouses. A church looms above most of the buildings, and shows signs of generations of devoted maintenance. 
+Тысяча душ обитает в каменных стенах Блюлаха, открытых лишь каналу, разделяющему Райслип и Олбанн. Внутри крепостных стен на каменных улицах ютятся тесные деревянные дома. На рынках и в пивных бриттский язык так же распространён, как и райский. Церковь возвышается над большинством зданий, и на ней видны следы многолетнего самоотверженного ухода.
 
-From a small fort on the docks, Glas (4HD, Maille, Spear, Shield) rules with his loyal men, all clad in maille. His Christian faith and Albann heritage is no secret - his family were imported here by the ancient invaders. They have formed a warrior aristocracy, and consider one-another cousins. Members of the Druid-Cult are burnt alive in the market square if discovered. 
+Из небольшого форта в доках Глас (4 КЗ, кольчуга, копьё, щит) правит со своими верными людьми, одетыми в кольчуги. Его христианская вера и олбаннское наследие ни для кого не секрет --- его семья была привезена сюда древними захватчиками. Они сформировали воинственную аристократию и считают друг друга двоюродными братьями. Членов культа друидов сжигают заживо на рыночной площади, если обнаруживают.
 
-Glas offers a bounty of 750sp for the head of Niamh - she raids his fishing and trade vessels, ensuring that any of his family are killed.
+Глас предлагает награду в 750 см за голову Ниам --- она совершает набеги на его рыболовецкие и торговые суда, ручаясь убить любого из его семьи.
 
-The bishop, Guaire, will pay 1000sp for the removal of the Gargoyles in 04.13. You would not be the first to try.
+Епископ Гуайре заплатит 1000 см за устранение горгулий в 04.13. Вы будете не первыми, кто попытался это сделать.
 
-A paddock of 20 riding horses, liable to snap, eyes rolling, is kept outside the wall. 
+За стеной находится загон с 20 ездовыми лошадьми, которые могут прикусить вас и даже закатить глаза.
 
-20 armoured footmen, 40 footmen, 60 skirmishers, 20 horsemen, 2 Knarr plus 8 fishing boats.
+20 тяжёлых пехотинцев, 40 пехотинцев, 60 застрельщиков, 20 всадников, 2 кнорра плюс 8 рыбацких лодок.
 
 ### 06.12 Курганы
 
