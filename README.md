@@ -14,6 +14,8 @@ https://lukegearing.itch.io/volume-2-monsters --- монстрятник
 
 https://lukegearing.itch.io/treasure --- сокровища
 
+https://itch.io/s/72555/wolves-gc-volume-2-treasure --- бандл с 3 позициями выше
+
 https://assemblyrequisite.itch.io/wolves-upon-the-coast-asset-pack --- кастомный чарник и карта для игроков
 
 https://lukegearing.blot.im/wolves-upon-the-coast-hexfill-procedure --- процедура заполнения гексов
