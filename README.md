@@ -1,46 +1,42 @@
 # Волки на побережье
 
-This is a translation of **release-march** version of files found on itch.  
-**UPD:** with a huge tweak in Magic rules from the future update.
+Здесь вы найдёте перевод материалов для кампэйна Wolves Upon the Coast --- "Волков на побережье" --- на русский язык.
 
-Это перевод **мартовских** версий файлов с itch.  
-**UPD:** в правила по Магии добавлен довольно существенный кусок из будущего релиза правил.
+## Полезные ссылки
 
-## Wolves Upon the Coast, Russian translation of the rules
+https://lukegearing.blot.im/wolves-upon-the-coast --- основная страница в блоге автора (с правилами)
 
-https://lukegearing.blot.im/wolves-upon-the-coast
+https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign --- собственно гекскроул (есть демка одного острова)
 
-https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
+https://lukegearing.itch.io/volume-2-monsters --- монстрятник
 
-Russian translation of "Wolves Upon the Coast".
+https://lukegearing.itch.io/treasure --- сокровища
 
-PDFs are made from .md files with terminal commands:
+https://assemblyrequisite.itch.io/wolves-upon-the-coast-asset-pack --- кастомный чарник и карта для игроков
 
-`pandoc -V lang=ru wutc-book1_rus.md -s -o "Wolves Upon the Coast (RUS) Book 1 - Rules.pdf" --pdf-engine=xelatex`
+https://lukegearing.blot.im/wolves-upon-the-coast-hexfill-procedure --- процедура заполнения гексов
 
-`pandoc -V lang=ru wutc-book2_rus.md -s -o "Wolves Upon the Coast (RUS) Book 2 - Magic.pdf" --pdf-engine=xelatex`
+https://www.timeanddate.com/calendar/?year=850&country=9 --- календарь
 
-`pandoc -V lang=ru wutc-quickstart-equipment_rus.md -s -o "Quickstart Equipment (RUS).pdf" --pdf-engine=xelatex`
+## Генераторы
 
-`pandoc -V lang=ru ruislip-fills_rus.md -s -o "Ruislip (RUS).pdf" --pdf-engine=xelatex`
+https://perchance.org/wutc-chargen --- генератор персонажей
 
-`--pdf-engine=xelatex` added so terminal/pandoc understand cyrillic symbols in .md files. 
+https://perchance.org/2bt3luh939 --- генератор имён
 
-`lang=ru` added to have the header of the table of contents written in Russian.
+https://blog.reedsy.com/character-name-generator/medieval/ --- генератор имён №2
 
-## On the roadmap
+https://perchance.org/wutc-encounters --- генератор столкновений (а также погоды)
 
-- Translation of
+https://perchance.org/wutc-treasure ---- генератор сокровищ
+
+# В планах
+
+- Перевод
   - treasure-special.md
   - wandering-isles.md
 
-## Wolves Upon the Coast, перевод правил на русский язык
-
-https://lukegearing.blot.im/wolves-upon-the-coast
-
-https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
-
-Перевод на русский язык "Волков на побережье".
+---
 
 ПДФки сделаны из .md файлов с помощью терминала и команд:
 
@@ -56,8 +52,3 @@ https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign
 
 `lang=ru` добавлено, чтобы заголовок содержания был написан по-русски.
 
-# В планах
-
-- Перевод
-  - treasure-special.md
-  - wandering-isles.md
