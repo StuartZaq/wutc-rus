@@ -6,9 +6,7 @@
 
 ## Полезные ссылки
 
-https://lukegearing.blot.im/wolves-upon-the-coast --- основная страница в блоге автора (с правилами)
-
-https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign --- собственно гекскроул (есть демка одного острова)
+https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign --- собственно гекскроул с демкой (описания гексов одного острова и 2 книги правил)
 
 https://lukegearing.itch.io/volume-2-monsters --- монстрятник
 
