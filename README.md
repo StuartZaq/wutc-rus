@@ -40,7 +40,10 @@ https://perchance.org/wutc-treasure ---- генератор сокровищ
   - treasure-special.md
   - wandering-isles.md
 
----
+# Pandoc
+
+pandoc 3.1.2  
+XeTeX 3.141592653-2.6-0.999993 (TeX Live 2021)
 
 ПДФки сделаны из .md файлов с помощью терминала и команд:
 
