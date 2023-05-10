@@ -2,7 +2,9 @@
 
 Здесь вы найдёте перевод материалов для кампэйна Wolves Upon the Coast --- "Волков на побережье" --- на русский язык.
 
-Все материалы соответствуют **release-april**
+Все материалы соответствуют **release-april**.
+
+В репозитории лежат .md файлы и сделанные из них .pdf файлы. ПДФ-ки могут несколько опаздывать и, следовательно, слегка отличаться (запаздывать) от маркдаун файлов.
 
 ## Полезные ссылки
 
@@ -43,7 +45,15 @@ https://perchance.org/wutc-treasure ---- генератор сокровищ
 pandoc 3.1.2  
 XeTeX 3.141592653-2.6-0.999993 (TeX Live 2021)
 
-ПДФки сделаны из .md файлов с помощью терминала и команд:
+ПДФки сделаны из .md файлов с помощью терминала и команды
+
+`pandoc -V lang=ru %file_name%.md -s -o %file_name%.pdf --pdf-engine=xelatex`
+
+`--pdf-engine=xelatex` добавлено чтобы терминал/pandoc поняли кириллические символы в .md файлах. 
+
+`lang=ru` добавлено, чтобы заголовок содержания был написан по-русски, а части слов, не влезающие в строку, переносились на следующую, т.е. работали правила переноса русского языка.
+
+Например:
 
 `pandoc -V lang=ru wutc-book1_rus.md -s -o "Wolves Upon the Coast (RUS) Book 1 - Rules.pdf" --pdf-engine=xelatex`
 
@@ -52,8 +62,3 @@ XeTeX 3.141592653-2.6-0.999993 (TeX Live 2021)
 `pandoc -V lang=ru wutc-quickstart-equipment_rus.md -s -o "Quickstart Equipment (RUS).pdf" --pdf-engine=xelatex`
 
 `pandoc -V lang=ru ruislip-fills_rus.md -s -o "Ruislip (RUS).pdf" --pdf-engine=xelatex`
-
-`--pdf-engine=xelatex` добавлено чтобы терминал/pandoc поняли кириллические символы в .md файлах. 
-
-`lang=ru` добавлено, чтобы заголовок содержания был написан по-русски, а части слов, не влезающие в строку, переносились на следующую.
-
