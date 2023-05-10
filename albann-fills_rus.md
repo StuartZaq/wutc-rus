@@ -1,160 +1,154 @@
 ---
-title: Albann & Surrounds  
-author: Luke Gearing
+title: Олбанн и окрестности  
+author: Люк Гиринг
+date: \today
 mainfont: Vollkorn
-geometry:
-	margin=1in
 papersize: b5
+geometry: margin=1in
 ---
-Maps by Roz Leahy
+
+Карты нарисованы Роз Лихи
 
 ---
-Those in kingdom of Fortu speak Pictish.  
-Those in the kingdoms of Ergyng and Hwicce speak Brythonic.  
-The aristocracy of Hwicce speak Norse.  
-Priests and scholars throughout Albann speak and write in Latin.  
-Those on the Northern and Eastern coasts speak passable Norse.
-Those on the Western coast speak passable Ruis.
-The Fallen Druids of Albann have forgotten Ghom. They refer to themselves as Druids only - they do not know how far they have come.
 
-\pagebreak
+Жители королевства Форту говорят по-пиктски.  
+Жители королевств Эргинг и Хвичче говорят по-бриттски.  
+Аристократия Хвичче говорит по-варяжски.  
+Священники и учёные по всему Олбанну говорят и пишут на латыни.  
+Жители Северного и Восточного побережий сносно говорят по-варяжски.  
+Те, кто живёт на Западном побережье, сносно говорят на райском.  
+Павшие друиды Олбанна забыли Гом. Сами они называют себя только друидами --- они и не подозревают, как далеко зашли.  
 
-# Weather
+# Погода
 
-Roll 1d8 at commencement of play.  
-For all weather rolls, add +1 if in Fortu or the Black Strath.  
-After this, roll 1d6, and:  
-- If the previous days score was 2 or less, -2 to the dice roll.
-- If the previous days score was 5 or more, +2 to the dice roll.
+Киньте 1к8 в начале игры.
+После этого бросайте 1к6 и:
 
-| # | Weather |
+- Если в предыдущий день значение было 2 и менее, отнимите -2 от значения броска.
+- Если в предыдущий день значение было 5 и более, добавьте +2 к значению броска.
+
+| # | Погода |
 |---|--------|
-|-1| Very Hot.
-| 0| Hot.
-| 1| Warm.
-| 2| Overcast.
-| 3-4| Fog.
-| 5| Light Rain. 
-| 6-7| Heavy Rain.
-| 8+| Storm. 
+|-1| Очень жарко.
+| 0| Жарко.
+| 1| Тепло.
+| 2| Высокая облачность.
+| 3--4| Туман.
+| 5| Слабый дождь. 
+| 6--7| Ливень.
+| 8+| Шторм. 
 
-Rain and Storms have a 5% chance of being Snow - doubled in the mountains and in Fortu. Consecutive results continue to be Snow.
+Есть 5% вероятность того, что дождь и буря будут снежными --- удвойте шансы в горах и Форту. Последующие результаты по-прежнему остаются снежными.
 
-# Encounters by Area
+# Столкновения в зависимости от района
 
-Every 12 hours, an Encounter roll should be made. Use the location, reaction and surprise to determine goals as needed - most do not wander aimlessly. 
+Каждые 12 часов необходимо делать проверку на столкновение. Используйте местоположение, реакцию и ошеломление для определения целей встреченных монстров --- большинство из них не блуждают бесцельно.
 
-## Fortu & Guthram
+## Форту и Гутрам
 
-| d100 | Encounter |
+| к100 | Столкновение |
 |----|-----------|
-|1-5 |2d20 Bandits.
-|6-10 |2d12 Soldiers travelling to nearest Keep or City.
-|11-13 |1 Priest and 1d20 Faithful.
-|14-16 |Merchant Carriage and 2d6 guards.
-|17-18 |Herd of deer, 2-in-6 stalked by 3d6 hungry wolves.
-|19-20 |1d100 heads of cattle or sheep, 1 herdsman per 20.
-|21-24 |Conflict - roll a d20 for each side.
-|25-30 |Corpse - roll a d20 to determine origin.
-|31-60 |[If within 2 hexes of 09.02] 2d6 Gnolls.
-|61-80 |[If within 2 hexes of the Black Strath at Night] 3d6 Orcs.
-|81-85 |The Wyvern from 18.04, high above.
-|86+   |No Encounter.
+|1--5 |2к20 бандитов.
+|6--10 |2к12 солдат, направляющихся в ближайшую крепость или город.
+|11--13 |1 священник и 1к20 верующих.
+|14--16 |Торговая повозка и 2к6 охранников.
+|17--18 |Стадо оленей, с шансом 2 из 6 преследуемое 3к6 голодными волками.
+|19--20 |1к100 голов скота или овец, 1 пастух на каждые 20.
+|21--24 |Конфликт --- киньте к20 для каждой из сторон.
+|25--30 |Труп --- киньте к20, чтобы определить, чей он.
+|31--60 |[Если в пределах 2 гексов от 09.02] 2к6 гноллов.
+|61--80 |[Если в пределах 2 гексов от Чёрной лощины ночью] 3к6 орков.
+|81--85 |Виверна из 18.04, высоко в небе.
+|86+   |Без столкновений.
 
-\newpage
+### Чёрная лощина
 
-### The Black Strath 
+*обратите внимание, что орки могут передвигаться днём из-за густых лесов по всему региону.*
 
-_note that Orcs are able to move during the day due to the thick forestation throughout the region._
-
-| d100 | Encounter |
+| к100 | Столкновение |
 |----|-----------|
-|1-15 |3d6 Orcs.
-|16-18 |2d8 lost Soldiers from nearest Settlement.
-|19-22 |Caravan bearing iron and 3d6 guards.
-|23-25|Caravan bearing silver and 4d6 guards.
-|26-28 |2d6 Soldiers, being harried by 3d6 Orcs.
-|29-30 |2d6 Soldiers, being hunting by 2d6 Spiders. (15.07 for statistics)
-|31-36 |2d6 Spiders. (15.07 for statistics)
-|37-38 |2d6 Ghouls
-|39-42| Corpses and/or wreckage. 1d6-1 days old.
-|43-63|[If within 2 hexes of 15.05] 1d6 humans, faced filled with love, offering shelter at their 'home' - 15.05.
-|63-68| The Wyvern from 18.04, skimming the treetops.
-|69+ |No Encounter.
+|1--15 |3к6 орков.
+|16--18 |2к8 потерявшихся солдат из ближайшего поселения.
+|19--22 |Караван, везущий железо с 3к6 охранниками.
+|23--25|Караван, везущий серебро с 4к6 охранниками.
+|26--28 |2к6 солдат, преследуевых 3к6 орками.
+|29--30 |2к6 солдат, на которых охотятся 2к6 пауков. (Характеристики в 15.07)
+|31--36 |2к6 пауков. (Характеристики в 15.07)
+|37--38 |2к6 гулей.
+|39--42| Трупы и/или обломки. Им 1к6-1 дней.
+|43--63|[Если в пределах 2 гексов от 15.05] 1к6 человек, лица которых наполнены любовью, они предлагают убежище в своём "доме" --- 15.05.
+|63--68| Виверна из 18.04, скользит по верхушкам деревьев.
+|69+ |Без столкновений.
 
-## Hwicce 
+## Хвичче 
 
-| d100 | Encounter |
+| к100 | Столкновение |
 |----|-----------| 
-|1-5 |2d20 Bandits.
-|6-10 |2d12 Soldiers travelling to nearest Keep or City.
-|11-13 |1 Priest and 1d20 Faithful.
-|14-16 |Merchant Carriage and 2d6 guards.
-|17-18 |Herd of deer, 2-in-6 stalked by 3d6 hungry wolves.
-|19-20 |1d100 heads of cattle, 1 herdsman per 20.
-|21-24 | Conflict - roll a d20 for each side.
-|25-30 | Corpse - roll a d20 to determine origin.
-|31-50 |[If within 2 hexes of 15.13] 8 Mummies (as 15.13).
-|51-70 |[If on path from 21.11 and 18.15] Salt-Rimed Thomas.
-|71-90 |[If adjacent to 19.15] 4d12 Zombies.
-|91-95 |The Wyvern from 18.04, skimming the treetops.
-|96+ |No Encounter.
+|1--5 |2к20 бандитов.
+|6--10 |2к12 солдат, направляющихся в ближайшую крепость или город.
+|11--13 |1 священник и 1к20 верующих.
+|14--16 |Торговая повозка и 2к6 охранников.
+|17--18 |Стадо оленей, с шансом 2 из 6 преследуемое 3к6 голодными волками.
+|19--20 |1к100 голов скота, 1 пастух на каждые 20.
+|21--24 |Конфликт --- киньте к20 для каждой из сторон.
+|25--30 |Труп --- киньте к20, чтобы определить, чей он.
+|31--50 |[Если в пределах 2 гексов от 15.13] 8 мумий (см. 15.13).
+|51--70 |[Если на пути от 21.11 в 18.15] Томас Соляная Каёмка.
+|71--90 |[Если рядом с 19.15] 4к12 зомби.
+|91--95 |Виверна из 18.04, скользит по верхушкам деревьев.
+|96+ |Без столкновений.
 
-## The Moerheb Weald & Coast
+## Мёрхеб Вельд и побережье
 
-| d100 | Encounter |
+| к100 | Столкновение |
 |----|-----------|
-|1-6 |1 Fallen Druid and 2d20 Faithful
-|7-9 |2d4 fearful humans, travelling home to the nearest settlement
-|9-10|2d20 Bandits.
-|11-12|Herd of deer, 5-in-6 stalked by 3d6 hungry wolves.
-|13-15 |Conflict - roll a d12 for each side.
-|16-18 |Corpse - roll d12 to determine origin.
-|19-29|[If adjacent 15.15] Man-Eating Horse.
-|30-45 |[If within 2 hexes of 13.19] 2d6 humans, eager to seek warriors.
-|46-57 |[If within 3 hexes of 16.20] The Primordial Wolf Mother and 4d6 adult wolves.
-|58-62 |The Wyvern from 18.04, high above.
-|63+ |No Encounter.
+|1--6 |1 Павший друид и 2к20 верующих.
+|7--9 |2к4 испуганных людей, возвращающихся домой в ближайшее поселение.
+|9--10|2к20 бандитов.
+|11--12|Стадо оленей, с шансом 5 из 6 преследуемое 3к6 голодными волками.
+|13--15 |Конфликт --- киньте к12 для каждой из сторон.
+|16--18 |Труп --- киньте к12, чтобы определить, чей он.
+|19--29|[Если рядом с 15.15] Лошадь-людоед.
+|30--45 |[Если в пределах 2 гексов от 13.19] 2к6 людей, жаждущих найти воинов.
+|46--57 |[Если в пределах 3 гексов от 16.20] Первобытная волчица-мать и 4к6 взрослых волков.
+|58--62 |Виверна из 18.04, высоко в небе.
+|63+ |Без столкновений.
 
-\pagebreak
+## Эргинг 
 
-## Ergyng 
-
-| d100 | Encounter |
+| к100 | Столкновение |
 |----|-----------|
-|1-5 |2d20 Bandits.
-|6-10 |2d12 Soldiers travelling to nearest Keep or City.
-|11-13 |1 Priest and 1d20 Faithful.
-|14-16 |Merchant Carriage and 2d6 guards.
-|17-18 |Herd of deer, 2-in-6 stalked by 3d6 hungry wolves.
-|19-20 |1d100 heads of cattle, 1 herdsman per 20.
-|21-24 | Conflict - roll a d20 for each side.
-|25-30 | Corpse - roll a d20 to determine origin.
-|31-40 |[If within 4 hexes of 10.13] 1d12 Centaurs
-|41-45 |[If adjacent to 07.14] Ylmo, the Last Bear
-|46-65 |[If within 2 hexes of 11.16] 2 Ogres
-|66-75 |[If adjacent to 9.18] 2d12 Kobolds
-|76-85|[If adjacent to 9.20] 1 Ogre
-|86-90 |The Wyvern from 18.04, skimming the treetops.
-|91+ |No Encounter.
+|1--5 |2к20 бандитов.
+|6--10 |2к12 солдат, направляющихся в ближайшую крепость или город.
+|11--13 |1 священник и 1к20 верующих.
+|14--16 |Торговая повозка и 2к6 охранников.
+|17--18 |Стадо оленей, с шансом 2 из 6 преследуемое 3к6 голодными волками.
+|19--20 |1к100 голов скота, 1 пастух на каждые 20.
+|21--24 | Конфликт --- киньте к20 для каждой из сторон.
+|25--30 | Труп --- киньте к20, чтобы определить, чей он.
+|31--40 |[Если в пределах 4 гексов от 10.13] 1к12 кентавров.
+|41--45 |[Если рядом с 07.14] Ильмо, последний медведь.
+|46--65 |[Если в пределах 2 гексов от 11.16] 2 огра.
+|66--75 |[Если рядом с 9.18] 2к12 кобольдов.
+|76--85|[Если рядом с 9.20] 1 огр.
+|86--90 |Виверна из 18.04, скользит по верхушкам деревьев.
+|91+ |Без столкновений.
 
-### The Roaming Court
+### Бродячий двор
 
-A curse dictates that the reigning monarch of Ergyng may not sleep in the same settlement on consecutive nights without damning the kingdom to ruin. The origins of this are lost, but the requirement upheld - King Cadoc, and most of the court, travel around. Such a routine has become part of life in Ergyng - reserves are always held for a royal visit. 
+Проклятие гласит, что правящий монарх Эргинга не может спать в одном и том же поселении несколько ночей подряд, не обрекая королевство на гибель. Истоки проклятия уже потерялись, но требование остаётся в силе --- король Кадок и большая часть двора путешествуют по стране. Такой распорядок стал частью жизни в Эргинге --- к королевскому визиту всегда готовы, запасы пополнены.
 
-The court moves 1 hex a day in a random direction, never leaving Ergyng nor entering the Moerheb Weald. Track this whilst the party are in or near Ergyng - otherwise start them in a random settlement. 
+Двор перемещается по 1 гексу в день в произвольном направлении, никогда не покидая Эргинг и не входя в Мёрхеб Вельд. Отслеживайте его, если группа находится в Эргинге или рядом с ним --- в противном случае начните его движение в случайном поселении.
 
-The court consists of King Cadoc (4HD, Full Length Maille, Sword), his wife Queen Mithel, 53 assorted courtiers, 150 serving staff,60 Royal Guard (armoured footmen) and 7 hidden Doppelgangers. The tents are huge and bright and can be seen at a great distance. 
+Двор состоит из короля Кадока (4 КЗ, кольчуга в полный рост, меч), его жены королевы Митэл, 53 различных придворных, 150 человек обслуги, 60 королевских гвардейцев (тяжёлые пехотинцы) и 7 скрытых двойников. Палатки огромные и яркие, и их видно на большом расстоянии.
 
-King Cadoc has yet to select a successor - neither of his sons wants the throne, preferring to keep their cities. Cadoc treasures the unsteady peace of Albann, but will not brook insult. He loathes the Fallen Druids.  
+Королю Кадоку ещё предстоит выбрать преемника --- ни один из его сыновей не хочет занимать трон, предпочитая сохранить свои города. Кадок дорожит зыбким миром Олбанна, но не потерпит оскорблений. Он ненавидит Павших друидов.
 
-Queen Mithel rules the court with an iron fist. Any rudeness or deviation is punished severely - titles have been stripped for faux pas at the feasting table.
+Королева Митэл правит двором железной рукой. Любая грубость или отклонение от нормы строго наказываются --- титулов лишаются за бестактность за праздничным столом.
 
-\pagebreak
+# Близлежащие острова
 
-# Nearby Islands
-
-## 07.05 Flodaigh
+## 07.05 Флодей
 
 The isle of Flodaigh swarms with sea-birds - in spring, their nests fill the ground. Crushing an egg is sure to invoke their fury. At the centre of the island, a crumbled drystone tower in the style of Ruis. In the rich, bird-shit fertilized soil, a proliferation of psychoactive mushrooms grow.  
 
@@ -164,17 +158,15 @@ If the mushrooms of Flodaigh are eaten, the consumer sleeps deeply, entering the
 
 If the warrior of Flodaigh is alive and the realm of dream is entered, conversation is possible - they will offer to teach their way of the sword, practiced in the surreality of slumber. By looping their blade in a figure-of-eight they offer attackers no opening - causing them to take -1 to hit. They do not remember their name, nor how long they have dwelt here. 	
 
-## 01.19 Sibhinis
+## 01.19 Сибинис
 
 Ancient apple trees crowd the isle of Sibhinis. Sleek, glossy birds and fish eat the ever-ripe fruit. Any staying the night here and eating the fruit find themselves fully healed. If transported off the island, the fruit is poison, killing those unable to make a Physique save. 
 
-## 03.21 Tarasaigh
+## 03.21 Тарасай
 
 White lilies blanket the island, marred only by the stone tombs. The stone making up these tombs is impossibly hard, despite being conventional to inspection. Any buried here guarantee a worthy successor - any player character buried here will be replaced by a character who already has a Boast to their name. 
 
-\pagebreak
-
-## 12.23 Sanndraigh
+## 12.23 Сандрей
 
 Sanndraigh is burdened with a coat of oak and beech - thick enough and tall enough to hide the mound that dominates the centre of the island. Birds flutter between the trees, and there is evidence of foxes in the undergrowth. No clear path is marked through the woods.  
 The mound is coated in grass and bramble, but the stone doors are clear of obstruction.
@@ -194,9 +186,6 @@ All named NPCs within speak archaic but understandable Brythonic. As hauscarls, 
 In a Duel, only the combatants may attack one another. Interference breaks the duel, devolving into general combat. In general combat, huscarls _**double**_ their HD and strike twice per round.
 
 ![](zz_assets/finished/Sanndraigh.jpg)
-
-
-\newpage
 **Entrance**  
 A pair of stone doors, each 12' tall and 7' wide. They are plain bar a carving of a wolf, which is limping and small - as if fleeing a fight. The carving is in a realistic style. They are heavy, and there is no mechanism to open them - they must be broken, taking 2 hours using hammers and spikes, or smashed down, requiring a combined strength of 60 and a ram. In either case, those doing the work are exhausted, taking -2 to all rolls for the rest of the day.
 
@@ -225,8 +214,6 @@ Wicker cages line the walls, each containing a prostrate skeleton bound in lead 
 **6**  
 Stuffed boar fill this chamber, each set on crude wooden wheels. Some are roped together, forming chains. Esni (5HD, Full Length Maille, Warhammer) stands amongst them. In combat or a duel, he tries to launch opponents towards clusters of boar to entangle them in the ropes. If combat goes poorly, he kicks sand into the face of any opponents, temporarily blinding them on a failed Doge roll.  
 
-\newpage
-
 **7**  
 Hundreds of spears and swords are plunged into the sand here, each with a helm set atop it. Most show signs of damage - none are fit for use. Anything entering this chamber is attacked by the nearest weapon - once for each step. These attacks are made as 1HD creatures. Crossing from one entrance to another (6-5, 6-9, 5-9) takes at least 20 steps - 15 'long' steps. Other forms of movement are ignored. 
 
@@ -234,7 +221,6 @@ Hundreds of spears and swords are plunged into the sand here, each with a helm s
 A throne of gold-wrapped wood, carved into the form of an eagle, broken-winged. Boars and horses trample outwards from beneath the wings, a fierce gleam in their eyes provided by rubies. If the time is taken, 20 such gems can be dug out, worth 50sp each.
 
 Sitting before the throne like a hound is Cei (HD 7, Maille, Quarterstaff, Club). 
-
 
 **9**  
 A beam of metal runs from ceiling to floor. Around it is a heavy iron chain, which is connected to a cockatrice. It shuffles around the room, clanking - the chain allows it access to all of the room bar the Western end. If attacked with missiles, it hides behind the bar, causing a penalty of 2 to hit.
@@ -252,11 +238,11 @@ The southern wall is dominated by a stone table, a sarcophagus atop it. Modelled
 **12**  
 A glass container holds a man, untouched by time. He is wearing the Crown of the Brythons, wrapped in progressive bands of mother-of-pearl, and topped with emeralds - worth 12000sp to one able to afford it. His raiment is heavy with gold thread and purple ribbons. Ermine fur lines much of the length. Upon his finger in a _Stolen Star_, emitting it's gentle light. The other fingers are heavy with jewelled rings of silver and gold - 12 in number, each worth 350sp. The left hand holds a _Javelin of Thorns._ If the box is smashed, the body rapidly putrefies. The wealth is left unaffected bar the clothing, which is spoiled.
 
-## 20.02 Miughalaigh
+## 20.02 Мингалей
 
 A stone watch-tower in poor repair stands above a small hut and many, many sheep. The sheep are about to strip the island bare of vegetation. The hut and tower contain nothing. The crows and ravens watch closely, anticipating the fall.
 
-## 21.03 Lothing 
+## 21.03 Лотинг 
 
 Upon the shore of Lothing is a nameless village of 35. All fish, gathering cuttlefish. Many create wonderfully delicate pots of clay with long, slender necks - ideal for throwing. The ink from the cuttlefish is stored in throwing-pots. When the bell in the Treasury rings, all flee there, carrying their children. Searching the empty village, there is 145sp in silver Fortu coins and 4 weeks worth of smoked cuttlefish meat. All speak Latin and a little Pictish.
 
@@ -264,13 +250,9 @@ There are 25 fighters in their number, all fighting as unarmoured 1HD humans.
 
 The bell is rung when boats visibly approach the island - it is loud and brazen. A well-worn trail, marked with smashed stone, marks a path to the Treasury. Unlit boats at night may land on the island without being seen.
 
-\pagebreak
-
 ![](zz_assets/finished/Treasury.jpg)
 
-\pagebreak
-
-### The Treasury
+### Сокровищница
 
 A heavy, squat windowless building of mortared stone bricks, laboriously ferried from the mainland. An outcropping of rock runs parallel to the building. Climbing it without equipment is dangerous - those falling taking 3d6 damage from the many jagged horns of stone. Equipment takes time and makes noise - heard by the defenders on a 3-in-6. Those braving the dangerous climb would find the second, accidental entrance (e2) to the building.
 
@@ -291,7 +273,7 @@ Mosaics of mining, wealth and stonecutting mark the walls - all have been polish
 
 *If a handbell has been rung:* 8 missile attacks are made per round from _2_ - these consisting of 4 arrows and 4 javelins. In addition, ink-bottles are flung to try and blind attackers and ruin mirrors. They have enough ammunition to do this for 4 rounds. If things go poorly, the 3 Medusae will join battle, using their petrifying visages. The villagers lie down during this, keen to avoid accidental petrification. 
 
-\newpage 
+ 
 
 **2**  
 A long chamber with a stone desk running perpendicular with the eastern wall. The skirt of the desk is carved with scenes of agricultural abundance - huge sheafs of wheat being lifted and transported.
@@ -312,7 +294,6 @@ A single table breaks up the monotony of the room, untouched by debris or dust. 
 A series of small stone plinths are arranged in this room - each heavy enough to smash the stone tiled floor if pushed over.
 
 *If the Bell has been rung:* 4 villagers with spears watch the entrance to _4_. They will use the plinths as cover - acting as a shield as long as they are not flanked.
-
 
 **6**  
 A small chamber, the walls painted with ink. The paintings depict scenes of burning cities and gentle coastal landscapes. Watching the paintings carefully, the coastal scenes move - they are a rendition of the coast of Lothing.  
@@ -360,8 +341,6 @@ This narrow chamber, the eastern wall lined with iron bars, glitters with wealth
 A mechanism of brass and iron gears dominates the wall. Protruding is a tube, terminating in a keyhole. The key carried by Sabine or found in 15.09 fits, but neither can be turned alone - the other key must be placed into the mechanism in _9_ and turned simultaneously. This unlocks _a_.  
 Picking the mechanism is a 6-dice Dexterity check - failure fouls the mechanism, damaging it beyond repair. This is obvious as soon as the task is begun - the attempt can be called off.
 
-\newpage
-
 **12**  
 Rolls of fabric soften the stone walls of this chamber, each patched and repaired many times. Piles of silk hide weaving looms and half-embroidered garments. Amongst the fabrics waits Aelina, head wreathed in water snakes of vibrant hue. She wears a different robe each day, always matching the colours of the plants in _3_. The fabrics - 20 encumbrance in total - are worth 2500sp.
 
@@ -385,13 +364,11 @@ Wooden racks line the walls, filled with spears. 4 javelins and 4 bows are the o
 
 *If the bell has been rung:* Aelina, Decima and 11 villagers are here, waiting for any noise. Aelina and Decima hide behind a drape of silk as to not accidentally petrify the villagers.
 
-## 21.05 Orasaigh
+## 21.05 Оросей
 
 A sea-cave leads into the interior of Orasaigh, showing signs of splendid stoneworking - pillars, carved with flowing scenes of festivals and torture, support the natural ceiling. The passage is unlit, and impossibly long - sailing down it for a day leads to the Underworld. The Druid-cult calls it _Dubwyn_ and the Christians call it _Hell_. Detailing this realm is beyond the scope of this document - it is more dungeon than landscape. 
 
-\pagebreak
-
-## 23.05 Mhealasta, Lair of Bheithir
+## 23.05 Мелиста, логово Бейтир
 
 Lifeless rock, arrayed against climbers with sea-smoothed cliffs and jagged, unstable peaks. One who braved the ascent would find a roofed vault, burrowed into the rock. Beneath the roof slumbers Bheithir, a dragon, atop a hoard plundered from ships. They have slept for centuries - if more than 350sp of wealth is carried, or the hoard disturbed, Bheithir awakens. They will terrorise the northern seas,  Albann, Faroe and the Mid-Isles from this point on - but first, they will deal with the intruders.
 
@@ -413,9 +390,7 @@ Their hoard is magnificent (Monstrous V):
 - _The Witness_ (&T)
 - 6 draughts of a _Potion of Terrible Strength_ (&T)
 
-\pagebreak
-
-# Albann 
+# Олбанн 
 
 ### 09.02 Dead Meadery 
 
@@ -441,9 +416,6 @@ They have a meagre hoard (Monstrous I):
 	+ 14 _Leper Pearls._ (&T)
 	+ A lead coffin, molten shut. Contains a witch-corpse. 
 
-
-\newpage
-
 ### 08.03 Caelkirk
 
 The fortified town of Caelkirk straddles the river. Full gibbets are strewn, and soldiers fill the towers. A forest of stakes, each bearing a head, cluster around the main gate. The streets are mostly empty - the 1100 remaining citizens move quickly from building to building when they must. What whispered words can be heard are a mix of Pictish, Ruis and Norse. Those carrying arms without wearing the colours of Lutrin are harassed and followed by 4d6 soldiers. 
@@ -453,7 +425,6 @@ Ruled by Lutrin (5HD, Maille, Shield, Mace) - one of the hated Four Counts. He s
 Lutrin's heavy handed approach has only guaranteed hostility against him. Some consider speaking to Norse cousins to occupy the town. 
 
 60 footmen, 40 skirmishers, 10 horsemen, 2 karvi plus 5 fishing boats.
-
 
 ### 10.03 Renegade Cove
 
@@ -471,8 +442,6 @@ Diving to the bottom of the pools and scrabbling around, one could find 1d20 sil
 
 Thousands of crabs in a small set of rockpools. They move in circles, dancing, locking claws with one another. If disturbed, they all scuttle into the ocean. 
 
-\newpage
-
 ### 13.03 Eanverness, capital of Fortu
 
 The fort of Eanverness sits atop a hill, surveying the city and sea alike. Rings of wooden walls ripple throughout the city - the oldest sections having areas built of stone, with wood becoming predominant towards the edges. Amongst the 4534 inhabitants, Pictish and Norse are common. 
@@ -488,8 +457,6 @@ There is a distinct lack of unemployed youths in the city - most have been draft
 Beyond the city limits, huts on stilts set above the brackish fen. Sad cows with salt rimed feet watch travellers. 
 
 300 footmen, 150 skirmishers, 100 armoured footmen, 30 horsemen, 8 karvi plus 20 fishing boats.
-
-\pagebreak
 
 ### 11.04 Corrimony
 
@@ -569,8 +536,6 @@ Sea-caves riddle the lower parts of this dome of rock, all converging on a singl
 A bedraggled, decrepit old man pisses in the fork of the river and laughs nastily to himself. He carries three masks, each made from the face of an Orc. He knows how to cast _Charm Monster_, but has never used it. He has forgotten his name and much else besides.  
 If he realises he has been spotted, he will flee towards the mountains (12.06). He is not hard to chase. 
 
-\newpage
-
 ### 15.05 Arboreal Palace
 
 _c.w. mind control magic._
@@ -627,8 +592,6 @@ When soldiers from Dulnadd come for sport, they are met with the entire village 
 
 30 footmen, 10 skirmishers.
 
-\pagebreak
-
 ### 13.06 Occupied Fort
 
 Heads are skewered atop each stake of this palisade-walled fort. The earth is torn up and rich with blood. A roof of layered, leafy branches leaves the interior of the fort in thicker shadow than the surrounding forest. 50 Orcs with a huge stockpile of reclaimed iron squat within, waiting for the commander to order them back to 19.06.  
@@ -645,8 +608,6 @@ They have gathered a sizeable hoard (Monstrous III & Bandits II):
 - 200 _Bronze Imitations._ (&T)
 - 100 Iron Ingots worth 4000sp.
 - A single draught of _Liquid Empathy._ (&T)
-
-\pagebreak
 
 ### 19.06 First Fortress
 
@@ -668,8 +629,6 @@ They have accumulated wealth in their long war. Much is heaped in the growing-ch
 - 2 *Wisdom Teeth.* (&T)
 - 6 draughts of *Temporary Disintegration.* (&T)
 - A *Child of Stone*, (&T) placed on altar of unworked rock. 
-
-\pagebreak
 
 ### 12.07 Temple to Onthloug, the Eight Tongued God
 
@@ -701,8 +660,6 @@ In either case, the wounds sealing are coated in thick, sticky saliva.
 
 If a weapon is cast down, the Avatar crawls up to seek revenge. See _H_.
 
-\newpage
-
 **5**  
 Skeletons moulder before a huge man (HD 8, _The Blooded Board_ (&T), Sword). Nude, and heavily tattooed with Christian iconography. Swords fills the room. He stands from his throne of sack-cloth, and declares death for intruders in archaic Pictish. 
 
@@ -724,8 +681,6 @@ The narrow passage leading to this room is intricately carved so that the walls 
 
 The chamber is small and rounded. A narrow hole is at one end, the stone around it cupped and smoothed - so that a face could be pressed against the opening. The hole matches against the mouth. Any putting their face against this hole feel something stir on the other side. A tongue worms its way up the chute and forces its way into the mouth. If the victim has a tongue, it forces itself into the throat to choke them.   
 If they have no tongue, it fuses with the flesh but retains its own volition, speaking in unintelligible languages seemingly randomly. It does impart the ability to understand any spoken language. 
-
-\newpage
 
 **8**  
 A huge chamber, filled with saliva. In its own juices sits an Avatar of Onthloug in the aspect of absorption, ownership and devouring. It stands 30' tall, a multitude of tongues twitching and coiling above the three arms. One holds a huge, rusted fork, another a stack and the final a crown. 
@@ -751,8 +706,6 @@ When attacking, they will attempt to ensnare the weakest member of a party and d
 HD 4 / AC as Leather / 1d6 or Dodge Save or Ensnared in thrown Web
 
 Across Albann, the story is told - the spiders were invited up from beneath the earth to scare away the invaders. After growing fat and round on the invaders, they were too big to crawl back into the dark corners of the earth - so they stayed in the Strath. 
-
-\newpage
 
 ### 16.07 Dun Morbhaidh
 
@@ -824,8 +777,6 @@ The White Threads believe their sacrifices keep the creature away from Guthram. 
 
 Those travelling through this hex are followed by brightly covered songbirds which twitter and chirp. Yellow, red, blue flashes in the branches. They keep a reasonable distance, but seem to work in teams to ensure the party are under constant observation.  
 
-\pagebreak
-
 ### 15.09 Hunger Manse
 
 Between the trees, remains of stone walls - the outskirts of a fort, built in a style not native to Albann. Square, straight-edged. Within the outer walls, a heaped ruin. Atop it, a banner - the deep red faded to the barest shade of pink, the triumphant bull a suggestion of a figure. The pile of stones is riddled with holes, and the floor beneath them riddles with bones, cracked and gnawed, licked and abraded. Slugs of ruined iron are found amongst them.
@@ -849,8 +800,6 @@ Heavy moss brackets a delicate pool of pure, clean water. Around it lean 6 trees
 If they are disturbed, all awaken. They are friends to none, and will rampage across Albann after attempting to dispatch the party. They will first try and destroy towns and cities, before exterminating villages. They will clear the Black Strath first, causing an iron and silver shortage in Albann and Ruislip. 
 
 Once awoken, it is suggested they are tracked on the map, travelling 1 hex a day regardless of terrain. There is a 5% chance one is defeated per settlement - 15% if the settlement has siege weapons. They travel as a group of 6 until all settlements in the Black Strath have been destroyed - then they split up, doubling the chances they are defeated.
-
-\pagebreak
 
 ### 18.09 Crumbling Tower
 
@@ -902,8 +851,6 @@ A wound in the side of a hill, 2' across. Within is a shimmering lump of meteori
 
 There is enough iron to make a sword, or two shortswords. Powdered entirely, it is enough for five castings of _Teleport._
 
-\newpage
-
 ### 10.11 Brychdyn 
 
 Before the lawless reach of Guthram, the palisade-girdled village of Brychdyn, home to 96, squats. Sparse trees on the plains offer little shelter from the wind, coursing in from the sea towards the mountains. Paddocks spread like spilled water - horses outnumber the residents. The annual races are famous. 
@@ -926,8 +873,6 @@ Travelling through the hills, a young peasant, Eilian, explodes out of the under
 
 If the party hand over Eilian, they receive a clip around the ear and are dragged back to Rhaglan.  
 If not, Eilian thanks them - they were held in an unfair apprenticeship as a cheesemaker, and decided to flee. They have yet to consider a plan much beyond this. 
-
-\pagebreak
 
 ### 15.11 Dun Bedale 
 
@@ -954,17 +899,25 @@ The sandy beach extends too far inland here - a yellow-grey scar in the landscap
 
 Buried at the foot of the runestone, although there is no indication, is a pitted iron axe head, wrapped with bands of silver. Re-hafted and used against demons, spirits and gods, it deals 1d6+2 damage and adds 2 to hit. 
 
-\pagebreak
+### 21.11 Томас Соляная Каёмка
 
-### 21.11 Salt-Rimed Thomas 
+На пляже, без укрытия и костра, можно найти Покрытого солью Томаса, Великана. Варяги называют его Трасир.  
+Иногда он копает, зачерпывая огромные пригоршни песка. Камни и ракушки режут ему руки, а морская вода жалит. Множество мечей и стрел торчат из его обнаженной шкуры. Один глаз был выколот - растянутая кожа того, кто это сделал, используется в качестве повязки на глазу.  
 
 Upon the beach, without cover nor fire, can be found Salt-Rimed Thomas, a Giant. The Norse call him Thrasir.  
 Sometimes he digs, scooping up huge handfuls of sand. The stones and shells cut his hands, and the sea-water stings. Many swords and arrows bristle from his naked hide. One eye has been put out - the stretched skin of the one who did it is used as an eye-patch.  
 
+Он разглядывает посетителей одним затуманенным глазом. Он ищет художников - его любимые музыканты. Любого, у кого есть инструмент, он пытается похитить, подхватывая его и бросаясь в море, чтобы избежать боя. В грохоте он требует песен. Слушая, он обгрызает себе пальцы до кровавой кашицы и требует еще.
+Те, кто отказывается играть, выбрасываются на пляж, нанося 3d6 урона.
+
 He examines visitors with one bleary eye. He looks for artists - musicians are his favourite. Any carrying an instrument, he tries to abduct, scooping them up and running into the sea to avoid combat. In a rumble, he demands songs. He chews his fingers to a bloody pulp whilst listening, and demands more.  
 Those refusing to play are thrown to the beach, taking 3d6 damage.   
 
+Раз в месяц он отправляется в Йорк и требует музыканта. До сих пор они это делали.
+
 One a month, he journeys to Jork and demands a musician. So far, they have done so. 
+
+В бою он убегает и запускает камни с расстояния, превышающего обычную дальность полета ракеты.
 
 In combat, he runs away and launches stones from beyond normal missile range. 
 
@@ -1003,8 +956,6 @@ Between the stones, a leaden disc, 10' wide. Upon it, a knotwork skull stares up
 If loosed and not defeated, Hwicce would be destroyed before the slime, bigger than cities, slithered back into the ocean. The Norsefolk rulers would perish entirely, their line sundered. The villages would be devastated. The land would be left a lifeless wasteland until next spring, when the first shoots of new life would emerge.
 
 Fortu and Ergyng would go to war over the land, violence intensifying as the plants take root once more. The Fallen Druids would wait until both were weak before taking advantage. 
-
-\newpage
 
 ### 17.12 Desecrated Barrows
 
@@ -1058,8 +1009,6 @@ Per Turn, roll 1d12 and consult the Encounter Chart.
 | 3		| A Salamander, bluish, shivering, desperate for heat. If killed, ignore Salamander in 2F. Only encountered once.
 | 4+	| Nothing but darkness, stone and soot.
 
-\pagebreak
-
 **Floor 1**
 ![](zz_assets/finished/Caer_Dymunol_1.jpg)
 
@@ -1074,8 +1023,6 @@ Across blackened shelves rats scurry. Anything that was not burnt has been gnawe
 
 ***4***  
 Puddles of metal mark the floor and walls, catching the minimal sunlight that comes from the chimney. Bones gnawed to splinters are arranged in neat rows, radiating outward from the fireplace.
-
-\pagebreak
 
 ***5***  
 Ten suits of fire-chewed armour are clustered together in the middle of this chamber. Destroyed spears and arrowheads litter the floor besides walls. Within the suits are heat-deformed skeletons - gnawed by rat teeth.  
@@ -1107,8 +1054,6 @@ Bones, ash, molten metal. Another room like the last. The bones twitch in the pe
 ***10***  
 Stairs leading down, and into the dark. 
 
-\pagebreak
-
 **Floor 2**
 
 ![](zz_assets/finished/Caer_Dymunol_2.jpg)
@@ -1125,8 +1070,6 @@ The earliest panels depict the coming of invaders from the sea, armoured in band
 
 ***4***  
 In rusted maille, 11 Skeletons grip axes. Scraps of burnt flesh still cling to their bones - rendered fat to their amour. They await the breach from the invaders. 
-
-\pagebreak
 
 ***5***  
 Deformed iron bars separate off six smaller cells - four of which contain piles of bone, backed into the corners. Gates set into the bars are fused - 3 Turns work to pry each loose. Amongst each pile of bones, 1d6 _Victory Aureus_ (&T) can be found, depicting a boar being torn to pieces.
@@ -1198,8 +1141,7 @@ He has a long-standing bounty of 1500sp on Auld Emyr - the one who killed his fa
 
 A wolf limps, a snare dug deeply around a foreleg. If fed, healed and treated respectfully, it could be partially tamed. 
 
-
-### 07.14 Ylmo, The Last Bear 
+### 07.14 Ильмо, последний медведь
 
 The bears of Albann have all been hunted and killed.
 
@@ -1235,8 +1177,6 @@ If paid, they drop the silver into the river and runs away, laughing nastily.
 If threatened, they will run away and report you to their family - a sure cause of issues.  
 If killed, a bounty of 500sp will be advertised for their whereabouts. 
 
-\pagebreak
-
 ### 11.14 St Anfan's Monastery
 
 At the centre of a spread of small gardens, a monastery of grey stone housing 75 monks. Wicker beehives are scattered throughout - the low hum of bees is constant. Eleven standards are planted in the earth nearby - marking the presence of noble houses. Each is worn, the heraldic animals animated by the wind. 
@@ -1257,8 +1197,6 @@ The Monastery is wealthy (Temple II):
 Beside the river, a ramshackle camp - fireless, invisible at night. 19 Elves dwell within - wearing worn, cast-off clothing and holding makeshift weapons. Their faces are unmarked but for vague confusion. They remember nothing but emerging from the river. Some have drowned themselves trying to return to the river. Those remaining wait for others to come - each month, another 1d4 emerge and join the camp. They have nothing to offer, but are starving - untrained in fishing or hunting. 
 
 They have the feeling of visitors. When one dies, the corpse decomposes in minutes. They have a lifespan of 24 months, and gain the knowledge of a random spell for each month of life after the first year. The oldest here is 11 months old.  
-
-\newpage
 
 ### 16.14 Sculptor's House
 
@@ -1284,8 +1222,6 @@ A destitute group of families beg travellers to find their husbands - pitch-digg
 
 5 skirmishers. 
 
-\newpage
-
 ### 21.14 Wrecked Karvi
 
 The splintered remains of a Karvi litter the beach - the main hull protecting some of the contents. Searching the wreck reveals eight corpses, tangled in the ropes and drowned. All wear maille - three of these are salvageable if cleaned quickly. One, a huge woman, has a leather tube on a necklace - within is a map. 
@@ -1306,7 +1242,6 @@ _When the Roaming Court is here -_ faces blur, shift, change. Doubles are everyw
 
 2 footmen, 30 Doppelgangers. 
 
-
 ### 12.15 Gargoyle Bridge 
 
 A wide, weathered stone bridge crosses the water. On both sides, squat gargoyles have been carved into the bridge itself, their mouths wide open. Looking into the mouth, it slopes towards an opening in the throat. If a coin is deposited in the mouth, it slides down and lands somewhere inside the gargoyle with a clink of metal on metal. Re-roll all encounters for the next d6 days, and take the highest result.
@@ -1314,8 +1249,6 @@ A wide, weathered stone bridge crosses the water. On both sides, squat gargoyles
 If one (or both) gargoyles are interfered with, reroll any encounter results of 'No encounter' for the next d6 weeks.
 
 Each has 20 usable gold coins in their belly - the rest are corroded silver and bronze.
-
-\newpage
 
 ### 13.15 Druidic Runestone 
 
@@ -1338,15 +1271,17 @@ Near the river, a large tree with unseasonally coloured leaves. Hidden at its ba
 - Two malformed figures in iron, wrapped in Ground Elder flowers. 
 - A pair of glass vials, both contain blood. The blood is from a pure-white and pure-black dog.
 
-### 15.15 Man-eating Horse
+### 15.15 Лошадь-людоед
+
+Среди деревьев --- изможденная лошадь. Один глаз был выбит. Мухи его не трогают. Он двигается как можно меньше. По состоянию здоровья это был гигант.
 
 Amidst the trees, an emaciated horse. One eye has been put out. Flies do not touch it. It moves as little as possible. In health, it was a giant.
+
+Он закричит, если услышит приближение людей, шум, доносящийся из-за деревьев. Сначала он попытается растоптать тех, кто приближается. Как только кто-то будет сбит с ног, он вывихнет свою челюсть, как змея, и попытается сожрать их - требуется спасение, чтобы избежать этой участи. Те, кого проглотили, могут не предпринимать никаких действий и получать 1d6 урона за ход. Любой ущерб, нанесенный лошади, также наносится содержимому ее раздутого желудка. Он убежит со своей добычей, шатаясь и падая, скрючив ноги.
 
 It will scream if it hears people approaching, the noise snaking around the trees. It will first attempt to trample those approaching. Once someone is knocked down, it will dislocate its jaw like a snake and attempt to consume them - a Save is required to avoid this fate. Those swallowed may take no action, and take 1d6 damage a turn. Any damage dealt to the horse is also dealt to the contents of its swollen, distended stomach. It will flee with its prize, staggering and falling, legs crooked and bent.
 
 HD 4 / AC as Leather / Damage 1d6
-
-\pagebreak
 
 ### 18.15 Jork / Eoforwic, capital of Hwicce 
 
@@ -1367,8 +1302,6 @@ The old Brythonic noble families - those who were spared the sword - make much o
 On moonless nights, 80 swollen salt-corpses rise from the waves. Any upon the beach are bludgeoned senseless and dragged to the sea for drowning. All of the corpses shush their victims, repeating only a single word - "soon". 
 
 Each wears scraps of ruined armour, and weapons rusted to clubs. Statistics as Zombies. They have no wealth and no leaders.
-
-\newpage
 
 ### 06.16 Gull Feast
 
@@ -1392,8 +1325,6 @@ Hidden in a fold between the hills, an unmarked tomb made of huge stone blocks. 
 
 Amongst the bone, various pieces of low-value jewellery in a variety of styles - worth 300sp.
 
-\newpage
-
 ### 11.16 Ogre Mound
 
 Rivalling the height of the trees, an immense mound. It is made of everything - all manner of items, plants, animals, minerals - thrown into a stinking heap. A tunnel has been precariously scooped out - and leads to a central hollow chamber, the stench overpowering. This is where two Ogres lair. Currently, they only desire to possess one another - fingers in mouths, pressed together, heaving and pulling. If interrupted, they will kill intruders, add their possessions and corpses to the mound.
@@ -1416,8 +1347,6 @@ By the river, a strange shape. A man, tongueless, sleeps sitting up, wearing the
 He then asks for aid in killing 'the ancient wolf' - offering further instruction in the Arts Dire. If he survives, he teaches the party Fear, and the preparation of the pelt required. He also gives them his old wolf-pelt before skinning the Primordial Wolf Mother.
 
 2 HD, No Armour, Dagger. Has the components to cast Fear, has knowledge of Neutralise Poison, Slaying Spell & Sleep. Attacks against him are at -3 due to his supernatural speed.
-
-\pagebreak
 
 ### 14.16 Diserth
 
@@ -1447,8 +1376,6 @@ He has built a significant hoard (Magic User III):
 A stone circle of the Druids is choked with creeping vegetation. None visit it.
 
 40 armoured footmen, 10 footmen, 30 skirmishers. 
-
-\newpage
 
 ### 17.16 Owrtyn
 
@@ -1480,8 +1407,6 @@ Though he will not tell it, he has been sent to find the Druids of Albann. Upon 
 
 He is Chulagh's (11.18) brother - they are liable to kill one another.
 
-\newpage
-
 ### 11.17 A Witch
 
 Where the trees grow thick a moss-heavy hovel sits. From the eaves hang all manner of dried animal components. Birds on nearby trees watch closely, leaving the anarchic sprawl of a garden unmolested.
@@ -1503,8 +1428,6 @@ Hidden in the hovel, the accrued emphemera of generations (Magic User II):
 - 10 pouches of various spices, transported over many seas. Worth 400sp.
 - 15 _Silver Nails_ (&T)
 
-\pagebreak
-
 ### 12.17 Rhedynfre
 
 Upon the river forks in the shallows of Moerheb Weald, Rhedynfre sits. 62 dwell in the simple houses of wood, the trees festooned with simple carved charms depicting arboreal predators. With each fish they take, they thank the river. Each deer felled is given a name. 
@@ -1524,8 +1447,6 @@ On their eight birthday, the children of Cenwy are ritually drowned and saved by
 Outsiders are captured, although security is lax - one could walk into the village proper before being discovered. From the trees, the tongues of other intruders are hung. The acrid smoke of their fires burns the nostrils. There is a 2-in-6 chance of being seen first by a youth who is questioning this way of life - a positive reaction indicating they instead wish to escape with the party.
 
 20 skirmishers, 20 footmen
-
-\pagebreak
 
 ### 17.17 Desecrated Monastery
 
@@ -1549,8 +1470,6 @@ It is worth 3000sp. If removed, the eyes of the body open, as does the mouth - r
 HD 8* / AC as Maille/ Damage 1d6+1+Special  
 Any strike with a rolled result of 16+ indicates a successful grapple with a tongue. All strikes against entangled targets are automatically successful. A tongue takes 4 damage to sever - damage dealt to tongues does not count against the creature. Tongues regrow over days.  
 \*Supernatural HP.
-
-\pagebreak
 
 ### 18.17 Vagn's Raiders 
 
@@ -1581,8 +1500,6 @@ At night, the story of the Dragon of Kindee is a favourite, the storyteller gest
 
 8 footmen, 10 skirmishers.
 
-\pagebreak
-
 ### 09.18 Haunted Flint Mine
 
 A wound in the side of a hill shows signs of foot traffic. Within, hand-dug tunnels, the floor covered in flakes of flint. Worn antlers, mostly buried, protrude from the soil. Tittering and yelps can be heard from the depths. 35 Kobolds dwell within. They stalk intruders in bands of 3d6, throwing knives of flint before fleeing into the dark, leading to ambushes of a further 3d6 Kobolds.
@@ -1610,8 +1527,6 @@ The Breaker of Crowns sits in a treasure-vault from Giantish times, laden with w
 - Five draughts of _Potion of Compression_ (&T)
 - Three _Proven Sons_ (&T)
 
-\newpage
-
 ### 11.18 St Glanyrafor's Monastery
 
 A small monastery, peering out from a defensive wall of wood. The 45 monks are armed, and skittish. They fear  Moerheb Weald, and the Fallen Druids within. Much in the grounds is in a low state - their usual labours neglected for martial training. A Christian Ruis mercenary, Chulagh (3HD, Maille, Sword, Shield, Sling) leads them in these efforts. He is not confident in their success. He is Conar's (07.17) brother - they are liable to kill one another.
@@ -1625,7 +1540,6 @@ Some wealth remains (Temple II):
 - The Body of St Glanyrafor, skewered with a Brythonic spear. Worth 5000sp to rival monasteries and pagan warlords.
 
 15 unarmoured footmen, 15 skirmishers  
-
 
 ### 12.18 Fallen Druid Sentries
 
@@ -1649,7 +1563,6 @@ The camp offers some wealth (Magic User I):
 A single burnt pine sits alone amongst the broadleaf forest, the other vegetation seeming to recoil away from it. One touching the blackened trunk would feel the inner heat, reaching out towards them. If their hand is withdrawn, there is no further effect. If contact is maintained, the heat flows into them. This heat is a Subtle Spirit, granting the power to cast Cure Light Wounds once a day. However, it requires the caster kills an animal before it reaches maturity once a week. Failure to do so removes the ability to cast, and the caster permanently loses 1 Constitution per day this is not performed. If they reach 3 Constitution, the Subtle Spirit leaves.
 
 This need is communicated in dream. The consequences are not.
-
 
 ### 14.18 Fallen Druidic Circle
 
@@ -1698,8 +1611,6 @@ A hovel beside the river, heavy with moss and fungi. Within dwells Math - approa
 
 Atop the cliffs, a squat, rough-stone figure with a grinning face and a frog-belly watches the sun rise. The top of it's head is concave, forming a bowl to collect rainwater. This water flows from its eyes, and falls down the cliff-face. This is a demon, petrified by deceit. 
 
-\newpage
-
 ### 05.19 Caernfon
 
 Soiled white stone makes up the walls and buildings of Caernfon - on a bright day, it almost gleams. As one gets closer, the grime of years and smoke and dwelling make themselves known. 2134 dwell here, and the marks of their occupation are many. Banners bearing the crest of Ergyng are common, as are soldiers - the latter bearing the seal of Ynyr rather than the kingdom.
@@ -1713,8 +1624,6 @@ At night, this vitality drains away - a cloak of dark and silence presses upon t
 _When the Roaming Court is here -_ the city is alight with fires - festivals erupt in all districts. A night for all to remember. Ynyr tries to thread the needle between being disappointing and competent.
 
 80 armoured footmen, 80 footmen, 50 skirmishers, 2 karvi-equivalent plus 3 fishing boats.
-
-\newpage
 
 ### 06.19 Llanelli
 
@@ -1766,7 +1675,6 @@ Ouen (3HD, Leather, Bow, Axe) leads the band. His ears have been cut off to mark
 
 5 footmen, 3 skirmishers plus 5 boats.
 
-
 ### 05.20 Yrcoed
 
 Yrcoed ebbs and flows with the tide - the many stilt-houses standing empty and naked as the water retreats, gangly birds without feather. As the water rolls in, they fill with fishermen from Caernfon, lit from within by fire and laughter. 20 dwell here throughout the weeks, mending the boats and advising the fishermen to stay close to the shore. 
@@ -1803,8 +1711,6 @@ Kerwyn only kills as a side-effect. If it was easier to extract eyes from the li
 
 Just off the shore, a single boat bobs in the waves no matter the weather. Within the boat, young twins, each fishing in a different direction. The boat is always full of fish. They sell their hand-made bait, which never fails to secure a catch - 10sp per hookload. They do not allow themselves to be seen returning home. At night, they watch the sea for sign of their parents. 
 
-\pagebreak
-
 ### 13.20 Llanyndras
 
 Llanyndras is smelt before it is seen - gouts of smoke from the many fires. Encircled by a ring of flame, the final 16 inhabitants of Llanyndras try and hold the Dryads at bay. At night, the voices of their loved ones call to them, trying to coax them to join them in the Weald. They plug their ears.
@@ -1833,12 +1739,9 @@ Amongst the debris, a hoard scattered from centuries of rampage (Monstrous III):
 - A _Silvered Skull_ (&T)
 - A _Bitter Builder_ (&T)
 
-\newpage
-
 ### 15.20 Eel-knots
 
 Eels form knots in the river here, their slime coating the riverbanks. At the centre of the knot of eels, a _Demonface Coin_ (&T). On the obverse, a protruding cephalopodic entity. Invoked, the demon manifests as a mass of rotting fish threaded through with hair-width razor-sharp tentacles. It can infest animals and see through their eyes. If coaxed, it may share what is has seen.
-
 
 ### 16.20 Ancient Wolf-Den
 
