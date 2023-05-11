@@ -150,121 +150,122 @@ geometry: margin=1in
 
 ## 07.05 Флодей
 
-The isle of Flodaigh swarms with sea-birds - in spring, their nests fill the ground. Crushing an egg is sure to invoke their fury. At the centre of the island, a crumbled drystone tower in the style of Ruis. In the rich, bird-shit fertilized soil, a proliferation of psychoactive mushrooms grow.  
+Остров Флодей кишит морскими птицами --- весной их гнёзда заполоняют землю. Раздавив яйцо, вы наверняка вызовете их гнев. В центре острова возвышается полуразрушенная башня из сухой кладки в райском стиле. На богатой почве, удобренной птичьим помётом, растёт множество психоактивных грибов.
 
-Within the tower, a warrior (4HD, Two-Handed Sword) who has forgotten themselves entirely, mind forever gazing beyond. Naked to the waist and heavily tattooed, they speak in a language of slurred syllables unheard in the waking world. Attacks against them are at -4, the warrior whirling their blade around them at inhuman speeds.
+Внутри башни воин (4 КЗ, двуручный меч), который полностью забыл кто он есть, его разум вечно устремлён вдаль. Обнажённый по пояс и густо покрытый татуировками, он говорит на языке невнятных слогов, неслышимых в бодрствующем мире. Атаки против него получают штраф -4, воин вращает вокруг себя своим клинком с нечеловеческой скоростью.
 
-If the mushrooms of Flodaigh are eaten, the consumer sleeps deeply, entering the realm of dream until the next sunrise. Those making a tea and sharing it travel together. The realm of dream can give prophecy, nightmares and falsehoods.
+Если грибы с острова Флодай съесть, вы крепко заснёте, погружаясь в царство грёз до следующего восхода солнца. Те, кто заваривает чай и делится им, путешествуют вместе. Царство грёз может давать пророчества, ночные кошмары и ложь.
 
-If the warrior of Flodaigh is alive and the realm of dream is entered, conversation is possible - they will offer to teach their way of the sword, practiced in the surreality of slumber. By looping their blade in a figure-of-eight they offer attackers no opening - causing them to take -1 to hit. They do not remember their name, nor how long they have dwelt here. 	
+Если воин Флодея жив и попал в царство сновидений, с ним можно поговорить --- он предложит обучение своему способу владения мечом, практикуемому в сюрреалистическом сне. Закручивая свой клинок в восьмерку, он не даёт атакующим возможности открыться, в результате чего они получают штраф -1 на попадания. Он не помнит ни своего имени, ни того, как долго он здесь живёт.
 
 ## 01.19 Сибинис
 
-Ancient apple trees crowd the isle of Sibhinis. Sleek, glossy birds and fish eat the ever-ripe fruit. Any staying the night here and eating the fruit find themselves fully healed. If transported off the island, the fruit is poison, killing those unable to make a Physique save. 
+Древние яблони окружают остров Сибинис. Гладкие, лоснящиеся птицы и рыбы едят вечно спелые фрукты. Любой, кто останется здесь на ночь и съест этот фрукт, почувствует себя полностью исцелённым. При транспортировке за пределы острова фрукт становится ядом, убивающим тех, кто провалит спасбросок стойкости.
 
 ## 03.21 Тарасай
 
-White lilies blanket the island, marred only by the stone tombs. The stone making up these tombs is impossibly hard, despite being conventional to inspection. Any buried here guarantee a worthy successor - any player character buried here will be replaced by a character who already has a Boast to their name. 
+Белые лилии покрывают весь остров, омрачённый лишь каменными гробницами. Камень, из которого сделаны эти гробницы, невероятно твёрдый, хотя с виду и кажется обычным. Любой похороненный здесь гарантирует достойного преемника --- любой персонаж игрока, похороненный здесь, будет заменён персонажем, у которого уже есть одно хвастовство, подтверждённое его именем.
 
 ## 12.23 Сандрей
 
-Sanndraigh is burdened with a coat of oak and beech - thick enough and tall enough to hide the mound that dominates the centre of the island. Birds flutter between the trees, and there is evidence of foxes in the undergrowth. No clear path is marked through the woods.  
-The mound is coated in grass and bramble, but the stone doors are clear of obstruction.
+Сандрей зарос дубом и буком --- достаточно сильно, чтобы скрыть холм, возвышающийся в центре острова. Птицы порхают между деревьями, а в подлеске есть признаки присутствия лис.  
+Чёткой тропинки через лес не обозначено. Холм покрыт травой и ежевикой, но каменные двери свободно открываются
 
-### The Tomb
+### Склеп
 
-Within the tomb, the walls are packed earth supported with tarred beams of wood. The floor is pale yellow sand - loose enough to making running strenuous. 
+Внутри гробницы стены выложены утрамбованной землёй, поддерживаемой просмоленными деревянными балками. Пол покрыт бледно-жёлтым песком --- достаточно рыхлым, чтобы бег требовал усилий.
 
-All named NPCs within speak archaic but understandable Brythonic. As hauscarls, they are bound beyond death to guard this resting place - they speak only of duels. Upon entry to a chamber containing one, roll reaction:
+Все именные ПВ внутри говорят на архаичном, но понятном бриттском языке. Как хускарлы, они обязаны после смерти охранять это место упокоения --- они говорят только о дуэлях. При входе в камеру, содержащую одного из них, сделайте проверку реакции:
 
-**Hostile** - The hauscarl challenges the lowest HD member of the party to a duel to the death.  
-**Negative Inclination** - The huscarl challenges the lowest HD member of the party to a duel to the death. They will allow a champion to act as substitute - if they fight one-handed.  
-**Neutral** - The huscarl announces none may pass until they have been challenged and defeated in combat. The duel is to the death.  
-**Positive Inclination** - The huscarl announces none may pass until they have been challenged and met in combat. The duel is to the death, but the figure will honour those who Yield.  
-**Friendly** - The huscarl announces none may pass until they have been challenged and met in combat. The duel is to the death, but the figure will honour those who Yield. If the figure is reduced to less than 6 HP, they Yield. If this is accepted, they will act as a champion in future duels - as well as imparting any technique they have to teach. They may not leave the island.  
+**Враждебная** --- хускарл вызывает члена группы с самым низким КЗ на дуэль не на жизнь, а на смерть.  
+**Скорее негативная** --- хускарл вызывает члена группы с самым низким КЗ на дуэль не на жизнь, а на смерть. Они позволят чемпиону выступить в качестве замены - если он будет драться одной рукой.  
+**Не заинтересованная** --- хускарл объявляет, что никто не может пройти, пока он не получит вызов и не потерпит поражение в бою. Поединок будет не на жизнь, а на смерть.  
+**Скорее позитивная** --- хускарл объявляет, что никто не может пройти, пока он не получит вызов и не потерпит поражение в бою. Поединок будет не на жизнь, а на смерть, но фигура почтит память того, кто сдастся.  
+**Дружеская** --- хускарл объявляет, что никто не может пройти, пока ему не будет брошен вызов и он не встретится с кем-либо в бою. Поединок будет не на жизнь, а на смерть, но фигура почтит память того, кто сдастся. Если ОЗ фигур снижаются меньше 6, они сдаются. Если это будет принято, они будут выступать в качестве чемпионов в будущих поединках, а также передадут любые техники, которым они смогут научить. Они не могут покинуть остров.
 
-In a Duel, only the combatants may attack one another. Interference breaks the duel, devolving into general combat. In general combat, huscarls _**double**_ their HD and strike twice per round.
+На дуэли только сражающиеся могут атаковать друг друга. Вмешательство прерывает дуэль, переходящую в обычный бой. В обычном бою хускарлы _**удваивают **_ свои КЗ и бьют дважды за раунд.
 
 ![](zz_assets/finished/Sanndraigh.jpg)
-**Entrance**  
-A pair of stone doors, each 12' tall and 7' wide. They are plain bar a carving of a wolf, which is limping and small - as if fleeing a fight. The carving is in a realistic style. They are heavy, and there is no mechanism to open them - they must be broken, taking 2 hours using hammers and spikes, or smashed down, requiring a combined strength of 60 and a ram. In either case, those doing the work are exhausted, taking -2 to all rolls for the rest of the day.
 
-**1**   
-Long-dead candles, surrounded by decomposed rat corpses, cluster around a central statue like strange fungus. The statue is that of a bearded king, in milky stone. They are dressed in full length maille, and wear a crown woven with roses. 
+**Вход**  
+Пара каменных дверей, каждая 12 футов в высоту и 7 футов в ширину. Они простые, за исключением вырезанного на них волка, который прихрамывает и становится маленьким --- как будто убегает от драки. Резьба выполнена в реалистичном стиле. Они тяжёлые, и нет никакого механизма, чтобы их открыть --- их необходимо разбивать, что занимает 2 часа, если использовать молотки и шипы, или крушить вдребезги, что требует совокупной силы 60 и тарана. В любом случае, те, кто выполняет эту работу, измотаны, получая -2 ко всем броскам до конца дня.
 
-Kneeling before the statue is Baeddan (HD 4, Maille, Shield, Sword). In combat, they may use their shield as a bludgeon - forgoing their AC bonus to add +1 to strike. If defeated in a duel, this technique is imparted to the victor as Baeddan crumbles to dust.
+**1**  
+Давно погасшие свечи, окружённые разложившимися крысиными трупиками, группируются вокруг центральной статуи, словно странный гриб. Это статуя бородатого короля из молочного камня. Он одет в кольчугу во весь рост и носит корону, сплетённую из роз.
+
+На коленях перед статуей стоит Баэддан (КЗ 4, кольчуга, щит, меч). В бою он может использовать свой щит в качестве дубинки --- отказываясь от бонуса к КБ, чтобы добавить +1 к удару. В случае поражения в поединке эта техника передаётся победителю, пока Баэддан рассыпается в прах.
 
 **2**  
-Knotted roots reach down from the ceiling in this chamber. Threaded them are painted gourds, depicting scenes of nature worship and speaking trees. Whatever they once contained has long since dried to nothing.
+Узловатые корни спускаются с потолка в этой камере. На них нанизаны раскрашенные тыквы, изображающие сцены поклонения природе и говорящие деревья. Что бы в них когда-то ни содержалось, оно давным-давно превратилось в труху.
 
 **a**  
-Skeletons are set into the walls of this chamber, side-profile, marching down towards _6._ Some carry corroded short-swords.
+По пути в _6_, в стены этого коридора боковым профилем вмурованы скелеты. У некоторых в руках проржавевшие короткие мечи.
 
 **3**  
-Twenty graves have been dug in this chamber, each marked with a shovel or pick. A bag of 25 silver coins has been placed on each. If any are taken, all Reaction rolls in the tomb are at -2.
+В этой камере было вырыто двадцать могил, каждая отмечена лопатой или киркой. На каждую был положен мешочек с 25 серебряными монетами. Если какой-либо из них будет взят, все броски реакции в гробнице буту иметь штраф -2.
 
 **4**  
-Painted wooden boards cover the walls, depicting horses with riders, hounds, deer and boar. The figures are all silhouettes, and move through dense foliage.
+Стены покрыты расписными деревянными досками, изображающими лошадей со всадниками, гончих, оленей и кабанов. Все фигуры на них --- лишь силуэты, движущиеся сквозь густую листву.
 
-Bedwyr (5HD, Maille, Spear, Javelin, Battle-axe) sits atop a skeletal horse. In general combat, he charges from horseback, adding 2 to strike and 2 to damage. If dismounted, the bones of the horse fall to the floor, inert.
+Бедвир (5 КЗ, кольчуга, копье, дротик, боевой топор) восседает верхом на скелетообразной лошади. В обычном бою он атакует верхом, добавляя 2 к попаданию и 2 к урону. Если спешиться, кости лошади падают на пол в неподвижном состоянии.
 
 **5**  
-Wicker cages line the walls, each containing a prostrate skeleton bound in lead wire. The skulls are each marked with 3 Latin numerals. There are over 100 cages. 
+Вдоль стен тянутся плетёные клетки, в каждой из которых лежит распростёртый скелет, обмотанный свинцовой проволокой. Каждый череп помечен тремя латинскими цифрами. Здесь более 100 клеток.
 
 **6**  
-Stuffed boar fill this chamber, each set on crude wooden wheels. Some are roped together, forming chains. Esni (5HD, Full Length Maille, Warhammer) stands amongst them. In combat or a duel, he tries to launch opponents towards clusters of boar to entangle them in the ropes. If combat goes poorly, he kicks sand into the face of any opponents, temporarily blinding them on a failed Doge roll.  
+Эту камеру заполняют чучела кабанов, каждое из которых установлено на грубых деревянных колёсах. Некоторые связаны друг с другом верёвками, образуя цепочки. Среди них стоит Эсни (5 КЗ, кольчуга в полный рост, боевой молот). В бою или во время дуэли он пытается запустить противников в скопления кабанов, чтобы запутать их в верёвках. Если бой проходит неудачно, он швыряет песок в лицо любому противнику, временно ослепляя его при неудачном спасброске уворота.
 
 **7**  
-Hundreds of spears and swords are plunged into the sand here, each with a helm set atop it. Most show signs of damage - none are fit for use. Anything entering this chamber is attacked by the nearest weapon - once for each step. These attacks are made as 1HD creatures. Crossing from one entrance to another (6-5, 6-9, 5-9) takes at least 20 steps - 15 'long' steps. Other forms of movement are ignored. 
+В песок на полу воткнуты сотни копий и мечей, на каждом из которых надет шлем. На большинстве из них имеются признаки повреждений --- ни один из них не пригоден для использования. Все, кто входит в эту комнату, подвергается атаке ближайшим оружием --- по одному разу за каждый шаг. Эти атаки выполняются в будто бы существом с 1 КЗ. Переход от одного входа к другому (6--5, 6--9, 5--9) занимает не менее 20 шагов --- или 15 "длинных" шагов. Другие формы передвижения игнорируются.
 
 **8**  
-A throne of gold-wrapped wood, carved into the form of an eagle, broken-winged. Boars and horses trample outwards from beneath the wings, a fierce gleam in their eyes provided by rubies. If the time is taken, 20 such gems can be dug out, worth 50sp each.
+Трон из дерева, покрытого позолотой, вырезанный в форме орла со сломанными крыльями. Кабаны и лошади топают из-под крыльев, свирепый блеск в их глазах придают рубины. Если потратить время, можно выкопать 20 таких драгоценных камней стоимостью по 50 см каждый.
 
-Sitting before the throne like a hound is Cei (HD 7, Maille, Quarterstaff, Club). 
+Перед троном будто гончая сидит Цей (КЗ 7, кольчуга, посох, дубинка).
 
 **9**  
-A beam of metal runs from ceiling to floor. Around it is a heavy iron chain, which is connected to a cockatrice. It shuffles around the room, clanking - the chain allows it access to all of the room bar the Western end. If attacked with missiles, it hides behind the bar, causing a penalty of 2 to hit.
+Металлическая балка проходит от пола до потолка. Вокруг неё натянута тяжёлая железная цепь, которая соединена с кокатрисом. Он шаркает по комнате, лязгая цепью, которая обеспечивает ему доступ ко всей комнате, за исключением западного конца. При атаке дальнобойными атаками, он прячется за балкой, что накладывает штраф -2 на попадания.
 
 **10**  
-The walls are covered in painted wooden boards, depicting legions on boats leaving an island draped in golden cloth with it's own army cheering. At the head of the crowd is a crowned figure. 
+Стены покрыты раскрашенными деревянными досками, на которых изображены легионы на лодках, покидающие остров, задрапированный золотой тканью, под аплодисменты собственной армии. Во главе толпы стоит коронованная фигура.
 
-The southern wall is dominated by a stone table, a sarcophagus atop it. Modelled into the lid is a crowned man in armour, holding a real sword. The sword is made of blue steel. The sarcophagus must be smashed open. It contains a complete skeleton wearing 300sp worth of gold jewellery.
+У южной стены возвышается каменный стол, на котором стоит саркофаг. На крышке изображён коронованный мужчина в доспехах, держащий в руках настоящий меч. Меч сделан из голубой стали. Саркофаг, должно быть, был вскрыт. Он содержит полный скелет, на котором надеты золотые украшения стоимостью 300 см.
 
 **11**  
-The walls are covered in painted wooden boards, depicting legions on boats leaving an island draped in golden cloth with it's own army cheering. At the head of the crowd is a crowned figure. 
+Стены покрыты раскрашенными деревянными досками, на которых изображены легионы на лодках, покидающие остров, задрапированный золотой тканью, под аплодисменты собственной армии. Во главе толпы стоит коронованная фигура.
 
-The southern wall is dominated by a stone table, a sarcophagus atop it. Modelled into the lid is a crowned man in armour, hands curled but holding nothing. The sarcophagus must be smashed open, and its empty. If the sword from _10_ is placed in the figure's hands, the walls behind both sarcophagi sink slowly into the floor, reveal two entrances to _12._
+У южной стены возвышается каменный стол, на котором стоит саркофаг. На крышке изображён коронованный мужчина в доспехах, руки скрючены, но ничего не держат. Саркофаг, должно быть, был вскрыт, и он пуст. Если меч из _10_ вложить в руки фигуры, стены за обоими саркофагами медленно опускаются в пол, открывая два входа в _12._
 
 **12**  
-A glass container holds a man, untouched by time. He is wearing the Crown of the Brythons, wrapped in progressive bands of mother-of-pearl, and topped with emeralds - worth 12000sp to one able to afford it. His raiment is heavy with gold thread and purple ribbons. Ermine fur lines much of the length. Upon his finger in a _Stolen Star_, emitting it's gentle light. The other fingers are heavy with jewelled rings of silver and gold - 12 in number, each worth 350sp. The left hand holds a _Javelin of Thorns._ If the box is smashed, the body rapidly putrefies. The wealth is left unaffected bar the clothing, which is spoiled.
+В стеклянном сосуде находится человек, не тронутый временем. На нём корона Бриттов, обёрнутая непрерывными лентами из перламутра и увенчанная изумрудами, стоимостью 12000 см для того, кто может себе это позволить. Его одеяние украшено золотыми нитями и пурпурными лентами. Мех горностая покрывает большую часть его часть. На его пальце *Украденная звезда*, излучающая нежный свет. Остальные пальцы увешаны серебряными и золотыми кольцами с драгоценными камнями --- всего 12, каждое стоимостью 350 см. В левой руке он держит *Дрот шипов*. Если сосуд разбить, тело быстро разлагается. Богатство остаётся нетронутым, за исключением одежды, которая испорчена.
 
 ## 20.02 Мингалей
 
-A stone watch-tower in poor repair stands above a small hut and many, many sheep. The sheep are about to strip the island bare of vegetation. The hut and tower contain nothing. The crows and ravens watch closely, anticipating the fall.
+Каменная сторожевая башня в плохом состоянии возвышается над маленькой хижиной и множеством овец. Овцы вот-вот лишат остров растительности. В хижине и башне ничего нет. Вороны внимательно наблюдают за происходящим, предвкушая их крах.
 
 ## 21.03 Лотинг 
 
-Upon the shore of Lothing is a nameless village of 35. All fish, gathering cuttlefish. Many create wonderfully delicate pots of clay with long, slender necks - ideal for throwing. The ink from the cuttlefish is stored in throwing-pots. When the bell in the Treasury rings, all flee there, carrying their children. Searching the empty village, there is 145sp in silver Fortu coins and 4 weeks worth of smoked cuttlefish meat. All speak Latin and a little Pictish.
+На берегу Лотинга находится безымянная деревня с населением 35 человек. Все ловят рыбу, собирают каракатиц. Многие создают удивительно изящные глиняные горшки с длинными тонкими горлышками --- идеальные для метания. Чернила каракатицы хранятся в этих горшочках. Когда звонит колокол в сокровищнице, все бегут туда, неся своих детей. Обыскав пустую деревню, можно найти 145 см в виде серебряных монет Форту и запас копчёного мяса каракатицы на 4 недели. Все говорят на латыни и немного по-пиктски.
 
-There are 25 fighters in their number, all fighting as unarmoured 1HD humans.
+В их числе 25 бойцов, все они сражаются как люди 1 КЗ без доспехов.
 
-The bell is rung when boats visibly approach the island - it is loud and brazen. A well-worn trail, marked with smashed stone, marks a path to the Treasury. Unlit boats at night may land on the island without being seen.
+Колокол громко и нагло звонит, когда лодки заметно приближаются к острову. Хорошо протоптанная тропа, отмеченная разбитым камнем, указывает путь к сокровищнице. Неосвещённые лодки ночью могут причалить к острову незамеченными.
 
 ![](zz_assets/finished/Treasury.jpg)
 
 ### Сокровищница
 
-A heavy, squat windowless building of mortared stone bricks, laboriously ferried from the mainland. An outcropping of rock runs parallel to the building. Climbing it without equipment is dangerous - those falling taking 3d6 damage from the many jagged horns of stone. Equipment takes time and makes noise - heard by the defenders on a 3-in-6. Those braving the dangerous climb would find the second, accidental entrance (e2) to the building.
+Тяжёлое, приземистое здание без окон из скреплённых известковым раствором каменных кирпичей, с старательно перевезённых с материка. Параллельно зданию проходит скальный выступ. Взбираться на него без снаряжения опасно --- те, кто падает, получают 3к6 урона от множества зазубренных каменных выступов. Снаряжение требует времени и создаёт шум --- защитники слышат его с шансом 3 из 6. Те, кто отважится на опасный подъём, найдут второй, неожиданный вход (e2) в здание.
 
-If the bell has been rung, the entire structure is lit with burning torches and patrolled. Otherwise, rooms are dark unless specified otherwise. The outcropping is not watched closely. Villagers within the Treasury wear open wooden boxes on their shoulders, which restricts their head movement - looking side-to-side requires a full body motion. 
+Если в колокол позвонили, все сооружение освещается горящими факелами и патрулируется. В противном случае в комнатах будет темно, если не указано иное. За скальным выступом внимательно не следят. Жители деревни, находящейся в сокровищнице, носят открытые деревянные ящики на плечах, что ограничивает движение их головы --- для того, чтобы смотреть из стороны в сторону, требуется движение всего тела.
 
-If intruders are seen by villagers, they yell for help - in 1 round, all in rooms adjacent rooms join the combat. The round after this, any within 2 rooms.  
-If the intruders have any visible mirrors, they start combat by throwing their ink-bottles at the mirrors to coat the surface in sticky cuttlefish ink - rendering the mirrors useless. Each villager carries 2 such bottles.
+Если жители деревни увидят незваных гостей, они позовут на помощь --- через 1 раунде все, кто находится в соседних комнатах, присоединяются к бою. В следующем раунде --- все в пределах 2 комнат.  
+Если у злоумышленников есть какие-либо видимые зеркала, они начинают бой с того, что бросают в зеркала свои бутылочки с чернилами, чтобы покрыть поверхность липкими чернилами каракатицы, что делает зеркала бесполезными. Каждый житель деревни носит с собой по 2 такие бутылки.
 
-The Medusae speak Latin.
+Медуза говорит на латыни.
 
 **e1**  
-A single heavy wooden door, reinforced with strips of iron kept rust-free. It is unlocked and well-oiled, opening nearly-silently. Scones sit either side of the door.
+Единственная тяжёлая деревянная дверь, укреплённая железными полосами, защищёнными от ржавчины. Она не заперта и хорошо смазана, открывается почти бесшумно. По обе стороны от двери стоят канделябры.
 
 *If the Bell has been rung:* 4 villagers with spears and handbells guard the entrance. Torches flank them. The door is barred from the inside. If the handbells are rung, all other villagers and the Medusae gather in _2_. The door-guards will demand the intruders leave the island in broken Pictish. Smashing down the barred door requires 45 combined strength and a ram. Those doing the smashing are exhausted, taking -2 to all rolls for the rest of the day.
 
