@@ -267,129 +267,127 @@ geometry: margin=1in
 **e1**  
 Единственная тяжёлая деревянная дверь, укреплённая железными полосами, защищёнными от ржавчины. Она не заперта и хорошо смазана, открывается почти бесшумно. По обе стороны от двери стоят канделябры.
 
-*If the Bell has been rung:* 4 villagers with spears and handbells guard the entrance. Torches flank them. The door is barred from the inside. If the handbells are rung, all other villagers and the Medusae gather in _2_. The door-guards will demand the intruders leave the island in broken Pictish. Smashing down the barred door requires 45 combined strength and a ram. Those doing the smashing are exhausted, taking -2 to all rolls for the rest of the day.
+*Если в колокол позвонили:* 4 жителя деревни с копьями и колокольчиками охраняют вход. Факелы окружают их по бокам. Дверь заперта изнутри на засов. Если они зазвонят в колокольчики, все остальные жители деревни и Медузы соберутся в _2_. Стражники у дверей потребуют, чтобы незваные гости покинули остров на ломаном пиктском языке. Чтобы выломать закрытую на засов дверь, требуется совокупная сила 45 и таран. Те, кто будут выбирать дверь, будут измотаны, получая штраф -2 ко всем броскам до конца дня.
 
 **1**  
-Mosaics of mining, wealth and stonecutting mark the walls - all have been polished to a brilliant shine. The floor is clear of debris.
+Стены украшены мозаикой, изображающей рудокопов, богатства и резьбу по камню --- всё было отполировано до ослепительного блеска. Пол очищен от мусора.
 
-*If a handbell has been rung:* 8 missile attacks are made per round from _2_ - these consisting of 4 arrows and 4 javelins. In addition, ink-bottles are flung to try and blind attackers and ruin mirrors. They have enough ammunition to do this for 4 rounds. If things go poorly, the 3 Medusae will join battle, using their petrifying visages. The villagers lie down during this, keen to avoid accidental petrification. 
-
- 
+*Если позвонили в колокольчики:* каждый раунд из _2_ делают 8 выстрелов дальнобойными атаками --- 4 стрелы и 4 дротика. Кроме того, они бросают бутылки с чернилами, чтобы попытаться ослепить нападающих и испортить их зеркала. У них достаточно боеприпасов, чтобы делать это на протяжении 4 раундов. Если дела идут плохо, 3 Медузы вступят в бой, используя свои превращающие в камень лица. В этот момент жители деревни ложатся на пол, стремясь избежать случайного окаменения.
 
 **2**  
-A long chamber with a stone desk running perpendicular with the eastern wall. The skirt of the desk is carved with scenes of agricultural abundance - huge sheafs of wheat being lifted and transported.
+Длинная комната с каменным столом, идущим перпендикулярно восточной стене. На столешнице вырезаны сцены сельскохозяйственного изобилия --- поднимаются и транспортируются огромные снопы пшеницы.
 
-*If the Bell has been rung:* 4 villagers with spears watch the entrance from behind the desk. 
+*Если в колокол позвонили:* 4 жителя деревни с копьями наблюдают за входом из-за столешницы 
 
-*If a handbell has been rung:* 21 villagers and 3 Medusae gather here. 4 villagers have short-bows, 4 have javelins. The rest have spears - many improvised from agricultural tools.
+*Если позвонили в колокольчики:* здесь собираются 21 житель деревни и 3 Медузы. У 4 жителей деревни есть короткие луки, у 4 --- копья. У остальных есть копья --- многие самодельные из сельскохозяйственных орудий.
 
 **3**  
-A wide open courtyard, the bulk of the floor tiled. Grape vines clamber up the walls, expertly tended to. Flowers bloom in unadorned pots - many not indigenous to Albann or the isles. There is a 4-in-6 chance Sabina is here, tending the plants. One of the Medusae, crowned in vipers and asps. She wears a loose robe of pastel-yellow, and carries a slight brass key.
+Широкий открытый двор, большая часть пола выложена плиткой. Виноградные лозы, за которыми умело ухаживали, вьются по стенам. Цветы распускаются в горшках без украшений --- многие из них не являются местными для Олбанна или островов. Есть шанс 4 из 6, что Сабина здесь, ухаживает за растениями. Это одна из Медуз, увенчанная гадюками и кобрами. На ней свободное одеяние пастельно-жёлтого цвета, а в руке она держит небольшой медный ключ.
 
-*If the Bell has been rung:* 4 villagers with bows watch the roof. Sabina lurks in the passage to 8. 
+*Если в колокол позвонили:* 4 жителя деревни с луками наблюдают за крышей. Сабина прячется в проходе к 8.
 
 **4**  
-A single table breaks up the monotony of the room, untouched by debris or dust. The table is deeply varnished and sturdy. 
+Единственный стол нарушает монотонность помещения, не тронутый мусором или пылью. Стол прочный и покрыт глубоким лаком.
 
 **5**  
-A series of small stone plinths are arranged in this room - each heavy enough to smash the stone tiled floor if pushed over.
+В этой комнате установлен ряд небольших каменных постаментов, каждый из которых достаточно тяжёл, чтобы разбить выложенный каменной плиткой пол, если его сдвинуть.
 
-*If the Bell has been rung:* 4 villagers with spears watch the entrance to _4_. They will use the plinths as cover - acting as a shield as long as they are not flanked.
+*Если в колокол позвонили:* 4 жителя деревни с копьями наблюдают за проходом в _4_. Они будут использовать постаменты в качестве прикрытия --- действуют как щит до тех пор, пока их не окружат с флангов.
 
 **6**  
-A small chamber, the walls painted with ink. The paintings depict scenes of burning cities and gentle coastal landscapes. Watching the paintings carefully, the coastal scenes move - they are a rendition of the coast of Lothing.  
+Маленькая комната, стены выкрашены чернилами. На картинах изображены сцены горящих городов и нежные прибрежные пейзажи. Внимательно наблюдая за картинами, можно заметить, что прибрежные сцены движутся --- это изображение побережья Лотинга.
 
 **7**  
-A tall chamber, the roof fitted with several narrow windows. Hanging from the ceiling, a huge brass bell with a rope ringer. This is the bell that summons the villagers to defend the treasury.
+Высокое помещение, в крыше которого есть несколько узких окон. С потолка свисает огромный медный колокол с верёвочным звонарём. Это колокол, который призывает жителей деревни защищать сокровищницу.
 
 **e2**  
-From the sharp rock outcropping, a safe jump can be made to the roof of the Treasury, allowing entrance through the windows of _7_ or dropping into the courtyard, _3_.
+С острого выступа скалы можно безопасно перепрыгнуть на крышу сокровищницы, что позволит проникнуть через окна в _7_ или спуститься во внутренний двор _3_.
 
 **8**  
-A long chamber, dominated by a long table filled with various scales and weight-measuring mechanisms. A cabinet on the western wall contains a plethora of lead weights in exact amounts, carefully marked in Latin.
+Длинное помещение, в котором доминирует длинный стол, уставленный различными весами и механизмами для измерения веса. В шкафу у западной стены хранится множество свинцовых гирь с точными весами, тщательно обозначенными латиницей.
 
 **9**  
-A mechanism of brass and iron gears dominates the wall. Protruding is a tube, terminating in a keyhole. The key carried by Sabine or found in 15.09 fits, but neither can be turned alone - the other key must be placed into the mechanism in _11_ and turned simultaneously. This unlocks _a_.  
-Picking the mechanism is a 6-dice Dexterity check - failure fouls the mechanism, damaging it beyond repair. This is obvious as soon as the task is begun - the attempt can be called off.
+У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в _11_ и повёрнут одновременно. Это разблокирует _a_.  
+Взлом механизма --- это проверка ловкости с помощью 6 кубиков --- неудача приводит к поломке механизма, повреждая его без возможности восстановления. Это становится очевидным, как только кто-то приступает к взлому --- в этот момент ещё не поздно остановится.
 
 **a**
-A square slab of lead, set on hidden, complex hinges built into the wall. The front has a silver pattern of dancing snakes embracing a snarling wolf, it's paw standing on a crude map of Albann. Smashing the surrounding stone walls would take days of work using teams of workers with hammers, picks and iron spikes. 
+Квадратная свинцовая плита, закреплённая на скрытых сложных петлях, встроенных в стену. На лицевой стороне серебристый узор в виде танцующих змей, обнимающих рычащего волка, его лапа стоит на грубой карте Олбанна. Разрушение окружающих каменных стен заняло бы несколько дней работы с использованием целых бригад рабочих с молотками, кирками и железными шипами.
 
 **10**  
-This narrow chamber, the eastern wall lined with iron bars, glitters with wealth extracted from Albann (Monstrous V): 
+Эта узкая камера, восточная стена которой обшита железными прутьями, сверкает богатствами, добытыми в Олбанне (Чудовища V):
 
-- 10000sp in ancient bronze and silver Brythonic coins, silver Pictish coins and golden Latin coins.
-- 16 _Doubleface Drachm_ (&T)
-- 3 threads of _Cowry Shells_ (&T)
-- 49 _Gold Imitations_ (&T)
-- 6000sp in goods
-- 20 Gold Ingots, stamped with a bull, worth 4000sp
-- 40 Silver Ingots, stamped with an eagle, worth 2000sp
-- 200 Precious Stones, worth 10000sp
-- 40 ruined bear-pelts, worthless
-- A _Genealogical Tree_ (&T)for an extinguished Pictish kingdom.
-- 6 _Drowning Weights_ (&T)
-- 4 _Bitter Builders_ (&T)
-- A _Seeking Dark_ (&T)
-- 5 draughts of the _Blood of Command_ (&T), sourced from Beasts.
-- _War-mask, Wolf_ (&T)
-- _Bools Bane_ (&T)
-- 2 draughts of the _Reviled Ointment_ (&T)
-- _Uspar_ (&T)
-- _The Opener_ (&T)
+- 10000 см в древних бронзовых и серебряных бриттских монетах, серебряных пиктских монетах и золотых латинских монетах.
+- 16 *двуликих драхм* (&T)
+- 3 нити *ракушек каури* (&T)
+- 49 *золотых имитаций* (&T)
+- 6000 см в виде различных ценных товаров
+- 20 золотых слитков с изображением быка стоимостью 4000 см
+- 40 серебряных слитков с оттиском орла стоимостью 2000 см
+- 200 драгоценных камней стоимостью 10000 см
+- 40 испорченных медвежьих шкур, бесполезных
+- *Генеалогическое древо* (&T) исчезнувшего пиктского королевства.
+- 6 *тонущих грузов* (&T)
+- 4 *ожесточённых строителя* (&T)
+- *Ищущая тьма* (&T)
+- 5 глотков *Крови командования* (&T), полученной из зверей.
+- *Боевая маска, волк* (&T)
+- *Погибель Буля* (&T)
+- 2 порции *Оскорблённой мази* (&T)
+- *Успар* (&T)
+- *Открывашка* (&T)
 
 **11**  
-A mechanism of brass and iron gears dominates the wall. Protruding is a tube, terminating in a keyhole. The key carried by Sabine or found in 15.09 fits, but neither can be turned alone - the other key must be placed into the mechanism in _9_ and turned simultaneously. This unlocks _a_.  
-Picking the mechanism is a 6-dice Dexterity check - failure fouls the mechanism, damaging it beyond repair. This is obvious as soon as the task is begun - the attempt can be called off.
+У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в _9_ и повёрнут одновременно. Это разблокирует _a_.  
+Взлом механизма --- это проверка ловкости с помощью 6 кубиков --- неудача приводит к поломке механизма, повреждая его без возможности восстановления. Это становится очевидным, как только кто-то приступает к взлому --- в этот момент ещё не поздно остановится.
 
 **12**  
-Rolls of fabric soften the stone walls of this chamber, each patched and repaired many times. Piles of silk hide weaving looms and half-embroidered garments. Amongst the fabrics waits Aelina, head wreathed in water snakes of vibrant hue. She wears a different robe each day, always matching the colours of the plants in _3_. The fabrics - 20 encumbrance in total - are worth 2500sp.
+Рулоны ткани смягчают каменные стены этой камеры, каждый из которых многократно латался и ремонтировался. Груды шёлка скрывают ткацкие станки и наполовину вышитую одежду. Среди тканей ждёт Аэлина, голова которой увита водяными змеями яркой расцветки. Каждый день она надевает новый халат, всегда соответствующий цветам растений в _3_. Ткани --- весом 20 предметов --- стоят 2500 см.
 
-*If the bell has been rung:* Aelina is not here. 6 blindfolded children are cared for by 4 elderly villagers. 
+*Если в колокол позвонили:* Аэлины здесь нет. За 6 детьми с завязанными глазами ухаживают 4 пожилых жителя деревни.
 
 **13**  
-A bare stone chamber, marked only by a calendar system painted onto the walls and a bundle of furs and fabric. The calendar marks many planting, growth and harvesting times for all manner of plants, recorded in small, neat Latin script. 
+Голая каменная комната, отмеченная только календарной системой, нарисованной на стенах, и свёртком мехов и тканей. В календаре указано множество сроков посадки, роста и сбора урожая всевозможных растений, записанных мелким аккуратным шрифтом на латыне.
 
 **14**  
-Filled with smashed pottery and wood, thick with dust. Seemingly unused for centuries. A map is still glued to the wall - showing Albann, marked with a number of forts. One in the south of the Black Strath is circled in red ink. 
+Комната заполнена разбитой керамикой и деревом, покрытый толстым слоем пыли. Казалось бы, ею не пользовались веками. К стене всё ещё приклеена карта, на которой изображен Олбанн, отмеченный рядом фортов. Один из них, расположенный к югу от Чёрной лощины, обведён красными чернилами.
 
 **15**  
-Stone niches in the wall are filled with scrolls and books, all crumbling into dust. There are 126 in total. Opening them with anything but the most delicate of touches ensures their destruction. They are written in Latin, Greek and Phoenician. If they could somehow be transported, each is worth 500sp to a scholarly institution. Much of what is recorded here has been forgotten.
+Каменные ниши в стене заполнены свитками и книгами, все они рассыпаются в пыль. Всего их 126. Открытие их любым способом, кроме самых деликатных прикосновений, приводит к их разрушению. Они написаны на латыни, греческом и финикийском языках. Если бы их можно было каким-то образом перевезти, каждая из них стоила бы 500 см для научного учреждения. Многое из того, что здесь записано, было забыто.
 
-Decima is found here, head heavy with parchment-yellow vipers. With incredible grace, she studies the texts. She wears nothing.
+Здесь водится Десима, голова которой отяжелела от пергаментно-жёлтых гадюк. С невероятной грацией она изучает тексты. На ней ничего нет.
 
-*If the bell has been rung:* Decima is not here.
+*Если в колокол позвонили:* Десимы здесь не будет.
 
 **16**  
-Wooden racks line the walls, filled with spears. 4 javelins and 4 bows are the only items which mark a change. Many of the spears are improvised from agricultural tools. 
+Вдоль стен тянутся деревянные стеллажи, заполненные копьями. 4 копья и 4 лука --- единственные предметы, которые выделяются. Остальные копья сделаны из сельскохозяйственных орудий.
 
-*If the bell has been rung:* Aelina, Decima and 11 villagers are here, waiting for any noise. Aelina and Decima hide behind a drape of silk as to not accidentally petrify the villagers.
+*Если в колокол позвонили:* Аэлина, Десима и 11 жителей деревни находятся здесь, ожидая любого шума. Аэлина и Десима прячутся за шёлковой занавеской, чтобы случайно не превратить жителей деревни в камень.
 
 ## 21.05 Оросей
 
-A sea-cave leads into the interior of Orasaigh, showing signs of splendid stoneworking - pillars, carved with flowing scenes of festivals and torture, support the natural ceiling. The passage is unlit, and impossibly long - sailing down it for a day leads to the Underworld. The Druid-cult calls it _Dubwyn_ and the Christians call it _Hell_. Detailing this realm is beyond the scope of this document - it is more dungeon than landscape. 
+Морская пещера ведет вглубь Оросея, демонстрируя признаки великолепной каменной обработки --- естественный потолок поддерживают колонны, на которых вырезаны плавные сцены празднеств и пыток. Проход неосвещён, и невероятно длинный --- плыть по нему целый день --- ведёт в Подземный мир. Культ друидов называет это _Дубвин_, а христиане зовут--- _Адом_. Подробное описание этого царства выходит за рамки данного документа --- это скорее подземелье, чем ландшафт.
 
 ## 23.05 Мелиста, логово Бейтир
 
-Lifeless rock, arrayed against climbers with sea-smoothed cliffs and jagged, unstable peaks. One who braved the ascent would find a roofed vault, burrowed into the rock. Beneath the roof slumbers Bheithir, a dragon, atop a hoard plundered from ships. They have slept for centuries - if more than 350sp of wealth is carried, or the hoard disturbed, Bheithir awakens. They will terrorise the northern seas,  Albann, Faroe and the Mid-Isles from this point on - but first, they will deal with the intruders.
+Безжизненная скала, противостоящая скалолазам сглаженными морем утёсами и зазубренными, неустойчивыми вершинами. Тот, кто отважился бы на восхождение, обнаружил бы сводчатое хранилище, вырубленное в скале. Под крышей на вершине сокровищ, награбленных с кораблей, дремлет Бейтир, дракон. Он спал веками --- если будет унесено более 350 см богатства или клад потревожен, Бейтир проснётся. С этого момента он будут терроризировать северные моря, Олбанн, Фароэ и Срединные острова, но сначала он разберётся с незваными гостями.
 
-Bheithir is coated in scales of iron - they cannot fly, but they can swim. Attacks made against them have a penalty of 2.
+Бейтир покрыт железной чешуей --- он не можёт летать, но можёт плавать. Атаки, совершённые против него, имеют штраф -2 на попадание.
 
-Their hoard is magnificent (Monstrous V):
+Его сокровища великолепны (Чудовище V):
 
-- 8000sp coins from across the lands.
-- 75 silver _Nomad Bowls_. (&T)
-- 91 gold _Nomad Bowls_. (&T)
-- 60 _Bronze Imitations_. (&T)
-- 19 _Doubleface Drachm_. (&T)
-- 8 beads of amber, worth 400sp.
-- 67 iron ingots, worth 2680sp. They are coated in slime, which protects them from rust.
-- 13 buckets of blessed soil, worth 975sp.
-- 18 _Ship Heads_ (&T)
-- A bag of _Silver Nails_ (&T)
-- A _Whale's Eye_ (&T)
-- _The Witness_ (&T)
-- 6 draughts of a _Potion of Terrible Strength_ (&T)
+- 8000 см со всех концов света.
+- 75 серебряных *чаш кочевников*. (&T)
+- 91 золотая *чаша кочевников*. (&T)
+- 60 *бронзовых имитаций*. (&T)
+- 19 *двуликих драхм*. (&T)
+- 8 Бусин из янтаря стоимостью 400 см.
+- 67 железных слитков стоимостью 2680 см. Они покрыты слизью, которая защищает их от ржавчины.
+- 13 вёдер благословенной земли стоимостью 975 см.
+- 18 *голов кораблей* (&T)
+- Мешочек *Серебрянных гвоздей* (&T)
+- *Китовый глаз* (&T)
+- *Свидетель* (&T)
+- 6 глотков *Зелья страшной силы* (&T)
 
 # Олбанн 
 
