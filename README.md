@@ -1,6 +1,6 @@
 # Волки на побережье
 
-Здесь вы найдёте русски перевод материалов для кампэйна Wolves Upon the Coast --- "Волков на побережье".
+Здесь вы найдёте русский перевод материалов для кампэйна Волков на побережье (Wolves Upon the Coast).
 
 Все материалы соответствуют **release-april**.
 
@@ -9,7 +9,7 @@
 
 ## Полезные ссылки
 
-https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign --- собственно гекскроул с демкой
+https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign --- гекскроул (есть демка)
 
 https://lukegearing.itch.io/volume-2-monsters --- монстрятник
 
