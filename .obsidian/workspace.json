@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "97fd65f7bdd355a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "be32a3dfe4c14e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "462008dbfbaaeb53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown/albann-fills_rus.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "41cff5e56ed521f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc0192c9daeaee50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown/part/treasure-special_rus(part).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "547f31b80f3df2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdf6e95d7b8d10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87806569dbf63769",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f13c19ce4c6ee3e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f013117634e01f54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "57b5c381e88a093f",
+    "type": "split",
+    "children": [
+      {
+        "id": "575071010408c16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049d3d28df263ee8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "markdown/albann-fills_rus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c5078c39dc0c1d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "markdown/albann-fills_rus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48052d8ed731197c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c3180a49443e85c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "markdown/albann-fills_rus.md"
+              }
+            }
+          },
+          {
+            "id": "21d5ddc5b0668d2b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "462008dbfbaaeb53",
+  "lastOpenFiles": [
+    "gazetteer/~$gazetteer.xlsx",
+    "markdown/part/treasure-special_rus(part).md",
+    "markdown/albann-fills_rus.md",
+    "Гекскроул/Райслип и окрестности/Острова Райслипа/Остров Кинди/02.16 Логово Шруткина.md",
+    "Гекскроул/Райслип и окрестности/Райслип/01.10 Дорбог.md",
+    "Гекскроул/Райслип и окрестности/Райслип/01.08 Рунические камни.md",
+    "Правила/Магия/Обращение нежити.md",
+    "Правила/Магия/Заклинания/Сеть.md",
+    "Сокровища/Сокровища.md",
+    "Монстры/Бандит.md",
+    "Монстры/Сверхъестественные ОЗ.md",
+    "Монстры/Дракон.md",
+    "Монстры/Зомби.md",
+    "Монстры/Джаггернаут.md",
+    "Монстры/Грифон.md",
+    "Монстры/Гоблин.md",
+    "test/Монстры.md",
+    "Монстры/Медуза.md",
+    "test/Энт.md",
+    "test/Скелет.md",
+    "test/Сверхъестественные ОЗ.md",
+    "test/Русалка.md",
+    "test/Призрак.md",
+    "test/Орк.md",
+    "test/Огр.md",
+    "test/Оборотень.md",
+    "test",
+    "Гекскроул/Райслип и окрестности/Фракции",
+    "Гекскроул/Райслип и окрестности/Райслип",
+    "Гекскроул/Райслип и окрестности/Острова Райслипа",
+    "Гекскроул/Райслип и окрестности/Острова Райслипа/Остров Кинди",
+    "Сокровища/Волшебные предметы/Всячина",
+    "Сокровища/Волшебные предметы/Гримуары",
+    "Сокровища/Волшебные предметы/Посохи",
+    "Сокровища/Волшебные предметы/Кольца",
+    "Сокровища/Волшебные предметы/Зелья"
+  ]
+}
