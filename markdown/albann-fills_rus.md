@@ -415,47 +415,47 @@ geometry: margin=1in
 	+ 14 _жемчужин прокажённого._ (&T)
 	+ Свинцовый гроб, закрытый и оплавленный. Внутри труп ведьмы.
 
-### 08.03 Caelkirk
+### 08.03 Келкирк
 
-The fortified town of Caelkirk straddles the river. Full gibbets are strewn, and soldiers fill the towers. A forest of stakes, each bearing a head, cluster around the main gate. The streets are mostly empty - the 1100 remaining citizens move quickly from building to building when they must. What whispered words can be heard are a mix of Pictish, Ruis and Norse. Those carrying arms without wearing the colours of Lutrin are harassed and followed by 4d6 soldiers. 
+Укреплённый город Келкирк расположен на берегу реки. Повсюду разбросаны виселицы, а башни заполнены солдатами. Лес кольев, на каждом из которых покоится чья-то голова, возвышается вокруг главных ворот. Улицы в основном пусты --- оставшиеся 1100 граждан быстро переходят от здания к зданию, когда это необходимо. Тот шёпот, что можно услышать --- это смесь пиктского, райского и варяжского языков. Тех, кто носит оружие, но не носит цветов Лутрина, начнут преследовать 4к6 солдат.
 
-Ruled by Lutrin (5HD, Maille, Shield, Mace) - one of the hated Four Counts. He seethes with rage, pride and ego stung by the attempted rebellion. He sees enemies everywhere - most of the heads and gibbets were erected from his purges rather than the small battle. An arrow wound in his leg is healing poorly, and weeps pus. He would forgo his Christian faith for a Druidic healer.
+Здесь правит Лутрин (5 КЗ, кольчуга, щит, булава) --- один из четырёх ненавистных графов. Он кипит от ярости, гордости и самолюбия, уязвлённых попыткой восстания. Он видит врагов повсюду --- большинство кольев с головами и виселиц были установлены в результате его чисток, а не из-за какой-то небольшой битвы. Рана от стрелы в его ноге плохо заживает, и из неё сочится гной. Он отказался бы от своей христианской веры ради друидического целителя.
 
-Lutrin's heavy handed approach has only guaranteed hostility against him. Some consider speaking to Norse cousins to occupy the town. 
+Жёсткий подход Лутрина лишь подогревает враждебность по отношению к нему. Некоторые подумывают о том, чтобы поговорить с варяжскими кузенами и занять город.
 
-60 footmen, 40 skirmishers, 10 horsemen, 2 karvi plus 5 fishing boats.
+60 пехотинцев, 40 застрельщиков, 10 кавалеристов, 2 карва плюс 5 рыбацких лодок.
 
-### 10.03 Renegade Cove
+### 10.03 Бухта отступников
 
-A flooded sea-cave system upon the coast bears grisly trophies around the entrance - hands and feet, skewered. Beneath the waterline, bronze blades jut to cut the unwary. The smell of death permeates the caves - all of which consist of narrow walk-ways around polluted pools of sea-water. There are eight interlinked caves. Only one allows access to the outside world. Viscera floats within the pools. 
+Затопленная система морских пещер на побережье украшена ужасными трофеями у входа --- насаженными на ветки руками и ногами. Ниже уровня воды торчат бронзовые лезвия, готовые разрезать всех неосторожных. Запах смерти пропитывает пещеры --- все они состоят из узких проходов вокруг загрязнённых бассейнов с морской водой. Здесь есть восемь взаимосвязанных пещер. Лишь одна из них обеспечивает доступ к внешнему миру. В бассейнах плавают внутренности.
 
-4 Merfolk lair here. They are festooned with gore-trophies, teeth sharpened, eyes knowing only malice. They hate what they have become, and hate any who remind them of what they once were. 
+У 4 русалок здесь логово. Они увешаны кровавыми трофеями, их зубы заострены, глаза излучают только злобу. Они ненавидят то, чем стали, и любого, кто напоминает им, кем они когда-то были.
 
-Each has a length of rope pierced through with nails. Once intruders to the cave are deep enough, they cast these ropes to pull those in heavy armour into the water to drown them. If combat goes poorly, they swim to the bottom of the pools (each is ~30' deep) and swim to adjoining caves to wait. 
+У каждого есть отрезок верёвки, пронизанный гвоздями. Как только незваные гости проникают в пещеру достаточно глубоко, они забрасывают эти веревки, чтобы затащить тех, кто в тяжёлых доспехах, в воду и утопить их. Если бой проходит неудачно, они опускаются на дно бассейнов (каждый глубиной ~ 30 футов) и заплывают в соседние пещеры, чтобы подождать.
 
-They have the patience of eels. 
+У них терпение угря.
 
-Diving to the bottom of the pools and scrabbling around, one could find 1d20 silver coins per cave. 
+Ныряя на дно бассейнов и шаря вокруг, можно было найти по 1к20 серебряных монет в каждой пещере.
 
-### 12.03 Crabs
+### 12.03 Крабы
 
-Thousands of crabs in a small set of rockpools. They move in circles, dancing, locking claws with one another. If disturbed, they all scuttle into the ocean. 
+Тысячи крабов в небольших каменистых заводях. Они двигаются кругами, танцуя, сцепив клешни друг с другом. Если их потревожить, все они бросаются в океан.
 
-### 13.03 Eanverness, capital of Fortu
+### 13.03 Энвернесc, столица Форту
 
-The fort of Eanverness sits atop a hill, surveying the city and sea alike. Rings of wooden walls ripple throughout the city - the oldest sections having areas built of stone, with wood becoming predominant towards the edges. Amongst the 4534 inhabitants, Pictish and Norse are common. 
+Форт Энвернесс расположен на вершине холма, откуда открывается хороший вид как на город, так и на море. Кольца деревянных стен тянутся по всему городу --- в самых старых районах есть участки, построенные из камня, причём ближе к краям преобладает дерево. Среди 4534 жителей распространены пиктский и варяжский языки.
 
-The Warden-Queen Coblaith (5HD, Plate, Warhammer) rests uneasy on her throne. She is seen as an improvement on her dead husband, but her lieutenants - the Four Counts - are widely despised as remnants of the old order, persisting in their abuses. She continues to send soldiers to the Black Strath. 
+Королева-хранительница Коблайт (5 КЗ, латы, боевой молот) беспокойно восседает на своем троне. Считается, что она стала лучше своего покойного мужа, но её помощников --- четырёх графов --- многие презирают как пережитков старого порядка, упорствующих в своих злоупотреблениях. Она продолжает посылать солдат в Чёрную лощину.
 
-The Christian church, led here by Archbishop Drostan, works to eradicate a growing heresy which conflates indigenous sea-worship with Biblical teachings. The height of the heresy is that heaven lies beneath the waves. For now, Coblaith denies them the right to persecute - she cannot afford more internal strife.
+Христианская церковь, возглавляемая здесь архиепископом Дростаном, работает над искоренением растущей ереси, которая смешивает местное поклонение морю с библейскими учениями. Вершина ереси заключается в том, что рай находится под водой. На данный момент Коблайт отказывает им в праве притеснять неверных --- она не может позволить себе ещё больше внутренних раздоров.
 
-The sea is thick with fishing vessels. Between them dart narrow whaling ships. Norse knarr carrying narwhal-ivory, furs and plunder are common. They sail away with iron, won at cost from the Black Strath. The people of Eanverness watch them carefully - they have been victims of raids before. The traders will only shake their heads, and blame pirates. 
+Море кишит рыболовецкими судами. Между ними проносятся узкие китобойные суда. Варяжский кнорр, перевозящий бивни нарвала, меха и добычу --- здесь это обычное дело. Они уплывают с железом, выигранным дорогой ценой у Черной лощины. Жители Энвернесса внимательно следят за ними --- они и раньше становились жертвами набегов. Торговцы лишь покачивают головами и обвиняют во всём пиратов.
 
-There is a distinct lack of unemployed youths in the city - most have been drafted to service in the Black Strath, their ears nicked to show their service. 
+В городе ощущается явная нехватка безработной молодежи --- большинство из них были призваны на службу в Чёрную лощину, их уши надрезаны, чтобы показать, где они несут службу.
 
-Beyond the city limits, huts on stilts set above the brackish fen. Sad cows with salt rimed feet watch travellers. 
+За чертой города над солоноватым болотом возвышались хижины на сваях. Печальные коровы с покрытыми солью ногами наблюдают за путешественниками.
 
-300 footmen, 150 skirmishers, 100 armoured footmen, 30 horsemen, 8 karvi plus 20 fishing boats.
+300 пехотинцев, 150 застрельщиков, 100 тяжёлых пехотинцев, 30 кавалеристов, 8 карва плюс 20 рыбацких лодок.
 
 ### 11.04 Corrimony
 
