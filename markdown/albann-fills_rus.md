@@ -457,99 +457,99 @@ geometry: margin=1in
 
 300 пехотинцев, 150 застрельщиков, 100 тяжёлых пехотинцев, 30 кавалеристов, 8 карва плюс 20 рыбацких лодок.
 
-### 11.04 Corrimony
+### 11.04 Корримони
 
-Mixed herds of sheep and cattle, closely bonded, wander the hills surrounding the Corrimony. Hundreds of animals and 44 people. Their robust dogs are incredibly loyal, bound inseparably from their designated master. The dogs are keen on nipping moving objects - this being how they herd. Only gelded dogs are sold - the village is proud of the Corrimony Herder. All are engaged with their livestock - and all are trained with the sling.
+Смешанные стада овец и крупного рогатого скота, тесно связанные между собой, бродят по холмам, окружающим Корримони. Сотни животных и 44 человека. Их крепкие собаки невероятно преданны и неразрывно связаны со своим хозяином. Собаки любят покусывать движущиеся предметы --- именно так они пасут. Продаются только кастрированные собаки --- деревня гордится своим корримонийским пастухом. Все занимаются своим домашним скотом, и все тренируются обращаться с пращой.
 
-The village defers to James (2HD, Leather, Sling) when rare disagreements crop up. He is famous for killing a raider with a sling bullet though the nose - the legend overshadows the man. He wants nothing to do with killing or killers. Many wish he would kill Count Drest.
+Деревня полагается на Джеймса (2 КЗ, кожаный доспех, праща), когда возникают редкие разногласия. Он знаменит тем, что убил налётчика, попав ему в переносицу из пращи ---, но эта легенда и омрачает его. Он не хочет иметь ничего общего с убийствами или убийцами. Многие хотели бы, чтобы он убил графа Дреста.
 
-A dirt track leads up to 11.05 - a cave for use during river-raids. A wooden barricade is stored within to bar the entrance. Ghom script carved into the walls, instructing that the youngest animal must be sacrificed to placate the spirits in the cave. This has not been done since the people of Corrimony converted to Christianity - the next time they hide here, a child will be stolen.
+Грунтовая дорога ведёт к 11.05 --- пещере, которую можно использовать во время речных рейдов. Внутри хранится деревянная баррикада, которой можно преграждать вход. На стенах высечены письмена на Гоме, в которых говорится, что самое молодое животное должно быть принесено в жертву, чтобы умилостивить духов в пещере. Этого не делалось с тех пор, как жители Корримони приняли христианство --- в следующий раз, когда они спрячутся здесь, ребенок будет украден.
 
-34 skirmishers, 40 dogs. 
+34 застрельщика, 40 собак.
 
-### 12.04 Ryndwyrm
+### 12.04 Риндвирм
 
-Boats travelling upon the river Rynd carry an animal, thrown overboard between two hills. This placates the Ryndworm - the monster who lairs within the river. 
+Лодки, плавающее по реке Ринд, обязательно везут животное, которое выбрасывают за борт между двумя холмами. Это умиротворяет Риндвирма --- монстра, который прячется в реке.
 
-The first story of the Ryndwyrm is that it hates all with legs with a bright malice, fuelled by jealousy - in eating legged things, it hopes to grow its own and walk. A lost child once survived by puling a sack over their body, hiding their limbs - or so the story goes. 
+Первая история о Риндвирме заключается в том, что он ненавидит всех, у кого есть ноги, с яркой злобой, подпитываемой ревностью --- поедая длинноногих существ, он надеется вырастить свои собственные и начать ходить. Однажды потерявшийся ребенок выжил, натянув на себя мешок и спрятав конечности --- по крайней мере, так гласит история.
 
-The second story is that the Ryndwyrm protects the river from use by raiders - each time they have tried to move past Eanverness, their chief has been eaten. It may hate all legged things, but it delights in the blood of Norsefolk most - or so the story goes. 
+Вторая история заключается в том, что Риндвирм защищает реку от рейдеров --- каждый раз, когда они пытались пройти мимо Энвернесcа, их вождь оказывался съеден. Может он и ненавидит всех двуногих существ, но больше всего его радует кровь варяг --- по крайней мере, так гласит история.
 
-7HD / AC as Maille / Damage 1d6+2 & Save or Die from venom.
+7 КЗ / КБ как у кольчуги / Урон 1к6+2 и спасбросок или умереть от яда.
 
-### 13.04 Methven
+### 13.04 Метвен
 
-A skeleton garrison of 19 is within this fortified village. All are older men with the ear-cut - here to train recruits before they are sent to the Black Strath. They have seen generations of men leave and come back changed, as they once did. They are keen to share you drink and tell tall tales - in truth all are terrified of the thick green coiling before them, cupped between the mountains. 
+В этой укреплённой деревне находится небольшой гарнизон из 19 человек. Все они пожилые мужчины с надрезанными ушами --- здесь обучают новобранцев перед отправкой в Чёрную лощину. Они видели, как поколения людей уходили и возвращались изменившимися, как это было когда-то с ними самими. Они охотно поделятся с вами выпивкой и расскажут небылицы --- по правде говоря, все они в ужасе от густой извивающейся зелени, зажатой перед ними между горами.
 
-If a group returns from the Black Strath with casualties or twenty Orc heads, they offer to teach the Albann way of archery - rerolling 1's rolled on damage rolls with Longbows. 
+Если группа возвращается из Чёрной лощины с потерями или двадцатью головами орков, они предлагают обучить олбаннскому способу стрельбы из лука --- перебрасывать "1" выпавшие на броске урона из длинного лука.
 
-19 footmen.
+19 пехотинцев.
 
-### 14.04 Rpthrglen 
+### 14.04 Рутрглен
 
-On the edge of the Black Strath, fields of oat and barley grow thick on the rich soil. The 76 people of Rpthrglen tend to them and their small herds of cattle, making their own cheese. Being on the edge of the Black Strath, tax collectors are rare, despite proximity to Eanverness. They funnel this surplus to the deserters in 16.04 - unwilling to see them starve or resort to banditry. Once a week, 4d6 deserters arrive at night to collect food. 
+На краю Чёрной лощины на богатой почве густо растут поля овса и ячменя. 76 жителей Рутрглена ухаживают за ними и своими небольшими стадами крупного рогатого скота, изготавливая свой собственный сыр. Из-за того, что они находятся на окраине Чёрной лощины, сборщики налогов встречаются здесь редко, несмотря на близость к Энвернесcу. Они направляют этот излишек дезертирам в 16.04 --- не желая видеть, как они голодают или прибегают к бандитизму. Раз в неделю 4к6 дезертиров прибывают ночью, чтобы забрать еду.
 
-The headman, Howar (3HD, Unarmoured, Sword) is the latest in an unbroken line in his family. Many of the local sites are named after his forebears. He has yet to do something worthy of being remembered, and it worries away at him. If the opportunity came, he would throw himself into it. He is unaware of the relationship between the village and the deserters.
+Глава клана Ховар (3 КЗ, без доспехов, меч) --- последний в непрерывной линии своей семьи. Многие местные достопримечательности названы в честь его предков. Ему ещё предстоит сделать что-то достойное того, чтобы его запомнили, и это его очень беспокоит. Если бы представилась такая возможность, он бы с головой окунулся в неё. Он не знает об отношениях между деревней и дезертирами.
 
-10 footmen, 10 skirmishers.
+10 пехотинцев, 10 застрельщиков.
 
-### 16.04 Deserter Camp 
+### 16.04 Лагерь дезертиров
 
-In the shallow forest that marks the beginning of the Black Strath, 24 deserters keep a meagre camp. They have yet to turn to banditry. Their attempts at hunting have been poor, and only the donations from Rpgthrglen keep them alive. 
+В мелколесье, которое отмечает начало Чёрной лощины, 24 дезертира разбили скудный лагерь. Они ещё не дошли до того, чтобы заняться бандитизмом. Их попытки поохотиться были неудачными, и только пожертвования из Рутрглена поддерживают их в живых.
 
-They are led by Crummock (4HD, Leather, Bow, Battleaxe) - he is trying to formulate a plan which leads them home, but is coming up short. His current thinking is to try and steal a ship and escape Fortu entirely. Many do not want to leave. 
+Их возглавляет Краммок (4 КЗ, кожаный доспех, лук, боевой топор) --- он пытается сформулировать план, который приведёт их домой, но пока что терпит неудачу. В настоящее время он думает о том, чтобы попытаться украсть корабль и с концами сбежать с Форту. Многие не хотят уезжать.
 
-The bounty for deserters, alive or dead, stands at 25sp each. Ears, marked with a service-cut, are taken as proof. 
+Награда за дезертиров, живых или мёртвых, составляет по 25 см за каждого. Уши, отмеченные знаком несения службы, принимаются в качестве доказательства.
 
-They have a meagre collection of wealth, pooled in a vague plan of purchasing passage if theft is not an option (Bandits I):
+У них скудная коллекция богатств, собранных в угоду расплывчатого плана покупки прохода, если кража не удастся (Бандиты I):
 
-- 400sp in Fortu coinage.
-- 12 Iron Ingots, wrapped in oilcloth and buried. Worth 480sp.
-- 2 full baskets of purple Aromatic Flowers, gathered within the Black Strath. Worth 200sp.
-- 32 bottles of freeze-distilled beer, stolen from the quartermaster in Dun Dulnadd. Worth 320sp.
+- 400 см в монетах Форту.
+- 12 железных слитков, завёрнутых в промасленную ткань и закопанных. Стоят 480 см.
+- 2 полные корзины пурпурных ароматных цветов, собранных в Чёрной лощине. Стоят 200 см.
+- 32 бутылки сублимированного пива, украденные у квартирмейстера в Дан-Дулнадде. Стоят 320 см.
 
-### 18.04 Wyvern Lair 
+### 18.04 Логово виверны
 
-A Wyvern lairs here, in the ruins of a drystone hovel. Amongst the wreckage, a Ghom to Latin dictionary in unbound sheets. 
+Здесь, в развалинах лачуги из сухой кладки, гнездится виверна. Среди обломков --- словарь с Гома на латынь на отдельных листах.
 
-There is a 20% chance he is here otherwise returning on a 2-in-6 per Turn. He flies low as to not be seen by intruders - he delights in murder.  
+Вероятность того, что она здесь, составляет 20%, в противном случае она возвращается с шансом 2 из 6 каждый ход. Она летает низко, чтобы не быть замеченной незваными гостями --- она наслаждается убийством.
 
-Those who take the dictionary will be hunted ruthlessly - the Wyvern will hold families hostage to incite others to hunt for its prey. 
+На тех, кто возьмёт словарь, будет начата безжалостная охота --- виверна будет держать семьи в заложниках, чтобы подстрекать других охотиться за её добычей.
 
-### 09.05 Dun Dulnadd 
+### 09.05 Дан-Дулнадд
 
-A dome of rock extends out from the mainland, connected only by a blade of land. Atop the dome, stacked stones form a fort, smoke bleeding upwards. Low wooden buildings crouch in the shadow of the walls, affording living space for the 50 defenders and their attendant 40 staff. Many of the staff (made up of wives and husbands of the defenders) are Ruis - those in the nearby villages want nothing to do with the soldiers of Dulnadd.  
+От материка отделяется скальный купол, соединенный с ним лишь полоской суши. На вершине купола сложенные друг на друга камни образуют крепость, дым струится вверх. Низкие деревянные здания притаились в тени стен, предоставляя жилое пространство для 50 защитников и 40 человек из их сопровождения. Многие сопровождающие (состоящие из жён и мужей защитников) --- из Райслипа --- те, кто живёт в близлежащих деревнях, не хотят иметь ничего общего с солдатами Дулнадда.
 
-The Fort is controlled by Drest (HD 4, Full Length Maille, Two Handed Sword), one of the Four Counts. He is just past his prime, and his cruelties have magnified as a result. He gives his cronies freedom, as long as they act in his name. He is determined to live forever in memory. 
+Форт контролируется Дрестом (КЗ 4, кольчуга в полный рост, двуручный меч), одним из четырёх графов. Он переживает не лучше свои дни, в результате чего его жестокость возросла. Он даёт своим дружкам свободу до тех пор, пока они действуют от его имени. Он полон решимости вечно жить в памяти.
 
-He wants to see Contin broken to his whims. 
+Он хочет, чтобы Контин подчинялся его прихотям.
 
-Drest howls at night. The island of Flodaigh haunts his dreams with visions of a crumbled tower. 
+Дрест стонет по ночам. Остров Флодей преследует его во снах видениями разрушенной башни.
 
-Sea-caves riddle the lower parts of this dome of rock, all converging on a single tunnel used by the defenders to access their boats. Once, they were used for burial. Those bodies have long since been thrown out to sea.
+Морские пещеры пронизывают нижние части этого скального купола, и все они сходятся в одном туннеле, используемом защитниками для доступа к своим лодкам. Когда-то они использовались для погребения. Эти тела уже давно были выброшены в море.
 
-30 armoured footmen, 10 skirmishers, 10 horsemen, 2 karvi-equivalent vessels
+30 тяжёлых пехотинцев, 10 застрельщиков, 10 кавалеристов, 2 корабля, эквивалентных карву
 
-### 12.05 Hermit of Masks
+### 12.05 Масочный отшельник
 
-A bedraggled, decrepit old man pisses in the fork of the river and laughs nastily to himself. He carries three masks, each made from the face of an Orc. He knows how to cast _Charm Monster_, but has never used it. He has forgotten his name and much else besides.  
-If he realises he has been spotted, he will flee towards the mountains (12.06). He is not hard to chase. 
+Грязный, дряхлый старик мочится в развилку реки и мерзко смеётся про себя. Он носит три маски, каждая из которых сделана с лица орка. Он знает, как использовать заклинание _очарование монстра_, но никогда им не пользовался. Помимо прочего, он забыл своё имя и многое другое.  
+Если он поймёт, что его заметили, он убежит в сторону гор (12.06). За ним нетрудно угнаться.
 
-### 15.05 Arboreal Palace
+### 15.05 Древесный дворец
 
-_c.w. mind control magic._
+_Внимание: магия контроля разума._
 
-The dense foliage of the Black Strath takes on an imitative form here - a hall of twisted and gnarled branch and root in the arboreal gloom. No birds sing here without the permission of the self-made monarch. A Dryad dwells here, fifteen Orcs and five Picts bound utterly to their will. All wait within the wooden palace, silent as per her commands. Any loud noise draws the attention of the Dryad, who sends the warriors to capture the intruders that 'oaths of fealty' may be extracted from them.
+Густая листва Чёрной лощины приобретает здесь имитационную форму --- зал из искривлённых ветвей и корней в древесном сумраке. Ни одна птица не поёт здесь без разрешения самопровозглашённого монарха. Здесь обитает дриада, пятнадцать орков и пять пиктов, полностью подчиняющихся её воле. Все ждут в деревянном дворце, храня молчание, согласно её приказам. Любой громкий шум привлекает внимание дриады, которая посылает воинов схватить незваных гостей, чтобы получить от них "клятвы верности".
 
-The Picts and Orcs have faces full of shining love as they come at intruders with clubs and rope, eager for you to join them. 
+Лица пиктов и орков полны сияющей любви, когда они набрасываются на незваных гостей с дубинками и верёвками, страстно желая, чтобы вы присоединились к ним.
 
-The Dryad has accumulated some wealth, understanding this to be a requirement of royalty. It is left in a small heap by the shrub-throne (Monstrous II):
+Дриада накопила некоторое богатство, понимая, что это является требованием королевской семьи. Оно лежит в небольшой кучке у кустарникового трона (Чудовище II):
 
-- 600sp in silver Fortu coins.
-- 200 _Victory Aureus._ (&T)
-- 3 sealed containers of blessed soil, used to seed a churchyard. Worth 225sp.
-- 2 vials of perfume - bought by a bonded warrior. Smells of wilting flowers. Worth 200sp.
-- Three doses of _Serpents Draught._ (&T)
+- 600 см в серебряных монетах Форту.
+- 200 _победных ауреусов._ (&T)
+- 3 запечатанных контейнера с благословенной почвой, использованной для засева церковного двора. Стоят 225 см.
+- 2 флакона духов --- куплены связанным воином. Пахнут увядающими цветами. Стоит 200 см.
+- Три дозы _Змеиной тяги._ (&T)
 
 ### 16.05 Rivertraps 
 
