@@ -551,172 +551,172 @@ _Внимание: магия контроля разума._
 - 2 флакона духов --- куплены связанным воином. Пахнут увядающими цветами. Стоит 200 см.
 - Три дозы _Змеиной тяги._ (&T)
 
-### 16.05 Rivertraps 
+### 16.05 Речные ловушки
 
-Delicate spiderweb stretches from one side of the river to the other - constructed in many layers. Birds have been caught in it. Those with patience will see colonies of spiders scuttle out to feed upon fresh unfortunates. Harmless to humans. 
+Множество слоёв тонкой паутины протянулась от одного берега реки до другого. В него попали птицы. Те, у кого есть терпение, увидят, как колонии пауков выползают наружу, чтобы полакомиться новыми несчастными. Безвредны для человека.
 
-### 17.05 Marlfagh 
+### 17.05 Марлфаг 
 
-Where the hump of a hill crests the forest, a small hillfort. Corpses of orcs and Fortu warriors are strung from poles, and a black flag emblazoned with a red dog flies. Any moving openly are accosted in heavily accented Pictish - demanding to know your purpose approaching the independent fort of Marlfagh. Any claiming allegiance to Fortu are pelted with wooden javelins (-1 to Hit) until they leave. Otherwise, diplomacy-at-distance is possible. 
+Там, где горб холма венчает лес, находится небольшое городишко. Трупы орков и воинов Форту нанизаны на шесты, а над фортом развивается чёрный флаг с изображением красной собаки. К любому, кто открыто движется, обращаются на пиктском языке с сильным акцентом, требуя сообщить цель их приближения к независимому форту Марлфаг. Всех, кто заявляет о своей преданности Форту, забрасывают деревянными дротиками (-1 к попаданию) до тех пор, пока они не уйдут. В противном случае возможна дипломатия на расстоянии.
 
-The 64 inhabitants of Marlfagh are grim. They are keen to buy arms and armour - metal is especially sought after, and is worth double normal value. They offer a map of the Black Strath showing the rivers and settlements for 500sp. Otherwise, they allow rest within their fort for 50sp a night - paid in coins or weapons.
+64 жителя Марлфага настроены мрачно. Они стремятся покупать оружие и доспехи --- металл пользуется особым спросом и стоит вдвое дороже обычной цены. Они предлагают карту Чёрной лощины с указанием рек и населенных пунктов за 500 см. В противном случае они разрешают отдохнуть в пределах своего форта за 50 см за ночь --- можно заплатить либо монетами, либо оружием.
 
-After several such stays, they may begin to warm, allowing future stays for free - assuming you will take on guard duty. The youth of Marlfagh are restless and curious - it is easy to find recruits here, but they will never work for Fortu interests.
+После нескольких таких остановок они могут смягчиться, что позволит в дальнейшем оставаться бесплатно --- при условии, что вы будете нести караульную службу. Молодежь Марлфага непоседлива и любопытна --- здесь легко найти новобранцев, но они никогда не будут работать в интересах Форту.
 
-20 footmen, 30 skirmishers. 
+20 пехотинцев, 30 застрельщиков.
 
-### 18.05 Saliva Pool
+### 18.05 Бассейн слюны
 
-Following the river, time-rotted skulls are nailed to trees and stone, marking a barrier. Each has a cross carved into the forehead. 
+Вдоль реки к деревьям и камням прибиты сгнившие от времени черепа, обозначающие барьер. У каждого на лбу вырезан крест.
 
-The source of the river is a deep, round pool in the rock of the mountain. Around the lip of this pool, Ghom script is engraved : "Bitter waters await those who come bearing witness against Onthloug. Drink deep of his saliva and know."
+Исток реки представляет собой глубокий круглый бассейн в горной породе. На краю этого водоёма выгравированы письмена на Гоме: "Горькие воды ждут тех, кто придёт свидетельствовать против Онтлуга. Выпей побольше его слюны и узнай."
 
-Those who drink the water from the pool and speak Latin have their tongues destroyed utterly. 
+У тех, кто пьёт воду из бассейна и говорит на латыни, полностью разрушаются языки.
 
-### 10.06 Tonintoul 
+### 10.06 Тонинтул 
 
-Every door in Tonintoul is freshly painted black. The 45 inhabitants mourn Ciniath, trampled to death by drunken soldiers from Dulnadd. Despite the rich oat fields and heads of cattle, all seem thin and insubstantial. The depredations of Drest have enervated them. 
+Все двери в Тонинтуле свежевыкрашены в чёрный цвет. 45 жителей оплакивают Киниата, затоптанного насмерть пьяными солдатами из Дулнадда. Несмотря на богатые овсяные поля и поголовье крупного рогатого скота, всё это кажется скудным и несущественным. Бесчинства Дреста обессилили их.
 
-Petty arguments are common between the villagers - with little to spare, they turn on one another.
+Мелкие ссоры --- обычное дело между жителями деревни --- не имея ничего лишнего, они набрасываются друг на друга.
 
-The village will die within the year. 
+Деревня погибнет в течение года.
 
-10 skirmishers. 
+10 застрельщиков.
 
-### 11.06 Contin
+### 11.06 Контин
 
-In the shadow of the mountains, Contin and its 87 inhabitants dwell. They are secretive and distrust outsiders - even those from Tonintoul are not welcome to stay the night. The chapel is overgrown and seemingly disused. Dirt paths lead up to the mountains and towards the ruined temple to Onthloug (12.07). Before someone is considered an adult, they must leave a tooth in the temple. The same standard is applied to outsiders. 
+В тени гор расположился Контин и его 87 жителей. Они скрытны и не доверяют посторонним --- даже тем, кто из Тонинтула, не разрешается оставаться на ночь. Часовня заросла и, по-видимому, заброшена. Грунтовые тропинки ведут в горы и к разрушенному храму Онтлуга (12.07). Прежде чем кого-то сочтут взрослым, он должен оставить зуб в храме. Тот же стандарт применяется и к посторонним.
 
-When soldiers from Dulnadd come for sport, they are met with the entire village armed with weapons. Seonaid (HD3, Maille, Sword) speaks for them when she refuses any and all demands - inviting the soldiers to trespass against them and experience the consequences first hand. 
+Когда солдаты из Дулнадда приходят поразвлечься, их встречает вся деревня, вооружённая. От их имени говорит Шинейд (КЗ 3, кольчуга, меч), когда отказывается от любых требований, приглашая солдат вторгнуться на их территорию и испытать последствия на себе.
 
-30 footmen, 10 skirmishers.
+30 пехотинцев, 10 застрельщиков.
 
-### 13.06 Occupied Fort
+### 13.06 Занятый форт
 
-Heads are skewered atop each stake of this palisade-walled fort. The earth is torn up and rich with blood. A roof of layered, leafy branches leaves the interior of the fort in thicker shadow than the surrounding forest. 50 Orcs with a huge stockpile of reclaimed iron squat within, waiting for the commander to order them back to 19.06.  
+Головы насажены на каждый кол этого обнесённого частоколом форта. Земля истерзана и залита кровью. Крыша из многослойных, покрытых листвой ветвей погружает внутреннюю часть форта в большую тень, чем окружающий лес. 50 орков с огромным запасом возвращённого железа сидят внутри, ожидая приказа командира вернуться в 19.06.
 
-They carry shields and spears. Twenty of them have bows, each with twenty arrows.
+Они вооружены копьями и щитами. У двадцати из них по луку и по 20 стрел.
 
-The Commander (4HD, Heavy Lacquer Armour, _Revenant Sword_ (&T), Shield) is ancient, awoken by the first strikes of pickaxes against the walls of the mountain. They know the ways of humans. They can speak Pictish.
+Командир (4 КЗ, тяжёлая лакированная броня, _Не упокоенный мститель_ (&T), щит) древний, разбуженный первыми ударами кирки по стенам горы. Он знает обычаи людей. Он может говорить по-пиктски.
 
-They plan to burn the fort as they leave - when the rain next comes, each burdened with two iron ingots.
+Они планируют сжечь форт, когда будут уходить --- когда в следующий раз пойдёт дождь, и каждый из них будет нагружен двумя железными слитками.
 
-They have gathered a sizeable hoard (Monstrous III & Bandits II):
+Они собрали значительный клад (Чудовище III и Бандиты II):
 
-- 600sp in silver Fortu coins.
-- 200 _Bronze Imitations._ (&T)
-- 100 Iron Ingots worth 4000sp.
-- A single draught of _Liquid Empathy._ (&T)
+- 600 см в серебряных монетах Форту.
+- 200 _бронзовых имитаций._ (&T)
+- 100 слитков железа, стоимостью 4000 см.
+- Один глоток _жидкой чувствительности._ (&T)
 
-### 19.06 First Fortress
+### 19.06 Первая крепость
 
-Carved out of the mountain itself, a fortress. Smoke pours from many smaller ventilation shafts, but during the day no other movement is visible on the surface. 340 claim this place as home, but there are always d6 bands of 20 out in the Black Strath. The rest sit and wait, eating their half-grown progeny. The interior walls are thick with texture-drawings - whorls, circles, rippling folds evoking feelings of encapsulation. Most have been alive for less than a decade - the 60 individuals older than this are venerated (+1 HD), wear Maille-equivalent armour made of mixed coins and wield Two-Handed Axes. The leader is absent, having promised to return with the iron stolen from the mountains. 
+Высеченная в самой горе крепость. Дым валит из множества небольших вентиляционных шахт, но в течение дня на поверхности не видно никакого другого движения. 340 орков считают это место своим домом, но к6 групп по 20 орков всегда где-то ещё в Чёрной лощине. Остальные сидят и ждут, поедая свое подросшее потомство. Внутренние стены густо покрыты текстурными рисунками --- завитками, кругами, волнистыми складками, вызывающими ощущение замкнутости. Большинство из них живёт менее десяти лет --- 60 особей старше этого возраста почитаются (+1 КЗ), носят доспехи, эквивалентные кольчуге, изготовленные из смешанных монет, и владеют двуручными топорами. Вождь отсутствует, пообещав вернуться с железом, украденным в горах.
 
-In each band of 20 orcs, ten carry swords and bows, whilst the rest have shields and spears. The older orcs form an elite block, and rarely leave the Fortress. One of them, draped in bear-fur, carries *Uzelin* (&T) - they do not understand the words it speaks, but they are able to use its powers. 
+В каждой группе из 20 орков десять носят мечи и луки, в то время как у остальных есть щиты и копья. Старшие орки образуют элитный отряд и редко покидают крепость. Один из них, закутанный в медвежий мех, владеет *Узелином* (&T) --- они не понимают слов, которые он произносит, но могут использовать его силу.
 
-There are always 80 orcs being grown. They are eaten, the iron recycled. 
+Всегда выращивается 80 орков. Их съедают, а железо перерабатывают.
 
-They have accumulated wealth in their long war. Much is heaped in the growing-chamber.(Monstrous IV):
+Они накопили богатство за время своей долгой войны. В камере для выращивания много чего навалено. (Чудовище IV):
 
-- 12 _Doubleface Drachm_ (&T)
-- *Demonface Coin* (&T) - obverse featuring a grimacing dog-head.
-	+ The demon within manifests with the snarling face of hound, the body of a bloated spider with the legs of young women. The hands of children, burnt, grasp forward from either side of the head. It was last invoked by Proconsul Marius - it can speak of conspiracies, and can track prey.
-- 6 ingots-worth of gold ore, worth 800sp.
-- A *Treeheart.* (&T)
-- A pouch of *Throne Embers* (&T), usable 6 times.
-- In a chest, clearly destroyed and rebuilt, a *Ghoul Drum.* (&T) 
-- 2 *Wisdom Teeth.* (&T)
-- 6 draughts of *Temporary Disintegration.* (&T)
-- A *Child of Stone*, (&T) placed on altar of unworked rock. 
+- 12 _двуликих драхм._ (&T)
+- _Демоноликая монета_ (&T) --- на аверсе изображена гримасничающая собачья голова.
+	+ Демон внутри проявляется с оскаленной мордой пса, телом раздутого паука и ногами молодой женщины. Обожжённые детские ручки вытягиваются вперёд по обе стороны от головы. В последний раз его использовал проконсул Мариус --- он может говорить о заговорах и выслеживать добычу.
+- 6 слитков золотой руды стоимостью 800 см.
+- *Сердце дерева.* (&T)
+- Мешочек с *углями трона* (&T), который можно использовать 6 раз.
+- В сундуке, явно разрушенном и восстановленном заново, находится *Барабан гуля.* (&T)
+- 2 *зуба мудрости.* (&T)
+- 6 глотков *Временного распада.* (&T)
+- *Дитя камня*, (&T) помещенное на алтарь из необработанного камня.
 
-### 12.07 Temple to Onthloug, the Eight Tongued God
+### 12.07 Храм Онтлуга, восьми-языкого бога
 
 ![](zz_assets/finished/Onthloug.jpg)
 
 **1**  
-A well maintained trail through the mountains leads upwards, terminating in a tarn, overhung by a twisted, leafless tree. The rock the tree grips overhangs a narrow passage into the rock of the mountain. Old, yellow skulls are stacked 4 high on either side of this entrance. The skulls have no teeth. 80 tongues, dried to leather and untouched by birds, are skewered on the branches of the tree. Above, an eagle screams - once. 
+Ухоженная тропа через горы ведёт наверх, заканчиваясь в тарне, над которым нависает искривлённое дерево без листьев. Скала, за которую цепляется дерево, нависает над узким проходом в горе. Старые жёлтые черепа сложены штабелями высотой по 4 штуки по обе стороны от этого входа. У черепов нет зубов. 80 языков, высушенных до состояния кожицы и не тронутых птицами, нанизаны на ветки дерева. Сверху кричит орёл --- один раз.
 
-The water in the tarn is utterly still, and bone-chillingly cold. A bronze shortsword can be seen at the bottom - still functional. The grip is shaped like a boar, the tusks forming the crossguard and the blade emerging like a tongue. Worshippers of Onthloug will pay respect to any who openly bears this blade.
+Вода в тарне совершенно неподвижна и холодна настолько, что пронизывает кости. На дне виден бронзовый короткий меч --- все еще рабочий. Рукоять выполнена в форме кабана, клыки образуют поперечину, а лезвие выходит в виде языка. Поклонники Онтлуга проявят уважение к любому, кто открыто носит этот клинок.
 
 **2**  
-This wide, cone-shaped passage is shaped like a throat. The walls are carved with crowned figures being torn in half, cities being drowned and the earth growing fangs to devour legions. Long dead candles, fuzzy with mould, are clustered along the edges of the walls. Wide leaves grow down from the ceiling, each twisted to face the sunlight coming from the entrance. 
+Этот широкий проход в форме конуса имеет форму горла. На стенах вырезаны фигуры в коронах, разорванные пополам, затопленные города и земля, отращивающая клыки, чтобы поглотить легионы. Давно погасшие свечи, покрытые плесенью, стоят кучками по краям стен. С потолка свисают широкие листья, каждый из которых скручен так, чтобы быть обращенным к солнечному свету, проникающему через вход.
 
-The passage continues into the mountain - adjacent to this, a wooden ramp allows access upwards to a different section of the complex. 
+Проход продолжается вглубь горы --- рядом с ним находится деревянный пандус, позволяющий подняться в другую часть комплекса.
 
 **3**  
-A statue of Onthloug, carved out of the stone, emerges from the back wall. Three armed, each outstretched and ending in a set of seven clawed fingers. The head is a riot of tongues, coiling around one another, some straining up and out whilst others flop and wave. The statue is incredibly lifelike, showing minimal toolmarks - even the thick drippings of saliva have been captured. There is enough space, beneath the arms and tongues, for a single person to nestle as if held and protected like an infant. 
+Из дальней стены выступает статуя Онтлуга, высеченная из камня. Три руки, каждая вытянута и заканчивается набором из семи когтистых пальцев. Голова представляет собой буйство языков, обвивающихся друг вокруг друга, некоторые из них вытягиваются вверх и наружу, в то время как другие шлепаются и машут. Статуя невероятно реалистична, на ней видно минимум следов от инструментов --- были запечатлены даже густые капли слюны. Под руками и языками достаточно места, чтобы один человек мог уютно устроиться, как будто его держат и защищают, как младенца.
 
-Beneath the entrance, a passage continues down and into the mountain. 
+Под входом проход продолжается вниз, вглубь горы.
 
 **4**  
-An oval chamber, niches carved into the walls. The niches contain flint blades, iron tongs and pliers. At the end of the chamber, a low wall of stacked stone encircles a pit, 150' deep. Bloodstains mark the floor around the pit. An empty earthen bowl is suspended from the ceiling with horsehair rope - within a thick crusted residue of many many burnings. 
+Овальное помещение с нишами, вырезанными в стенах. В нишах находятся кремневые лезвия, железные щипцы и клещи. В конце камеры низкая стена из сложенных друг на друга камней окружает яму глубиной 150 футов. Пол вокруг ямы испещрён пятнами крови. Пустая глиняная чаша подвешена к потолку на веревке из конского волоса --- внутри толстая корка, оставшаяся от многих-многих сожжений.
 
-The blades are made of single knapped pieces of flint, leather and twine used to form a handle. Each is marked with blood, as are the the tongs and pliers. 
+Лезвия сделаны из цельных кусков кремня, кожи и бечёвки, используемых для изготовления рукояти. Каждый помечен кровью, как и щипцы и клещи.
 
-If a tooth is deposited into the pit, whomever dropped the tooth heals 1HP.  
-If a tongue is deposited into the pit, whomever dropped the tongue heals d6HP.  
-In either case, the wounds sealing are coated in thick, sticky saliva. 
+Если зуб попадает в яму, тот, кто уронил зуб, восстанавливает 1 ОЗ.  
+Если язык попадает в яму, тот, кто уронил язык, восстанавливает к6 ОЗ.  
+В любом случае, запечатываемые раны покрываются густой, липкой слюной.
 
-If a weapon is cast down, the Avatar crawls up to seek revenge. See _H_.
+Если оружие брошено, Аватар подползает, чтобы отомстить. Смотри _H_. (!!)
 
 **5**  
-Skeletons moulder before a huge man (HD 8, _The Blooded Board_ (&T), Sword). Nude, and heavily tattooed with Christian iconography. Swords fills the room. He stands from his throne of sack-cloth, and declares death for intruders in archaic Pictish. 
+Перед огромным человеком (КЗ 8, _Окровавленная доска_ (&T), меч) валяются скелеты. Он обнажён и густо покрыт татуировками с христианскими мотивами. Мечи заполняют комнату. Он встаёт со своего трона из мешковины и объявляет смерть незваным гостям на архаичном пиктском языке.
 
-The man wears _The Bound Hand_ (&T) - and uses this power to attack at range using the many swords in the room, resolving attacks normally. He does not flee.  
+Мужчина носит _Подневольную руку_ (&T) и использует эту силу для атаки на расстояния, используя множество мечей в комнате, разрешая атаки обычным образом. Он не убегает.
 
-His seat is made of the sacks of golden coins he was paid in - the 400 coins, each worth 10sp. They are stamped in Latin, are have an eagle on one face. The inscription reads "IMPERIAL PROVINCE ALBANN - BY GRACE OF EMPEROR AUGUSTIN".
+Его сиденье сделано из мешочков с золотыми монетами, которыми ему заплатили - 400 монет, каждая достоинством в 10 см. На них нанесён оттиск на латыни, на одной стороне изображён орел. Надпись гласит: "ИМПЕРСКАЯ ПРОВИНЦИЯ ОЛБАНН --- МИЛОСТЬЮ ИМПЕРАТОРА АВГУСТИНА".
 
-The many corpses show signs of having been hacked to pieces. 
+На многих трупах видны признаки того, что они были изрублены на куски.
 
-A nexus of passages meet at the lower edge of the chamber - a wooden floor allowing easy use.
+У нижнего края камеры сходятся несколько проходов --- деревянный пол обеспечивает удобство использования.
 
 **6**  
-Hidden beneath the wooden floor allowing access to _E_ and *G*, a narrow 20' drop to a wide, flask-shaped chamber. Rotting bones fill the space along with scraps of ruined armour made from bands of steel. If searched for several hours, 200 chunky, gold coins (worth 10sp each) can be found as well as a bottle of _Seeking Dark_ (&T), hidden in the folds of a robe. 
+Под деревянным полом, обеспечивающим доступ к _E_ и *G*, скрыт узкий 20-футовый спуск в широкую камеру в форме колбы. Гниющие кости заполняют пространство вместе с обрывками разрушенных доспехов, сделанных из стальных полос. Если поискать несколько часов, можно найти 200 крупных золотых монет (стоимостью 10 см каждая), а также бутылку _Ищущей тьмы_ (&T), спрятанную в складках халата.
 
-Any spending this much time amongst the dead must make a Physique save or contract a disease. Over the next 3 days, they begin coughing up foul black paste coated in blood. This deals 1d6 Constitution damage a day, halved if no action is taken. Make a further Physique save each day - if two saves are made sequentially, the disease passes. 
+Любой, кто проводит так много времени среди мёртвых, должен пройти спасбросок стойкости или подхватить болезнь. В течение следующих 3 дней они начинают кашлять отвратительной чёрной кашицей, смешанной с кровью. Это наносит 1к6 урона телосложению каждый день, который уменьшается вдвое, если не предпринимать никаких действий. Продолжайте проходить спасбросок стойкости каждый день --- если успешно пройти два спасброска подряд, болезнь проходит.
 
 **7**  
-The narrow passage leading to this room is intricately carved so that the walls resemble, and have the texture of, teeth. A wet smell like a dirty wound fills the air. 
+Узкий проход, ведущий в эту комнату, украшен замысловатой резьбой, так что стены напоминают зубы и имеют текстуру. Влажный запах, похожий на запах грязной раны, наполняет воздух.
 
-The chamber is small and rounded. A narrow hole is at one end, the stone around it cupped and smoothed - so that a face could be pressed against the opening. The hole matches against the mouth. Any putting their face against this hole feel something stir on the other side. A tongue worms its way up the chute and forces its way into the mouth. If the victim has a tongue, it forces itself into the throat to choke them.   
-If they have no tongue, it fuses with the flesh but retains its own volition, speaking in unintelligible languages seemingly randomly. It does impart the ability to understand any spoken language. 
+Камера небольшая и округлая. На одном конце находится узкое отверстие, камень вокруг него сложен чашечкой и сглажен --- так, чтобы к отверстию можно было прижать лицо. Отверстие совпадает с горловиной. Любой, кто прижимается лицом к этому отверстию, чувствует, как что-то шевелится с другой стороны. Язык ползет вверх по желобу и проталкивается в рот. Если у жертвы есть язык, он проталкивается в горло, чтобы задушить ее.  
+Если у жертвы нет языка, он срастается с её плотью, но сохраняет свою собственную волю, говоря на непонятных языках, казалось бы, случайным образом. Это даёт возможность понимать любой разговорный язык.
 
 **8**  
-A huge chamber, filled with saliva. In its own juices sits an Avatar of Onthloug in the aspect of absorption, ownership and devouring. It stands 30' tall, a multitude of tongues twitching and coiling above the three arms. One holds a huge, rusted fork, another a stack and the final a crown. 
+Огромная камера, наполненная слюной. Варящийся в собственном соку Аватар Онтлуга в аспекте поглощения, владения и пожирания. Он достигает 30 футов в высоту, множество языков подёргиваются и извиваются над тремя руками. Одна держит огромную ржавую вилку, другая --- стог, а последняя --- корону.
 
-Any intruding on this chamber are killed and consumed, wherein their consciousness lives forever as part of Onthloug.
+Любой, кто вторгается в эту комнату, убивается и поглощается, при этом их сознание живёт вечно как часть Онтлуга.
 
-15HD (Supernatural HP) - AC as Leather - Dodge Save or Die from immense crushing/skewering attacks
+15 КЗ (Сверхъестественные ОЗ) --- КБ как у кожаного доспеха --- спасбросок уворота или умереть от мощных сокрушительных / пронзающих атак
 
-### 15.07 Black Strath Burrows
+### 15.07 Червоточины Чёрной лощины
 
-Drained carcasses, skewered on branches, mark the home of the Black Strath Spiders. They hunt throughout the forest and drag their pray here, to be fed to their teeming broods. This dragging leaves a distinct trail. Victims are kept alive until fed to the swarms. 
+Высушенные тушки, насаженные на ветки, отмечают место обитания пауков чёрной лощины. Они охотятся по всему лесу и тащат сюда свою добычу, чтобы их многочисленный выводок мог поесть. Это волочение оставляет отчётливый след. Жертвы остаются живыми до тех пор, пока их не скормят рою.
 
-There are thirty burrows, each consisting of a single chamber. There is a 10% chance the occupant is present. There is a 40% chance a chamber contains a Spider Brood. They will, if disturbed, swarm prey, causing 1 HP damage a turn.
+Здесь тридцать нор, каждая из которых состоит из одной камеры. Вероятность присутствия жильца составляет 10%. Вероятность того, что в камере находится выводок пауков, составляет 40%. Если их потревожить, они набросятся на добычу роем, нанося 1 ОЗ урона за ход.
 
-Corpses in this hex are either Picts or Orcs. They look shrivelled and deflated. Any equipment on them has been ruined. There is a 5% chance per Turn of finding a living victim, stored for later, hung in a tree, bundled up in web.
+Трупы в этом гексе --- либо пикты, либо орки. Они выглядят сморщенными и высосанными. Вся экипировка на них была испорчена. Каждый ход есть 5% шанс найти живую жертву, припасённую на потом, повешенную на дереве, опутанную паутиной.
 
-In this hex, do not roll encounters - instead, 1d6 Black Strath Spiders begin to independently stalk the party.
+В этом гексе не делайте проверку на столкновения --- вместо этого 1к6 пауков чёрной лощины начинают по отдельности преследовать отряд.
 
-They are not web spinners - instead digging burrows and using their web as a net, casting it upon prey. They are sight-hunters, although they use the vibrations of heavy footfalls too. Outside of their own broods, they are solitary.
+Они не прядут паутину --- вместо этого они роют норы и используют свою паутину как сеть, набрасывая её на добычу. Во время охоты они используют зрение, впрочем, вибрацию от тяжелых шагов тоже. За пределами своих собственных выводков они ведут одиночный образ жизни.
 
-When attacking, they will attempt to ensnare the weakest member of a party and drag them away. They avoid engaging in long fights, fleeing into the branches. They have the patience to stalk prey for days - waiting for a distraction before striking.
+Атакуя, они попытаются заманить в ловушку самого слабого члена отряда и утащить его прочь. Они попытаются не вступать в длительные схватки, прячась в ветвях. У них хватает терпения выслеживать добычу в течение нескольких дней, ожидая, пока её отвлекут, прежде чем нанести удар.
 
-HD 4 / AC as Leather / 1d6 or Dodge Save or Ensnared in thrown Web
+КЗ 4 / КБ как у кожаного доспеха / 1к6 или спасбросок уворота и попасть в брошенную паутину
 
-Across Albann, the story is told - the spiders were invited up from beneath the earth to scare away the invaders. After growing fat and round on the invaders, they were too big to crawl back into the dark corners of the earth - so they stayed in the Strath. 
+По всему Олбанну рассказывают историю о том, как пауков пригласили подняться из-под земли, чтобы отпугнуть захватчиков. После того как они растолстели и округлились на захватчиках, они стали слишком большими, чтобы заползти обратно в тёмные уголки земли --- поэтому они остались в лощине.
 
-### 16.07 Dun Morbhaidh
+### 16.07 Дун-Морбхайд
 
-A swathe has been cut from the forest, sharpened into spikes and placed in the rippling trenches surrounding the stone walls of this fort, abutting the wide, slow river. 180 soldiers, all with the cut ear, all scared, are posted here. They clutch bows, strain their eyes and listen. The Black Strath has tried to kill them all at least once. 
+В лесу была вырублена полоса, каменные стены форта, примыкающего к медленной реке, окружают волнистые траншеи и заострённые колья. Здесь размещены 180 солдат, все с порезанными ушами, все напуганные. Они сжимают луки, напрягают зрение и прислушиваются. Чёрная лощина пыталась убить их всех по крайней мере один раз.
 
-The mud in the courtyard is heavily churned, and forms a thick sludge in the rain. The livestock are slow and passive.
+Грязь во дворе сильно перемешивается, и во время дождя образуется густая жижа. Домашний скот медлителен и пассивен.
 
-Alcohol, drugs and luxury foods are at triple-price here, although soldiers have to club together to buy anything worth more than 30sp. Nothing is available for sale, and staying the night is not permitted without permission from the Count. 
+Алкоголь, наркотики и предметы роскоши продаются втридорога, хотя солдатам приходится объединяться, чтобы купить что-либо стоимостью более 30 см. Ничего не выставлено на продажу, и оставаться на ночь без разрешения графа не разрешается.
 
-Tharain (4HD, Full Length Maille, Shield, Flail) has the unhappy duty of maintaining the fortress. He is one of the Four Counts - the soldiers posted here hate him more than most. Many have died due to his poor choices. His 12 hand-picked hearthsmen maintain order amongst the officers with secretive beatings. They watch outsiders closely, but do not engage. Tharain enjoys only submission - any who present a potential threat are to be destroyed ruthlessly. He hands out humiliation with glee. 
+На Тарайне (4 КЗ, кольчуга в полный рост, щит, цеп) лежит печальная обязанность поддерживать крепость. Он один из четырёх графов --- солдаты, размещённые здесь, ненавидят его больше, чем большинство других. Многие погибли из-за его неправильного выбора. 12 его отборных помощников поддерживают порядок среди офицеров, тайно избивая их. Они внимательно наблюдают за посторонними, но не вступают в бой. Тарайн наслаждается только подчинением --- любой, кто представляет потенциальную угрозу, должен быть безжалостно уничтожен. Он с ликованием переносит унижение.
 
-90 footmen, 30 armoured footmen, 60 skirmishers, 12 horsemen.
+90 пехотинцев, 30 тяжёлых пехотинцев, 60 застрельщиков, 12 кавалеристов.
 
 ### 17.07 Trimontium
 
