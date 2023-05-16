@@ -57,9 +57,9 @@ XeTeX 3.141592653-2.6-0.999993 (TeX Live 2021)
 
 Например:
 
-`pandoc -V lang=ru wutc-book1_rus.md -s -o "Wolves Upon the Coast (RUS) Book 1 - Rules.pdf" --pdf-engine=xelatex`
+`pandoc -V lang=ru wutc-book1_rus.md -s -o "Wolves Upon the Coast Book 1 - Rules (RUS).pdf" --pdf-engine=xelatex`
 
-`pandoc -V lang=ru wutc-book2_rus.md -s -o "Wolves Upon the Coast (RUS) Book 2 - Magic.pdf" --pdf-engine=xelatex`
+`pandoc -V lang=ru wutc-book2_rus.md -s -o "Wolves Upon the Coast Book 2 - Magic (RUS).pdf" --pdf-engine=xelatex`
 
 `pandoc -V lang=ru wutc-quickstart-equipment_rus.md -s -o "Quickstart Equipment (RUS).pdf" --pdf-engine=xelatex`
 
