@@ -63,7 +63,7 @@ geometry: margin=1in
 
 ### Чёрная лощина
 
-*обратите внимание, что орки могут передвигаться днём из-за густых лесов по всему региону.*
+*Обратите внимание, что орки могут передвигаться днём из-за густых лесов по всему региону.*
 
 | к100   | Столкновение                                                                                                                      |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -154,9 +154,9 @@ geometry: margin=1in
 
 Внутри башни воин (4 КЗ, двуручный меч), который полностью забыл кто он есть, его разум вечно устремлён вдаль. Обнажённый по пояс и густо покрытый татуировками, он говорит на языке невнятных слогов, неслышимых в бодрствующем мире. Атаки против него получают штраф -4, воин вращает вокруг себя своим клинком с нечеловеческой скоростью.
 
-Если грибы с острова Флодай съесть, вы крепко заснёте, погружаясь в царство грёз до следующего восхода солнца. Те, кто заваривает чай и делится им, путешествуют вместе. Царство грёз может давать пророчества, ночные кошмары и ложь.
+Если грибы с острова Флодей съесть, вы крепко заснёте, погружаясь в царство грёз до следующего восхода солнца. Те, кто заваривает чай и делится им, путешествуют вместе. Царство грёз может давать пророчества, ночные кошмары и ложь.
 
-Если воин Флодея жив и попал в царство сновидений, с ним можно поговорить --- он предложит обучение своему способу владения мечом, практикуемому в сюрреалистическом сне. Закручивая свой клинок в восьмерку, он не даёт атакующим возможности открыться, в результате чего они получают штраф -1 на попадания. Он не помнит ни своего имени, ни того, как долго он здесь живёт.
+Разум воина находится в царстве сновидений, --- там он предложит обучение своему способу владения мечом, практикуемому в сюрреалистическом сне. Закручивая свой клинок в восьмерку, он не даёт атакующим возможности открыться, в результате чего они получают штраф -1 на попадания. Он не помнит ни своего имени, ни того, как долго он здесь живёт.
 
 ## 01.19 Сибинис
 
@@ -245,11 +245,13 @@ geometry: margin=1in
 
 ## 21.03 Лотинг 
 
-На берегу Лотинга находится безымянная деревня с населением 35 человек. Все ловят рыбу, собирают каракатиц. Многие создают удивительно изящные глиняные горшки с длинными тонкими горлышками --- идеальные для метания. Чернила каракатицы хранятся в этих горшочках. Когда звонит колокол в сокровищнице, все бегут туда, неся своих детей. Обыскав пустую деревню, можно найти 145 см в виде серебряных монет Форту и запас копчёного мяса каракатицы на 4 недели. Все говорят на латыни и немного по-пиктски.
+На берегу Лотинга находится безымянная деревня с населением 35 человек. Все работают в море, собирают каракатиц. Многие создают удивительно изящные глиняные горшки с длинными тонкими горлышками --- идеальные для метания. Чернила каракатицы хранятся в этих горшочках. Когда звонит колокол в сокровищнице, все бегут туда, неся своих детей. Обыскав пустую деревню, можно найти 145 см в виде серебряных монет Форту и запас копчёного мяса каракатицы на 4 недели. Все говорят на латыни и немного по-пиктски.
 
 В их числе 25 бойцов, все они сражаются как люди 1 КЗ без доспехов.
 
 Колокол громко и нагло звонит, когда лодки заметно приближаются к острову. Хорошо протоптанная тропа, отмеченная разбитым камнем, указывает путь к сокровищнице. Неосвещённые лодки ночью могут причалить к острову незамеченными.
+
+По всей деревне выращивают руту.
 
 ![](zz_assets/finished/Treasury.jpg)
 
@@ -365,7 +367,7 @@ geometry: margin=1in
 
 ## 21.05 Оросей
 
-Морская пещера ведет вглубь Оросея, демонстрируя признаки великолепной каменной обработки --- естественный потолок поддерживают колонны, на которых вырезаны плавные сцены празднеств и пыток. Проход неосвещён, и невероятно длинный --- плыть по нему целый день --- ведёт в Подземный мир. Культ друидов называет это _Дубвин_, а христиане зовут--- _Адом_. Подробное описание этого царства выходит за рамки данного документа --- это скорее подземелье, чем ландшафт.
+Морская пещера ведет вглубь Оросея, демонстрируя признаки великолепной каменной обработки --- естественный потолок поддерживают колонны, на которых вырезаны плавные сцены празднеств и пыток. Проход не освещён, и невероятно длинный --- плыть по нему целый день --- ведёт в Подземный мир. Культ друидов называет его _Дубвин_, христианский _Ад_. Подробное описание этого царства выходит за рамки данного документа --- это скорее подземелье, чем ландшафт.
 
 ## 23.05 Мелиста, логово Бейтир
 
@@ -421,7 +423,7 @@ geometry: margin=1in
 
 Здесь правит Лутрин (5 КЗ, кольчуга, щит, булава) --- один из четырёх ненавистных графов. Он кипит от ярости, гордости и самолюбия, уязвлённых попыткой восстания. Он видит врагов повсюду --- большинство кольев с головами и виселиц были установлены в результате его чисток, а не из-за какой-то небольшой битвы. Рана от стрелы в его ноге плохо заживает, и из неё сочится гной. Он отказался бы от своей христианской веры ради друидического целителя.
 
-Жёсткий подход Лутрина лишь подогревает враждебность по отношению к нему. Некоторые подумывают о том, чтобы поговорить с варяжскими кузенами и занять город.
+Жёсткий подход Лутрина лишь подогревает враждебность по отношению к нему. Некоторые подумывают о том, чтобы поговорить с варяжскими кузенами и занять город. Среди этих повстанцев --- Монгфинд, бабка троих погибших. Тем, кто питает ненависть к Лутрину, она шепчет о защите: эль из пурпурного вереска и ношение белого цветка. Она также знает заклинание сон, но у неё нет ни одного из компонентов.
 
 60 пехотинцев, 40 застрельщиков, 10 кавалеристов, 2 карва плюс 5 рыбацких лодок.
 
@@ -453,7 +455,7 @@ geometry: margin=1in
 
 В городе ощущается явная нехватка безработной молодежи --- большинство из них были призваны на службу в Чёрную лощину, их уши надрезаны, чтобы показать, где они несут службу.
 
-За чертой города над солоноватым болотом возвышались хижины на сваях. Печальные коровы с покрытыми солью ногами наблюдают за путешественниками.
+За чертой города над солоноватым болотом возвышались хижины на сваях. Печальные коровы с покрытыми солью ногами наблюдают за путешественниками. Жители деревни продают вереск, обещая, что он защищает от несчастий.
 
 300 пехотинцев, 150 застрельщиков, 100 тяжёлых пехотинцев, 30 кавалеристов, 8 карва плюс 20 рыбацких лодок.
 
@@ -461,9 +463,9 @@ geometry: margin=1in
 
 Смешанные стада овец и крупного рогатого скота, тесно связанные между собой, бродят по холмам, окружающим Корримони. Сотни животных и 44 человека. Их крепкие собаки невероятно преданны и неразрывно связаны со своим хозяином. Собаки любят покусывать движущиеся предметы --- именно так они пасут. Продаются только кастрированные собаки --- деревня гордится своим корримонийским пастухом. Все занимаются своим домашним скотом, и все тренируются обращаться с пращой.
 
-Деревня полагается на Джеймса (2 КЗ, кожаный доспех, праща), когда возникают редкие разногласия. Он знаменит тем, что убил налётчика, попав ему в переносицу из пращи ---, но эта легенда и омрачает его. Он не хочет иметь ничего общего с убийствами или убийцами. Многие хотели бы, чтобы он убил графа Дреста.
+Деревня полагается на Джеймса (2 КЗ, кожаный доспех, праща), когда возникают редкие разногласия. Он знаменит тем, что убил налётчика, попав ему в переносицу из пращи ---, но эта легенда и омрачает его. Он не хочет иметь ничего общего с убийствами или убийцами. Многие хотели бы, чтобы он прикончил графа Дреста.
 
-Грунтовая дорога ведёт к 11.05 --- пещере, которую можно использовать во время речных рейдов. Внутри хранится деревянная баррикада, которой можно преграждать вход. На стенах высечены письмена на Гоме, в которых говорится, что самое молодое животное должно быть принесено в жертву, чтобы умилостивить духов в пещере. Этого не делалось с тех пор, как жители Корримони приняли христианство --- в следующий раз, когда они спрячутся здесь, ребенок будет украден.
+Грунтовая дорога ведёт к 11.05 --- пещере, которую можно использовать во время речных рейдов. Внутри хранится деревянная баррикада, которой можно преграждать вход. На стенах высечены письмена на Гоме, в которых говорится, что самое молодое животное должно быть принесено в жертву, чтобы умилостивить духов в пещере. Этого не делалось с тех пор, как жители Корримони приняли христианство --- в следующий раз, когда они спрячутся здесь, ребёнок будет украден. Флетт, старейшина, вспоминает ночи, проведённые, скорчившись, в темноте, когда его отец бросал кости ягнят, чтобы поговорить с бестелесными мертвецами, находя ответы на свои вопросы в выпавших узорах.
 
 34 застрельщика, 40 собак.
 
@@ -479,7 +481,7 @@ geometry: margin=1in
 
 ### 13.04 Метвен
 
-В этой укреплённой деревне находится небольшой гарнизон из 19 человек. Все они пожилые мужчины с надрезанными ушами --- здесь обучают новобранцев перед отправкой в Чёрную лощину. Они видели, как поколения людей уходили и возвращались изменившимися, как это было когда-то с ними самими. Они охотно поделятся с вами выпивкой и расскажут небылицы --- по правде говоря, все они в ужасе от густой извивающейся зелени, зажатой перед ними между горами.
+В этой укреплённой деревне находится небольшой гарнизон из 19 человек. Все они пожилые мужчины с надрезанными ушами --- здесь обучают новобранцев перед отправкой в Чёрную лощину. Они видели, как поколения людей уходили и возвращались изменившимися, как это было когда-то с ними самими. Они охотно разделят с вами выпивку и расскажут небылицы --- по правде говоря, все они в ужасе от густой извивающейся зелени, зажатой перед ними между горами.
 
 Если группа возвращается из Чёрной лощины с потерями или двадцатью головами орков, они предлагают обучить олбаннскому способу стрельбы из лука --- перебрасывать "1" выпавшие на броске урона из длинного лука.
 
@@ -489,7 +491,7 @@ geometry: margin=1in
 
 На краю Чёрной лощины на богатой почве густо растут поля овса и ячменя. 76 жителей Рутрглена ухаживают за ними и своими небольшими стадами крупного рогатого скота, изготавливая свой собственный сыр. Из-за того, что они находятся на окраине Чёрной лощины, сборщики налогов встречаются здесь редко, несмотря на близость к Энвернесcу. Они направляют этот излишек дезертирам в 16.04 --- не желая видеть, как они голодают или прибегают к бандитизму. Раз в неделю 4к6 дезертиров прибывают ночью, чтобы забрать еду.
 
-Глава клана Ховар (3 КЗ, без доспехов, меч) --- последний в непрерывной линии своей семьи. Многие местные достопримечательности названы в честь его предков. Ему ещё предстоит сделать что-то достойное того, чтобы его запомнили, и это его очень беспокоит. Если бы представилась такая возможность, он бы с головой окунулся в неё. Он не знает об отношениях между деревней и дезертирами.
+Глава клана Ховар (3 КЗ, без доспехов, меч) --- последний в непрерывном роде. Многие местные достопримечательности названы в честь его предков. Ему ещё предстоит сделать что-то достойное того, чтобы его запомнили, и это его очень беспокоит. Если бы представилась такая возможность, он бы с головой окунулся в неё. Он не знает об отношениях между деревней и дезертирами.
 
 10 пехотинцев, 10 застрельщиков.
 
@@ -522,7 +524,7 @@ geometry: margin=1in
 
 Форт контролируется Дрестом (КЗ 4, кольчуга в полный рост, двуручный меч), одним из четырёх графов. Он переживает не лучше свои дни, в результате чего его жестокость возросла. Он даёт своим дружкам свободу до тех пор, пока они действуют от его имени. Он полон решимости вечно жить в памяти.
 
-Он хочет, чтобы Контин подчинялся его прихотям.
+Он хочет, чтобы Контин (11.06) подчинялся его прихотям.
 
 Дрест стонет по ночам. Остров Флодей преследует его во снах видениями разрушенной башни.
 
@@ -575,7 +577,7 @@ _Внимание: магия контроля разума._
 
 ### 10.06 Тонинтул 
 
-Все двери в Тонинтуле свежевыкрашены в чёрный цвет. 45 жителей оплакивают Киниата, затоптанного насмерть пьяными солдатами из Дулнадда. Несмотря на богатые овсяные поля и поголовье крупного рогатого скота, всё это кажется скудным и несущественным. Бесчинства Дреста обессилили их.
+Все двери в Тонинтуле свежевыкрашены в чёрный цвет. 45 жителей оплакивают Киниат, любезную вдову, затоптанного насмерть пьяными солдатами из Дулнадда. Несмотря на богатые овсяные поля и поголовье крупного рогатого скота, всё это кажется скудным и несущественным. Бесчинства Дреста обессилили их.
 
 Мелкие ссоры --- обычное дело между жителями деревни --- не имея ничего лишнего, они набрасываются друг на друга.
 
@@ -587,6 +589,8 @@ _Внимание: магия контроля разума._
 
 В тени гор расположился Контин и его 87 жителей. Они скрытны и не доверяют посторонним --- даже тем, кто из Тонинтула, не разрешается оставаться на ночь. Часовня заросла и, по-видимому, заброшена. Грунтовые тропинки ведут в горы и к разрушенному храму Онтлуга (12.07). Прежде чем кого-то сочтут взрослым, он должен оставить зуб в храме. Тот же стандарт применяется и к посторонним.
 
+Тех, кто становится взрослым, учат, что повторение имени Онтлуга защищает от демонов.
+
 Когда солдаты из Дулнадда приходят поразвлечься, их встречает вся деревня, вооружённая. От их имени говорит Шинейд (КЗ 3, кольчуга, меч), когда отказывается от любых требований, приглашая солдат вторгнуться на их территорию и испытать последствия на себе.
 
 30 пехотинцев, 10 застрельщиков.
@@ -595,7 +599,7 @@ _Внимание: магия контроля разума._
 
 Головы насажены на каждый кол этого обнесённого частоколом форта. Земля истерзана и залита кровью. Крыша из многослойных, покрытых листвой ветвей погружает внутреннюю часть форта в большую тень, чем окружающий лес. 50 орков с огромным запасом возвращённого железа сидят внутри, ожидая приказа командира вернуться в 19.06.
 
-Они вооружены копьями и щитами. У двадцати из них по луку и по 20 стрел.
+Они вооружены копьями и щитами. У двадцати из них по короткому луку и по 20 стрел.
 
 Командир (4 КЗ, тяжёлая лакированная броня, _Не упокоенный мститель_ (&T), щит) древний, разбуженный первыми ударами кирки по стенам горы. Он знает обычаи людей. Он может говорить по-пиктски.
 
@@ -612,7 +616,7 @@ _Внимание: магия контроля разума._
 
 Высеченная в самой горе крепость. Дым валит из множества небольших вентиляционных шахт, но в течение дня на поверхности не видно никакого другого движения. 340 орков считают это место своим домом, но к6 групп по 20 орков всегда где-то ещё в Чёрной лощине. Остальные сидят и ждут, поедая свое подросшее потомство. Внутренние стены густо покрыты текстурными рисунками --- завитками, кругами, волнистыми складками, вызывающими ощущение замкнутости. Большинство из них живёт менее десяти лет --- 60 особей старше этого возраста почитаются (+1 КЗ), носят доспехи, эквивалентные кольчуге, изготовленные из смешанных монет, и владеют двуручными топорами. Вождь отсутствует, пообещав вернуться с железом, украденным в горах.
 
-В каждой группе из 20 орков десять носят мечи и луки, в то время как у остальных есть щиты и копья. Старшие орки образуют элитный отряд и редко покидают крепость. Один из них, закутанный в медвежий мех, владеет *Узелином* (&T) --- они не понимают слов, которые он произносит, но могут использовать его силу.
+В каждой группе из 20 орков десять носят мечи и короткие луки, в то время как у остальных есть щиты и копья. Старшие орки образуют элитный отряд и редко покидают крепость. Один из них, закутанный в медвежий мех, владеет *Узелином* (&T) --- они не понимают слов, которые он произносит, но могут использовать его силу.
 
 Всегда выращивается 80 орков. Их съедают, а железо перерабатывают.
 
@@ -657,7 +661,7 @@ _Внимание: магия контроля разума._
 Если язык попадает в яму, тот, кто уронил язык, восстанавливает к6 ОЗ.  
 В любом случае, запечатываемые раны покрываются густой, липкой слюной.
 
-Если оружие брошено, Аватар подползает, чтобы отомстить. Смотри _H_. (!!)
+Если оружие брошено, Аватар подползает, чтобы отомстить. Смотри _8_.
 
 **5**  
 Перед огромным человеком (КЗ 8, _Окровавленная доска_ (&T), меч) валяются скелеты. Он обнажён и густо покрыт татуировками с христианскими мотивами. Мечи заполняют комнату. Он встаёт со своего трона из мешковины и объявляет смерть незваным гостям на архаичном пиктском языке.
@@ -671,7 +675,7 @@ _Внимание: магия контроля разума._
 У нижнего края камеры сходятся несколько проходов --- деревянный пол обеспечивает удобство использования.
 
 **6**  
-Под деревянным полом, обеспечивающим доступ к _E_ и *G*, скрыт узкий 20-футовый спуск в широкую камеру в форме колбы. Гниющие кости заполняют пространство вместе с обрывками разрушенных доспехов, сделанных из стальных полос. Если поискать несколько часов, можно найти 200 крупных золотых монет (стоимостью 10 см каждая), а также бутылку _Ищущей тьмы_ (&T), спрятанную в складках халата.
+Под деревянным полом, обеспечивающим доступ к _5_ и *7*, скрыт узкий 20-футовый спуск в широкую камеру в форме колбы. Гниющие кости заполняют пространство вместе с обрывками разрушенных доспехов, сделанных из стальных полос. Если поискать несколько часов, можно найти 200 крупных золотых монет (стоимостью 10 см каждая), а также бутылку _Ищущей тьмы_ (&T), спрятанную в складках халата.
 
 Любой, кто проводит так много времени среди мёртвых, должен пройти спасбросок стойкости или подхватить болезнь. В течение следующих 3 дней они начинают кашлять отвратительной чёрной кашицей, смешанной с кровью. Это наносит 1к6 урона телосложению каждый день, который уменьшается вдвое, если не предпринимать никаких действий. Продолжайте проходить спасбросок стойкости каждый день --- если успешно пройти два спасброска подряд, болезнь проходит.
 
@@ -686,7 +690,7 @@ _Внимание: магия контроля разума._
 
 Любой, кто вторгается в эту комнату, убивается и поглощается, при этом их сознание живёт вечно как часть Онтлуга.
 
-15 КЗ (Сверхъестественные ОЗ) --- КБ как у кожаного доспеха --- спасбросок уворота или умереть от мощных сокрушительных / пронзающих атак
+15 КЗ (Сверхъестественные ОЗ) / КБ как у кожаного доспеха / Спасбросок уворота или умереть от мощных сокрушительных и пронзающих атак
 
 ### 15.07 Червоточины Чёрной лощины
 
@@ -702,7 +706,7 @@ _Внимание: магия контроля разума._
 
 Атакуя, они попытаются заманить в ловушку самого слабого члена отряда и утащить его прочь. Они попытаются не вступать в длительные схватки, прячась в ветвях. У них хватает терпения выслеживать добычу в течение нескольких дней, ожидая, пока её отвлекут, прежде чем нанести удар.
 
-КЗ 4 / КБ как у кожаного доспеха / 1к6 или спасбросок уворота и попасть в брошенную паутину
+КЗ 4 / КБ как у кожаного доспеха / Урон 1к6 или спасбросок уворота, в случае провала запутаться в брошенной паутине
 
 По всему Олбанну рассказывают историю о том, как пауков пригласили подняться из-под земли, чтобы отпугнуть захватчиков. После того как они растолстели и округлились на захватчиках, они стали слишком большими, чтобы заползти обратно в тёмные уголки земли --- поэтому они остались в лощине.
 
@@ -726,11 +730,11 @@ Iron is dug from the mountains and from the half-collapsed mineshafts beneath Tr
 
 Irb (1HD, None, Dagger) knows this - and is not afraid to strong-arm Coblaith as he strongarmed her husband. Trimontium is afforded a council (controlled by Irb). Irb is an inveterate schemer - he seeks to turn Tharain to an ally, but has been able to make much leeway. He would declare independence from Fortu, and use the terrors of the Black Strath as a wall. 
 
-The town is full of stories of the things that may be found in the deep mines - things worse than the creatures on the surface of the Black Strath. There are always bounties for recovering lost or dead miners. Many of these are years old. 
+The town is full of stories of the things that may be found in the deep mines - things worse than the creatures on the surface of the Black Strath. There are always bounties for recovering lost or dead miners. Many of these are years old. The wives and children of the miners carve grotesque gargoyles to protect the miners.
 
 The ore dug up is bought by a single franchise-holder, Áine (3HD, None, Club), who works directly for Irb. The miners despise her rates, but despite risks there are always more willing to make the trip up-river to Trimontium.
 
-40 footmen, 40 skirmishers.
+60 footmen, 60 skirmishers.
 
 ### 10.08 Medemeter
 
@@ -738,7 +742,7 @@ Plague has consumed Medemeter, reducing it down to 23 people. Of those, 16 will 
 
 Each of the thirty huts has a red X painted across the door. Feral dogs run in packs of twelve - begging and snapping at travellers for food. 
 
-A scarecrow has been erected in the centre of the village, beside the well. A corpse, fever-bloated, teeth fallen from bloody sockets, welt-rich and boil-wealthy, is hunched beneath it - like a loyal hound. The dogs do not eat it.
+A scarecrow has been erected in the centre of the village beside the well. A corpse, fever-bloated, teeth fallen from bloody sockets, welt-rich and boil-wealthy, is hunched beneath it - like a loyal hound. The dogs do not eat it.
 
 A nearby tree bends beneath the weight of the crows, waiting for the last cow to starve to death. One of their number has been trampled trying to pre-empt this. It crawls, wings shattered, making a broken cawing sound.
 
@@ -752,7 +756,7 @@ Within the cairn are burnt bones, a broken dagger, a sundered helm and a golden 
 
 A young cousin to Trimontium, built in wood and drystone stacks. Burnt sections are left, harvested for charcoal - Cuimridh burns often, and has burnt recently. The forest of the Black Strath seems to recoil, the wide swath of cut trees clearing space around it. The plants closest to the town look yellow.  
 
-The mountain upriver is wounded - an open-pit mine goring the stone. They mine for silver and lead. The smelting process releases toxic smoke, killing birds which fly over the settlement. Much of the population of 578 are pale and unwell. Children gather and grind the bones of the dead birds - the bonemeal is paid for, part of the process of silver extraction.
+The mountain upriver is wounded - an open-pit mine goring the stone. They mine for silver and lead. The smelting process releases toxic smoke, killing birds which fly over the settlement. Much of the population of 578 are pale and unwell. Children gather and grind the bones of the dead birds - the bonemeal is paid for, part of the process of silver extraction. All drink a tea made of Cowslip to ward off illness, although it seems to do little for them.
 
 Heavily armed convoys make the journey to Trimontium once a month, using troops pulled from Dun Mobhaidh. This journey results in many of the losses to the Black Strath. They carry silver ingots and lead bars. Attempted bandits are used for spider-bait - those surviving are tortured publicly.
 
@@ -769,6 +773,8 @@ Darlugdach (5HD, Maille, Battleaxe), having conquered the town a decade ago, now
 One of her soldiers, Birger (3HD, Maille, Axe, Bow) has learnt of a cult (The White Threads) amongst the residents of the town. They abduct drunk visitors, and using an immense system of caves, travel under the earth to feed these abductees to the thing in 11.10. Birger seeks outsiders to capture the beast - he believes its blood would make him impervious to swords. He is wrong.
 
 The White Threads believe their sacrifices keep the creature away from Guthram. They are correct. Without their guidance, travel through the caves is nearly impossible - becoming lost a near certainty. 
+
+Dwelling near the docks is Birger, old and crooked. He tends the grave of his mother, a witch who fled Faroe long ago. In his hovel are six candles of Mullein, burnt when he fears the return of his mothers friends.
 
 100 armoured footmen, 50 skirmishers, 6 Karvi plus 5 fishing boats.
 
@@ -930,13 +936,15 @@ A huge, dirty sack, made just for him, contains all his possessions (Monstrous I
 
 ### 12.12 Rhaglan 
 
-The village of Rhaglan is surrounded by their long-legged wetland cows. Picts, Norsefolk and Ruis alike do not trust them - only Brythons herd them. Between the herds, raised beehives are dotted, a somnolent buzzing emerging at all hours. 
+The village of Rhaglan is surrounded by their long-legged wetland cows. Picts, Norsefolk and Ruis alike do not trust these bovines - only Brythons herd them. Between the herds, raised beehives are dotted, a somnolent buzzing emerging at all hours.
 
 The 98 inhabitants of Rhaglan make much of their cheese - each cluster of buildings another secret recipe. Rivalry is common - the young men of each farmstead often race on horseback, kicking and shoving one another. Death or injury is not punished. Apprentices from other villages make up for those lost to the races.
 
 Siôn (3HD, Leather, Bow, Sword) killed four in his youth, and has buried four sons in turn. His authority is Rhaglan is absolute when it comes to outsiders. Internal disputes do not concern him.
 
 A third of the cows and hives bear the mark of the Roaming Court, earmarked for consumption when they next visit.
+
+The elders know that the blood, skull or shoe of a horse protect from witch-craft, although there has been no cause to use such a ward for years.
 
 _When the Roaming Court is here -_ a huge slaughter and smoking of meat and cheese as the Court resupplies. 
 
@@ -1164,6 +1172,8 @@ Walled and smoky, Cernyff is a city of bridges over the river delta. The 2596 re
 
 The city is ruled by Prince Llwelyn (HD 3, Plate, Sword), favourite of the church. He is known to be close with the Archbishop Mab - much of his authority is seceded to her. This has empowered a wave of constructions throughout Ergyng, which has reduced funding elsewhere - most notably in the navy, set to patrol the Ruislip Channel. When the time comes to nominate a new king, Llwelyn plans to be sworn in as a priest - unable to sire heirs, therefore unsuited to the throne. 
 
+Mab travels with a pack of church-raised hounds, given as gifts to Christians who fight the witch and the beast. These dogs never test morale against supernatural foes.
+
 The proliferation of arts serve the expensive tastes of the priesthood - Cernyff is considered the centre of culture on Albann. Low-weight, high-value goods are commonly traded, where pirates can be avoided. Adjunct to the planned cathedral is an already extant school - with access to the coffers of the church, although no inclination to haggle. They are as likely to use force to take what they feel belongs to them. 
 
 50 armoured footmen, 50 footmen, 50 skirmishers, 100 horsemen, 3 karvi-equivalent plus 5 fishing boats.
@@ -1181,6 +1191,8 @@ If killed, a bounty of 500sp will be advertised for their whereabouts.
 At the centre of a spread of small gardens, a monastery of grey stone housing 75 monks. Wicker beehives are scattered throughout - the low hum of bees is constant. Eleven standards are planted in the earth nearby - marking the presence of noble houses. Each is worn, the heraldic animals animated by the wind. 
 
 The abbot, Tomos, is not a favourite of King Cadoc - the Roaming Court never visits the monastery. A collection of 11 disfavoured nobles fill the hostels. None would move openly against the King - but they could be convinced to, with a suitable plan. Any such plots overheard are retold to Tomos who informs Prince Llwelyn via messenger. The Prince will use this as blackmail to involve plotters (player characters and nobles alike) in his schemes. 
+
+The monks cultivate the ivy clinging to the building carefully - explaining it is God's hand of protection against witches or the devils of the land.
 
 The Monastery is wealthy (Temple II):
 
@@ -1215,7 +1227,7 @@ Carys (2HD, Leather, Shield, Sword, Javelin) longs to kill a Norseman - she only
 
 ### 18.14 Rhydaman 
 
-In the shadow of the city, 32 bitter villagers in their houses of fresh timber labour. Rhydaman was burnt for resistance during the conquest, and has never recovered. In another generation, it will be abandoned. Some of the eldest dream of inculcating resistance in the hearts of the youth, but such dreams are scorned. The only act of defiance carried out is refusing to learn Norse.
+In the shadow of the city, 32 bitter villagers in their houses of fresh timber labour. Rhydaman was burnt for resistance during the conquest, and has never recovered. In another generation, it will be abandoned. Some of the eldest dream of inculcating resistance in the hearts of the youth, but such dreams are scorned. The only act of defiance carried out is refusing to learn Norse. One, Coel, carries a shield of oak - they were told it would hold off any blow, mortal or magic, by a father killed before their eyes.
 
 A destitute group of families beg travellers to find their husbands - pitch-diggers, who went North-West. They have no bounty to give.
 
@@ -1267,7 +1279,7 @@ Near the river, a large tree with unseasonally coloured leaves. Hidden at its ba
 
 - A jar of dark, rich mud. Silt gathered from an ocean trench.
 - Three lumps of charcoal. Sourced from an arson.
-- Two malformed figures in iron, wrapped in Ground Elder flowers. 
+- Two malformed figures in iron, wrapped in ground Elder flowers.
 - A pair of glass vials, both contain blood. The blood is from a pure-white and pure-black dog.
 
 ### 15.15 Лошадь-людоед
@@ -1312,7 +1324,7 @@ If the birds fall silent, a fresh corpse has been deposited for them. They griml
 
 Scant few trees cling to the soil around Wryddymbre - and those that do seem strained. The sheep chew at their exposed, anaemic roots. 57 dwell here, recently reduced. This loss hangs over them like a pall. 
 
-Seisyll (3HD, Shield, Javelin) greets any visitors, hopeful at first, scanning the faces for someone he recognises. Then his face hardens. In terse words, he explains a group of children have been missing a week. There is no reward for finding them - what could the people of Wryddymbre give?
+Seisyll (3HD, Shield, Javelin) greets any visitors, hopeful at first, scanning the faces for someone he recognises. Then his face hardens. In terse words, he explains a group of children have been missing a week. There is no reward for finding them - what could the people of Wryddymbre give? Those agreeing to help are given sheep-bone figurines of Saint Anthony, granting +2 Warding against Poison.
 
 _When the Roaming Court is here -_ things are sombre - the mandatory celebrations stilted. 
 
@@ -1353,9 +1365,11 @@ Diserth marks the end of kingdoms. Beyond it, the land rules itself - or so it i
 
 None openly claims a central authority, but Atiq (3HD, Leather, Shield, Crystal Dagger) acts in an equivalent role - those with concerns or issues come to his abode, bearing gifts of a mystical nature. It is known that he is a sorcerer, and stands in opposition to the Fallen Druids and their worship of Onthloug. Equally, he is happy to use the Christian fear of such a group to retain independence from Hwicce and Ergyng alike.  
 
-He is always watchful for adventurers - the balance of forces in Albann is something he would maintain. Such a balance requires active agents. Additionally, he pays 2000sp for the capture and delivery of any other sorcerers and wizards. In lieu of pay, he is willing either teach a single spell or gift one of his magic items.  
+He is always watchful for adventurers - the balance of forces in Albann is something he would maintain. Such a balance requires active agents. Additionally, he pays 2000sp for the capture and delivery of any other sorcerers and wizards. In lieu of pay, he is willing either teach a single spell or gift one of his magic items. He shares his knowledge of Wards happily with those in his employ.
 
 He has the knowledge of the following spells, and has the components for any marked with an \*. Animate Dead, Bless\*, Cloudkill, Comprehend Languages\*, Cure Light Wounds\*, Cure Serious Wounds\*, Fireball, Haste\*, Invisibility\*, Protection from Missiles\*.  
+
+He also knows how to protect against sorcery; the oil from a Dragon Arum flower, the stink of Hawthorn, a candle of Mullein and the brandishing of winged penis icons.
 
 He personally commands 20 Norse and 20 West Pyorran warriors, and plays their martial pride off each other.  
 
@@ -1410,15 +1424,17 @@ He is Chulagh's (11.18) brother - they are liable to kill one another.
 
 Where the trees grow thick a moss-heavy hovel sits. From the eaves hang all manner of dried animal components. Birds on nearby trees watch closely, leaving the anarchic sprawl of a garden unmolested.
 
-This is the house of Enid (3HD, Shortsword). She is only the latest to dwell here - a long line of witches uninterrupted by new churches or invaders from the sea. Most villages in Ergyng know how to find her, although such a journey is never made lightly. 
+This is the house of Enid (3HD, Shortsword). She is only the latest to dwell here - a long line of witches uninterrupted by new churches or invaders from the sea. All in Ergyng know how to find her, although such a journey is never made lightly. 
 
 Any work undertaken by a witch does not come free. 
 
-Enid seeks an apprentice - she feels her bones becoming long. She would see Atiq dead for his hunting of magic users. If either of these are done, she offers hospitality. If both are done, her loyalty would last as long as she drew breath. She would be willing to teach any spells to such friends. 
+Enid seeks an apprentice - she feels her bones becoming long. She would see Atiq dead for his hunting of magic users. If either of these are done, she offers hospitality. If both are done, her loyalty would last as long as she drew breath. She would be willing to teach any spells and wards to such friends. 
 
 She has the knowledge of the following spells, and has the components for any marked with an \*. Animal Growth\*, Baleful Polymorph, Charm Monster, Charm Person\*, Clairvoyance\*, Confusion\*, Cure Light Wounds\*, Cure Critical Wounds, Detect Magic\*, Fly\*, Light, Sleep\*.
 
-Hidden in the hovel, the accrued emphemera of generations (Magic User II):
+She knows all the uses of plants for Warding, but guards this knowledge jealously. 
+
+Hidden in the hovel, the accrued ephemera of generations (Magic User II):
 
 - 400sp in a mix of many different coins.
 - 6 _Doubleface Drachm._(&T)
@@ -1493,7 +1509,7 @@ Lies will be paid, but when discovered mark the party as an enemy to any who wou
 
 A thicket of woods marches to the edge of the cliffs. Amongst the trees, 76 dwell - the village of Dirnbych. All are accomplished climbers - the children amuse themselves by raiding the nests of sea-birds upon the cliffs. Only the youngest are permitted safety ropes. Their goats watch passively - they are known to kick strangers before running away as if wronged. 
 
-Kerwyn (3HD, Maille, greatsword) leads the village - once a guard in the Roaming Court, now retired. Life in Dirnbych is uninterrupted by the outside world, and he would keep it that way - all outsiders are sent to him.
+Kerwyn (3HD, Maille, greatsword) leads the village - once a guard in the Roaming Court, now retired. Life in Dirnbych is uninterrupted by the outside world, and he would keep it that way - all outsiders are sent to him. Not even the Roaming Court visits here.
 
 At night, the story of the Dragon of Kindee is a favourite, the storyteller gesturing at the island off the coast. 
 
@@ -1530,7 +1546,7 @@ The Breaker of Crowns sits in a treasure-vault from Giantish times, laden with w
 
 A small monastery, peering out from a defensive wall of wood. The 45 monks are armed, and skittish. They fear  Moerheb Weald, and the Fallen Druids within. Much in the grounds is in a low state - their usual labours neglected for martial training. A Christian Ruis mercenary, Chulagh (3HD, Maille, Sword, Shield, Sling) leads them in these efforts. He is not confident in their success. He is Conar's (07.17) brother - they are liable to kill one another.
 
-The Abbot, Wyn, has seen things move in the trees at night. Fear paralyses his heart. His messages to the Roaming Court are laughed at as the paranoia of an old man. He eyes the gold of the monastery, and thinks about mercenaries. 
+The Abbot, Wyn, has seen things move in the trees at night. Fear paralyses his heart. His messages to the Roaming Court are laughed at as the paranoia of an old man. He eyes the gold of the monastery, and thinks about mercenaries. Whilst his petitioning continues, the Roaming Court does not visit here.
 
 Some wealth remains (Temple II): 
 - 300sp in Ergyng Coins
@@ -1606,9 +1622,11 @@ Beneath an obvious mound of soil, the treasure of their order (Temple III):
 
 A hovel beside the river, heavy with moss and fungi. Within dwells Math - approaching his 80th year. He is deeply knowledgable of herbal remedies and cures - any poison native to Alban, Ruislip or the Mid-Isles can be cured here. Each such cure costs 200sp, and requires special preparation. He throws the money into the river at night - he needs little. 
 
+He knows all the herbal Wards, but does not share them for fear of upsetting Enid once again.
+
 ### 04.19 Weeping Demon
 
-Atop the cliffs, a squat, rough-stone figure with a grinning face and a frog-belly watches the sun rise. The top of it's head is concave, forming a bowl to collect rainwater. This water flows from its eyes, and falls down the cliff-face. This is a demon, petrified by deceit. 
+Atop the cliffs, a squat, rough-stone figure with a grinning face and a frog-belly watches the sun rise. The top of its head is concave, forming a bowl to collect rainwater. This water flows from its eyes, and falls down the cliff-face. This is a demon, petrified by deceit. 
 
 ### 05.19 Caernfon
 
