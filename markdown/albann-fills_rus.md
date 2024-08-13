@@ -1314,21 +1314,21 @@ On moonless nights, 80 swollen salt-corpses rise from the waves. Any upon the be
 
 Each wears scraps of ruined armour, and weapons rusted to clubs. Statistics as Zombies. They have no wealth and no leaders.
 
-### 06.16 Gull Feast
+### 06.16 Пир чаек
 
-Fat seagulls sit atop the cliffs, necks craning downwards. Their screams are constant. Amongst the jagged rocks, breaking the waves, a proliferation of bones, ruined fabrics and scattered, tarnished metals. 
+Жирные чайки сидят на вершинах утёсов, вытянув шеи вниз. Их крики не прекращаются. Среди зазубренных скал и разбивающихся о них волн лежит множество костей, испорченных тканей и разбросанных потускневших металлов. 
 
-If the birds fall silent, a fresh corpse has been deposited for them. They grimly pick their way down the cliff-face, too bloated to fly, their donors already beneath the waves again.
+Если птицы и замолкают, то только потому что им уготован свежий труп. Они мрачно пробираются вниз по склону утеса, слишком раздутые, чтобы летать, в то время как из благотворители снова скрываются под волнами.
 
-### 07.16 Wryddymbre
+### 07.16 Вриддимбр
 
-Scant few trees cling to the soil around Wryddymbre - and those that do seem strained. The sheep chew at their exposed, anaemic roots. 57 dwell here, recently reduced. This loss hangs over them like a pall. 
+Лишь немногие деревья цепляются за почву вокруг Вриддимбра, да и те, что растут, кажутся хрупкими. Овцы обгладывают их обнажённые, безжизненные корни. Здесь обитает 57 человек, численность которых недавно сократилась. Эта потеря нависла над ними, как тяжкий груз. 
 
-Seisyll (3HD, Shield, Javelin) greets any visitors, hopeful at first, scanning the faces for someone he recognises. Then his face hardens. In terse words, he explains a group of children have been missing a week. There is no reward for finding them - what could the people of Wryddymbre give? Those agreeing to help are given sheep-bone figurines of Saint Anthony, granting +2 Warding against Poison.
+Сейсилл (3 КЗ, щит, дротик) приветствует всех посетителей, поначалу с надеждой вглядываясь в лица в поисках кого-нибудь знакомого. Затем его лицо каменеет. В кратких словах он объясняет, что уже неделю как пропала группа детей. За их нахождение не полагается награды --- что могут дать жители Враддимбра? Те, кто соглашается помочь, получают статуэтки святого Антония из овечьей кости, которые дают +2 к защите от яда.
 
-_When the Roaming Court is here -_ things are sombre - the mandatory celebrations stilted. 
+*Когда здесь Бродячий двор* --- всё мрачно - обязательные торжества проходят неестественно. 
 
-15 skirmishers.
+15 застрельщиков.
 
 ### 10.16 Faceless Tomb 
 
@@ -1402,23 +1402,23 @@ There is a 1-in-6 chance a Fallen Druid is present on any given visit.
 
 15 footmen, 5 skirmishers 
 
-### 06.17 Statue Basement 
+### 06.17 Подвал со статуями
 
-Scant lines of stacked stone hint at walls, almost forming a maze. They surround a set of stairs, leading downwards. Besides the stairs, a pile of weatherworn planks. Chlorine-stink wafts upwards.
+Скудные ряды сложенных друг на друга каменных блоков напоминают стены, почти образуя лабиринт. Они окружают лестницу, ведущую вниз. Рядом с лестницей --- груда потрёпанных непогодой досок. Снизу доносится запах хлора.
 
-The stairs move down and turn sharply to the right, limiting the daylight below. Pillars of stone emerge from the black as they are illuminated, as well as statues - perfect statues of rodents. A cockatrice uses the pillars and statues for cover. It tries to touch torch-bearers first.
+Лестница ведёт вниз и резко поворачивает направо, ограничивая дневной свет внизу. Каменные колонны выступают из темноты, когда их освещают, а также становятся видны статуэтки --- идеальные фигуры грызунов. Кокатрис использует колонны и статуи в качестве укрытия. Первыми он постарается коснуться факелоносцев.
 
-In the gloom are statues of the missing children of Wryddymbre.
+Во мраке видны статуи пропавших детей Вриддимбра.
 
-Tucked in a corner, covered in dust - a pair of _Dog Spirit Banks_ (&T) each worth 500sp.
+В углу спрятаны пара *Хранилищ с духом собаки* (&T), покрытые пылью и стоимостью 500 см каждая.
 
-### 07.17 Conar, Druidic Agent
+### 07.17 Конар, агент друидов
 
-Conar (2HD, Mail, Shield, Axe, Sling) rests in a small camp. He is Ruis and speaks passable Brythonic. He offers to lend his arm to the party for a half-share of any booty. 
+Конар (2 КЗ, кольчуга, щит, топор, праща) отдыхает в небольшом лагере. Он с Райслипа, и он сносно говорит по-бриттски. Он предлагает отряду свою помощь за половину добычи. 
 
-Though he will not tell it, he has been sent to find the Druids of Albann. Upon discovering their debased state, he will feel unable to return. Any work undertaken against them is done for free from this point forward. 
+Хотя он и не признается в этом, его отправили на поиски друидов Олбанна. Узнав об их униженном состоянии, он почувствует, что не может вернуться. С этого момента любая работа, проводимая против них, выполняется бесплатно. 
 
-He is Chulagh's (11.18) brother - they are liable to kill one another.
+Он брат Чулага (11.18) --- они могут убить друг друга.
 
 ### 11.17 A Witch
 
@@ -1505,15 +1505,15 @@ Each day spent in their employ pays 10sp, but information must be found at least
 
 Lies will be paid, but when discovered mark the party as an enemy to any who would serve King Vagn. Additionally, knowledge that they worked with the raiders is deliberately spread - King Ulfr will too begin hunting the party.
 
-### 04.18 Dirnbych
+## 04.18 Дирнбих
 
-A thicket of woods marches to the edge of the cliffs. Amongst the trees, 76 dwell - the village of Dirnbych. All are accomplished climbers - the children amuse themselves by raiding the nests of sea-birds upon the cliffs. Only the youngest are permitted safety ropes. Their goats watch passively - they are known to kick strangers before running away as if wronged. 
+Лесная чаща подходит к краю утесов. Среди деревьев живёт 76 человек --- это и есть деревня Дирнбих. Все они опытные альпинисты --- дети развлекаются, совершая набеги на гнёзда морских птиц на скалах. Только самым маленьким разрешены страховочные верёвки. Их козы пассивно наблюдают за происходящим --- известно, что они бодают незнакомцев, а затем убегают, как будто их обидели.
 
-Kerwyn (3HD, Maille, greatsword) leads the village - once a guard in the Roaming Court, now retired. Life in Dirnbych is uninterrupted by the outside world, and he would keep it that way - all outsiders are sent to him. Not even the Roaming Court visits here.
+Кервин (3 КЗ, кольчуга, большой меч) возглавляет деревню --- когда-то он был стражником при Бродячем дворе, а теперь на пенсии. Внешний мир не вмешивается в жизнь Дирнбиха, и он хотел бы, чтобы так и оставалось --- всех чужаков отсылают к нему. Сюда не заезжает даже Бродячий двор.
 
-At night, the story of the Dragon of Kindee is a favourite, the storyteller gesturing at the island off the coast. 
+По ночам особенно популярна история о драконе с острова Кинди, рассказчик которой указывает на остров у побережья.
 
-8 footmen, 10 skirmishers.
+8 пехотинцев, 10 застрельщиков.
 
 ### 09.18 Haunted Flint Mine
 
@@ -1542,19 +1542,19 @@ The Breaker of Crowns sits in a treasure-vault from Giantish times, laden with w
 - Five draughts of _Potion of Compression_ (&T)
 - Three _Proven Sons_ (&T)
 
-### 11.18 St Glanyrafor's Monastery
+### 11.18 Монастырь св. Гланирафора
 
-A small monastery, peering out from a defensive wall of wood. The 45 monks are armed, and skittish. They fear  Moerheb Weald, and the Fallen Druids within. Much in the grounds is in a low state - their usual labours neglected for martial training. A Christian Ruis mercenary, Chulagh (3HD, Maille, Sword, Shield, Sling) leads them in these efforts. He is not confident in their success. He is Conar's (07.17) brother - they are liable to kill one another.
+Небольшой монастырь, выглядывающий из-за защитной деревянной стены. 45 монахов вооружены и пугливы. Они боятся Мёрхеба Вельда и павших друидов. Многое на территории находится в плачевном состоянии --- их обычные занятия заменены боевыми тренировками. Ими руководит христианин-наёмник из Райслипа, Чулаг (3 КЗ, кольчуга, меч, щит, праща). Он не уверен в их успехе. Он брат Конара (07.17) --- они могут убить друг друга.
 
-The Abbot, Wyn, has seen things move in the trees at night. Fear paralyses his heart. His messages to the Roaming Court are laughed at as the paranoia of an old man. He eyes the gold of the monastery, and thinks about mercenaries. Whilst his petitioning continues, the Roaming Court does not visit here.
+Настоятель Вин видел, как по ночам что-то движется на деревьях. Страх парализует его сердце. Над его посланиями Бродячему двору смеются, называя их паранойей старика. Он смотрит на монастырское золото и думает о наёмниках. Пока он подает прошение, Бродящий двор суд не посещает это место.
 
-Some wealth remains (Temple II): 
-- 300sp in Ergyng Coins
-- 1000sp in golden religious sacraments
-- 500sp in illuminated manuscripts
-- The Body of St Glanyrafor, skewered with a Brythonic spear. Worth 5000sp to rival monasteries and pagan warlords.
+Осталось немного денег (Храм II): 
+- 300 см в монетах Эргинга
+- 1000 см в золотых религиозных таинствах
+- 500 см в иллюстрированных рукописях
+- Тело святого Гланирафора, проткнутое бриттским копьём. Стоимость - 5000 см для конкурирующих монастырей и языческих военачальников.
 
-15 unarmoured footmen, 15 skirmishers  
+15 пехотинцев без доспехов, 15 застрельщиков
 
 ### 12.18 Fallen Druid Sentries
 
@@ -1624,33 +1624,33 @@ A hovel beside the river, heavy with moss and fungi. Within dwells Math - approa
 
 He knows all the herbal Wards, but does not share them for fear of upsetting Enid once again.
 
-### 04.19 Weeping Demon
+### 04.19 Плачущий демон
 
-Atop the cliffs, a squat, rough-stone figure with a grinning face and a frog-belly watches the sun rise. The top of its head is concave, forming a bowl to collect rainwater. This water flows from its eyes, and falls down the cliff-face. This is a demon, petrified by deceit. 
+На вершине скалы приземистая фигура из грубого камня с ухмыляющимся лицом и лягушачьим животом наблюдает за восходом солнца. Верхняя часть её головы вогнута, образуя чашу для сбора дождевой воды. Эта вода течёт из ей глаз и стекает по склону скалы. Это демон, обманом превращённый в камень.
 
-### 05.19 Caernfon
+### 05.19 Кэрнфон
 
-Soiled white stone makes up the walls and buildings of Caernfon - on a bright day, it almost gleams. As one gets closer, the grime of years and smoke and dwelling make themselves known. 2134 dwell here, and the marks of their occupation are many. Banners bearing the crest of Ergyng are common, as are soldiers - the latter bearing the seal of Ynyr rather than the kingdom.
+Стены и здания Кэрнфона выложены из грязного белого камня --- в ясный день он почти блестит. Чем ближе подходишь, тем заметнее становится многолетняя грязь, дым и жилища. Здесь живут 2134 человека, и следы их пребывания многочисленны. Знамена с гербом Эргинга --- обычное дело, как и солдаты, причём последние носят печать Янира, а не королевства.
 
-Prince Ynyr (5HD, Full Length Maille, Two-Handed Sword) is illiterate and proud of it. His greatest aspiration is to be a war-marshal - the throne does not interest him. Once his father dies, he will insist a flowering domain such as Ergyng needs an educated ruler - his brother being perfect for the role. Ynyr is beloved by the people - especially those who would swing swords and hew flesh for him. He is surrounded by braggarts and mercenaries from abroad, each promising to teach their sophisticated way of the blade, bow or axe. Duels are common enough that a ring has been built to house them in, the feasting table destroyed one too many times. 
+Принц Янир (5 КЗ, кольчуга в полный рост, двуручный меч) неграмотен и гордится этим. Его самое большое желание --- стать военным маршалом --- трон его не интересует. Как только его отец умрёт, он будет настаивать на том, что цветущему владению, такому как Эргинг, нужен образованный правитель --- его брат идеально подходит на эту роль. Янир любим народом, особенно теми, кто готов махать мечами и устраивать мясорубку ради него. Его окружают хвастуны и наёмники из-за рубежа, каждый из которых обещает научить своему изощрённому владению клинком, луком или топором. Дуэли случаются так часто, что для их проведения соорудили арену, а пиршественный стол довольно часто разбивают. 
 
-The city itself is loud, filled with those eager to prove themselves. Stupendous quantities of drink are consumed - draining much of Ergyng and encouraging trade with the West Pyorrans, bringing their potent wine. Several of the hauscarls and aristocrats have taken spouses from Pyorra, and the smell of their cooking is not uncommon. 
+Сам город шумный, в нём полно тех, кто жаждет проявить себя. Употребляется огромное количество напитков, что вытягивает много средств из Эргинга и поощряет торговлю с западными пиоррцами, поставляющими своё крепкое вино. Некоторые хаускарлы и аристократы взяли себе жён из Пиорры, и запах их стряпни не является чем-то необычным. 
 
-At night, this vitality drains away - a cloak of dark and silence presses upon the city. Once a week, those wearing silver brooches depicting a broken wheel creep forth. Beneath bridges, expensive shoes soak up river water - silver and gold is distributed. A victim is selected from amongst the unpopular of the city and vanished. A horse rides South-East, to 06.20. In the morning, petitions to find the missing are ignored.
+Ночью эта жизненная сила иссякает --- на город опускается покров тьмы и тишины. Раз в неделю на улицу выходят те, кто носит серебряные броши с изображением сломанного колеса. Под мостами дорогие туфли пропитываются речной водой --- раздаётся серебро и золото. Жертва выбирается из числа тех, кто не пользуется популярностью в городе, и она исчезает. На юго-восток, в 06.20 отправляют лошадь. Утром петиции о розыске пропавших без вести игнорируются.
 
-_When the Roaming Court is here -_ the city is alight with fires - festivals erupt in all districts. A night for all to remember. Ynyr tries to thread the needle between being disappointing and competent.
+*Когда приезжает Бродячий двор*, город озаряется огнями, во всех районах начинаются фестивали. Это ночь, которая запомнится всем. Янир пытается найти баланс между разочарованием и компетентностью.
 
-80 armoured footmen, 80 footmen, 50 skirmishers, 2 karvi-equivalent plus 3 fishing boats.
+80 тяжёлых пехотинцев, 80 пехотинцев, 50 застрельщиков, 2 эквивалента карва плюс 3 рыбацкие лодки.
 
-### 06.19 Llanelli
+### 06.19 Лланелли
 
-Where the river sits fat and wide and slow, an island forms in the centre, ringed round with wooden walls, overseen by a single spindly tower. Smoke rises for the village of Llanelli, the Watchdog of Caernfon. 37 dwell here - all experts in swimming and boating. Racks of fish dry in the heat, and the single hound of the village guards them carefully.
+Там, где река течёт полноводно, широко и медленно, в центре образуется остров, окружённый деревянными стенами, над которыми возвышается единственная тонкая башня. Дым поднимается над деревней Лланелли, сторожевым постом Кэрнфона. Здесь проживают 37 человек --- все они специалисты по плаванию и лодочному делу. На жаре сохнут рыбные корзины, и единственная деревенская собака тщательно охраняет их.
 
-Mari (2HD, Shield, Javelin, Battle-axe) once killed a bull that had lost control in the market of Caernfon. Ever since, she has led the village. She is inexperienced, and does not want the mantle of leadership - mistakes are made often. 
+Мари (2 КЗ, щит, дротик, боевой топор) однажды убила быка, который потерял контроль над собой на рынке Кэрнфона. С тех пор она возглавляет деревню. Она неопытна и не хочет брать на себя роль лидера --- она часто ошибается. 
 
-_When the Roaming Court is here -_ a token effort is made - a single night. The island is not big enough to support the court.
+*Когда Бродячий двор доберётся до сюда* --- будут предприняты символические усилия --- всего на одну ночь. Остров недостаточно велик, чтобы вместить двор.
 
-8 skirmishers plus 3 fishing boats.
+8 застрельщиков плюс 3 рыбацкие лодки.
 
 ### 08.19 Burnt Hillfort
 
@@ -1692,27 +1692,27 @@ Ouen (3HD, Leather, Bow, Axe) leads the band. His ears have been cut off to mark
 
 5 footmen, 3 skirmishers plus 5 boats.
 
-### 05.20 Yrcoed
+### 05.20 Иркойд
 
-Yrcoed ebbs and flows with the tide - the many stilt-houses standing empty and naked as the water retreats, gangly birds without feather. As the water rolls in, they fill with fishermen from Caernfon, lit from within by fire and laughter. 20 dwell here throughout the weeks, mending the boats and advising the fishermen to stay close to the shore. 
+Иркойд то исчезает, то оживает с приливом --- множество домов на сваях стоят пустыми и обнажёнными, когда вода отступает, словно неуклюжие птицы без перьев. Когда вода прибывает, они заполняются рыбаками из Кэрнфона, освещённые изнутри огнём и смехом. 20 человек живут здесь неделями, чинят лодки и советуют рыбакам держаться поближе к берегу. 
 
-Boats built (or repaired) in Yrcoed add 1HD - such a service costs 500sp. 
+Лодки, построенные (или отремонтированные) в Иркойде, получают 1 КЗ дополнительно --- такая услуга стоит 500 см. 
 
-_When the Roaming Court is here -_ aspiring warriors try to prove themselves with mock naval battles, feats of endurance and strength.
+*Когда сюда прибывает Бродячий двор* --- начинающие воины пытаются проявить себя в морских сражениях, демонстрируя выносливость и силу.
 
-### 06.20 Open Barrow
+### 06.20 Открытый курган
 
-Once a week, under cover of night, a horse rides up and deposits a bundled up victim. The rider collects a velvet bag, filled with grave-goods of ancient make, marked with symbols of resistance and flowing knotwork patterns. They ride away as chilling vapour pours from the open entrance to a barrow. Carried within the mist, the long dead queen of Albann stalks forth, red from the jaw down, draped in the raiment befitting a warrior queen killed. The fatal wound in her belly is still open - as she drains her victims, their blood flows anew, each meal another death. Once Boudicca, now the Vampire of Caernfon. She wears the _Dominion Reap._ (&T). With loyal servants and enough blood, she would dominate those who acquiesced to Latin rule all those centuries ago.
+Раз в неделю под покровом ночи подъезжает лошадь и оставляет закутанную жертву. Всадник забирает бархатный мешочек, наполненный древними погребальными принадлежностями, отмеченными символами сопротивления и плавными узорами. Они уезжают, а из открытого входа в курган начинает валить леденящий пар. Из тумана выходит давно умершая королева Олбанна, красная от подбородка и ниже, облачённая в одеяние, подобающее убитой королеве-воительнице. Смертельная рана в её животе всё ещё открыта --- когда она выпивает кровь из своих жертв, их кровь продолжает течь, но каждый приём пищи приводит к новой смерти. Когда-то Боудикка, а теперь вампирша Кэрнфона. Она носит *Жатву господства* (&T). С верными слугами и достаточным количеством крови она могла бы властвовать над теми, кто смирился с правлением латыни много веков назад.
 
-In the barrow, the grave-hoard of a final hope extinguished (Tomb IV):
+В кургане, в могиле-сокровищнице угасшей последней надежды (Гробница IV):
 
-- 900sp in bronze and silver coins stamped with a burning sword.
-- 200 _Silver Tetradrachm_ (&T)
-- Two thick golden rings, depicting boars. Worth 200sp total.
-- A pair of spearhead shaped earrings in pearl. Worth 400sp total.
-- A golden greatsword with a blade of meteoric iron, set with blue quartz veins running in the blade. Worth 800sp.
-- _Friend-to-Murgo_ (&T)
-- 5 draughts of _Serpent Draught_ (&T)
+- 900 см в бронзовых и серебряных монетах с изображением горящего меча.
+- 200 *серебряных тетрадрахм* (&T)
+- Два толстых золотых кольца с изображением кабанов. Общая стоимость 200 cv.
+- Пара серёжек в форме наконечника копья из жемчуга. Общая стоимость 400 см.
+- Золотой большой меч с клинком из метеоритного железа, украшенным голубыми кварцевыми прожилками, проходящими по лезвию. Стоимость 800 см.
+- *Друг Мурго* (&T)
+- 5 глотков *Змеиного напитка* (&T)
 
 ### 08.20 Latin Tombstone
 
