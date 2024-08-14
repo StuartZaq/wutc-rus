@@ -856,21 +856,21 @@ A wound in the side of a hill, 2' across. Within is a shimmering lump of meteori
 
 There is enough iron to make a sword, or two shortswords. Powdered entirely, it is enough for five castings of _Teleport._
 
-### 10.11 Brychdyn 
+### 10.11 Бричдин 
 
-Before the lawless reach of Guthram, the palisade-girdled village of Brychdyn, home to 96, squats. Sparse trees on the plains offer little shelter from the wind, coursing in from the sea towards the mountains. Paddocks spread like spilled water - horses outnumber the residents. The annual races are famous. 
+Неподалеку от Гутрама, где царит беззаконие, находится окружённая частоколом деревня Бричдин, в которой проживает 96 человек. Редкие деревья на равнинах почти не защищают от ветра, дующего с моря в сторону гор. Загоны тянутся далеко, будто кто-то выплеснул их из ведра --- лошадей больше, чем жителей. Местные ежегодные скачки весьма знамениты. 
 
-Less known to most is the price they pay to Guthram - any bandit or killer bearing a seal from Darlugdach is not to be stopped nor reported, and furnished with horses if they are fleeing. Darlugdach pays back twice the normal rate of the horse. Corruption has seeped in deeply. 
+Но не так хорошо всем известно, какую цену они платят Гутраму --- любого бандита или убийцу с печатью Дарлугдах нельзя ни останавливать, ни сообщать о нём, их снабжают лошадьми, если они убегают. Дарлугдах платит в два раза больше, чем обычно платят за лошадь. Коррупция глубоко проникла внутрь города. 
 
-Blethyn (2HD, Shield, Sling, Spear) plans to send his son, Ednyfed (1HD, Shield, Sword) to court Darlugdach. He will pay a likely band 400sp for his safe delivery. Darlugdach will allow him to stay in her entourage, but simply use him as a hostage to leverage greater control of Brychdyn. 
+Блетин (2 КЗ, щит, праща, копьё) планирует отправить своего сына Эднифеда (1 КЗ, щит, меч) ко двору Дарлугдах. Скорее всего, он заплатит около 400 см за безопасное путешествие. Дарлугдах позволит ему остаться в её окружении, а затем просто использует его как заложника, чтобы усилить контроль над Бричдином. 
 
-The priest, Eilian, charges 100sp a head to shelter bandits in the basement of the church, regardless of their affiliation with Darlugdach. If this is discoverd, Blethyn is required to tear him apart with horses.
+Священник Эйлиан берёт по 100 см с человека за укрывательство бандитов в подвале церкви, независимо от их принадлежности к Дарлугдах. Если это обнаружится, Блетин должен разорвать его на части лошадьми.
 
-Many of the horses were requisitioned by the Roaming Court before they were born - held in trust until the annual race. 
+Многие лошади были реквизированы Бродячим двором ещё до их рождения и находятся в доверительном управлении до ежегодных скачек. 
 
-_When the Roaming Court is here -_ a huge amount of horses being reshoed, bred, swapped and put down. Blethyn is grim and silent in the presence of his King - he dares not speak to him of the thieves to the north. 
+*Когда здесь проходит Бродячий двор* --- огромное количество лошадей перековывают, спаривают, обменивают или убивают. Блетин мрачен и молчалив в присутствии своего короля --- он не осмеливается заговорить с ним о разбойниках на севере. 
 
-40 horsemen (with AC as Light)
+40 всадников (КБ как лёгкий доспех)
 
 ### 11.11 Fleeing Baker
 
@@ -1106,13 +1106,13 @@ A mineral stink precedes this room. Boiled out from the walls and the earth, the
 
 Отверстие в земле пересекает пологие луга. Овальной формы, 30 на 15 футов в самом широком месте. Арки из белого камня отражают свет с поверхности --- округлые и органичные. Кости земли. Примерно на 40 футов ниже виден склон, ведущий в темноту под землёй. По камню стекает вода, соответствующая температуре человеческого тела. На ощупь она кажется плотной.
 
-### 10.13 Centaur Grove
+### 10.13 Роща кентавров
 
-12 Centaurs lair in a series of crude lean-to structures, built in a thicket of trees, hidden from casual sight. They have no fire. Bludgeoned animal corpses are scattered between empty barrels and jars, stained wine-red. 
+12 кентавров обосновали логово в нескольких грубых навесных постройках в чаще деревьев, скрытых от посторонних глаз. У них нет огня. Среди пустых бочек и кувшинов, окрашенных в винно-красный цвет разбросаны растерзанные трупы животных. 
 
-Each Centaur is centuries old, and has never taken a name. They have yet to grow bored of violence. They especially delight in the pursuit and killing of animals. Humans are spared their attentions, unless they are drunk. If they can smell drink, they will cajole and bully to try and take it.  
+Каждому кентавру несколько столетий, и у него никогда не было имён. Им ещё не наскучило насилие. Особенно им нравится преследовать и убивать животных. Люди обходятся без их внимания, если только они не пьяны. Если они почувствуют запах спиртного, они будут уговаривать и запугивать, чтобы попытаться взять его.  
 
-There is a 20% chance they are in their lair - otherwise returning on a 2-in-6 per Turn. They will be heard 1 Turn away, yelling and whooping, either dragging an animal corpse or driving a living beast before before them, throwing stones and whirling their two-handed clubs. 
+Вероятность того, что они находятся в своем логове, составляет 20%, в противном случае они возвращаются с шансом 2 из 6 каждый ход. Из можно будет услышать за 1 ход до того, как они вернуться, они будут вопить и улюлюкать, таща труп животного, либо загоняя живого зверя, бросая камни и размахивая двуручными дубинами.
 
 ### 13.13 Maeyfed
 
