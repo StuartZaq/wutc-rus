@@ -764,19 +764,19 @@ Oswiu (2HD, Full Length Maille, Shield, Sword) rules Cumridh - he is one of the 
 
 40 footmen, 60 skirmishers.
 
-### 09.09 Guthram
+### 09.09 Гутрам
 
-All the tongues of Albann and Ruislip can be heard commingling on the shadowed streets of Guthram. It always smells of fish and ale. Heavily armed raiders swagger in the streets, bowing their heads to those wearing the yellow-black colours of the town. 872 call Guthram home - free from the distant rule of kings, but burdened by the rule of a pirate-queen.
+На тенистых улицах Гутрама можно услышать смешение всех языков Олбанна и Райслипа. Здесь всегда пахнет рыбой и элем. Тяжеловооруженные налётчики расхаживают по улицам, склоняя головы перед теми, кто носит жёлто-чёрные цвета города. 872 человека называют Гутрам своим домом --- он свободен от правления королей, но обременён властью королевы пиратов.
 
-Darlugdach (5HD, Maille, Battleaxe), having conquered the town a decade ago, now uses it to demand toll from all ships using the channel between Albann and Ruislip. Whether they travel for peace or raids is no concern of hers. If they offload loot and seek shelter in Guthram? All the better. Her soldiers have no qualms about killing trouble-makers - she knows this port is the only home for reavers in the isles. 
+Дарлугдах (5 КЗ, кольчуга, боевой топор), захватившая город десять лет назад, теперь использует его, чтобы взимать плату со всех судов, проходящих по каналу между Олбанном и Райслипом. Путешествуют ли они с мирными целями или совершают набеги, её это не касается. А если они решат выгрузить награбленное и укрыться в Гутраме? Тем лучше. Её солдаты без колебаний убивают нарушителей спокойствия --- она знает, что этот порт --- единственное пристанище для грабителей среди всех островов. 
 
-One of her soldiers, Birger (3HD, Maille, Axe, Bow) has learnt of a cult (The White Threads) amongst the residents of the town. They abduct drunk visitors, and using an immense system of caves, travel under the earth to feed these abductees to the thing in 11.10. Birger seeks outsiders to capture the beast - he believes its blood would make him impervious to swords. He is wrong.
+Один из её солдат, Биргер (3 КЗ, кольчуга, топор, лук), узнал о культе (Белых нитей) среди жителей города. Они похищают пьяных посетителей и, используя огромную систему пещер, передвигаются под землёй, чтобы скормить похищенных твари из 11.10. Биргер ищет приезжих, чтобы поймать зверя --- он верит, что его кровь сделает его неуязвимым для мечей. Он ошибается.
 
-The White Threads believe their sacrifices keep the creature away from Guthram. They are correct. Without their guidance, travel through the caves is nearly impossible - becoming lost a near certainty. 
+Белые нити верят, что их жертвоприношения держат существо подальше от Гутрама. Они правы. Без их руководства передвигаться по пещерам практически невозможно --- можно почти наверняка заблудиться. 
 
-Dwelling near the docks is Birger, old and crooked. He tends the grave of his mother, a witch who fled Faroe long ago. In his hovel are six candles of Mullein, burnt when he fears the return of his mothers friends.
+Биргер живёт неподалёку от доков, он старый и скрюченный. Он ухаживает за могилой своей матери, ведьмы, которая давным-давно бежала с Фарер. В его лачуге стоят шесть свечей из коровяка, которые он зажигает, когда боится возвращения друзей своей матери.
 
-100 armoured footmen, 50 skirmishers, 6 Karvi plus 5 fishing boats.
+100 тяжёлых пехотинцев, 50 застрельщиков, 6 карвов плюс 5 рыбацких лодок.
 
 ### 14.09 Songbirds
 
@@ -835,13 +835,13 @@ In through the tight wooden door, a circular room filled with tomes in all manne
 **Second Floor**  
 Entirely empty bar a small floor cushion - this is where Mergyl sits and worries and listens for the tread of Death.
 
-### 11.10 Surface Caverns
+### 11.10 Пещеры на поверхности
 
-As the mountains begin, an opening in the stone and earth. It leads down to limestone caves, full of round curves and plunges. The darkness grows close and wet. The passages extend on for days. Without mitigation, becoming lost is guaranteed. The White Thread know a single route - deviation is fatal. 
+Там, где начинаются горы, в камне и земле есть расщелина. Оно ведёт вниз, к известняковым пещерам, полным округлых изгибов и впадин. Темнота становится плотной и влажной. Проходы тянутся несколько дней. Без принятия мер предосторожности вы гарантированно заблудитесь. Белые нити знают только один маршрут --- отклонение от него фатально. 
 
-In the blackness, something slithers. Darkness has bleached its scales. The close-pressed stone has atrophied its limbs. Long isolation has cultivated its hunger. It does not strike to kill, only to clamp on before slithering away with a screaming prize. As it drags victims away, it whispers to them - it whispers of infinite vaults and crawling things beneath the soil. It promises to show them these things before it consumes them. 
+В темноте что-то ползает. Темнота обесцветила его чешую. Из-за плотно прижатых друг к другу камней, у него атрофировались конечности. Долгая изоляция развила в нём голод. Оно нападает не для того, чтобы убить, а только для того, чтобы вцепиться, прежде чем ускользнуть с визжащей добычей. Увлекая за собой жертву, он что-то шепчет ей --- он шепчет о бесконечных подземельях и ползающих под землёй тварях. Он обещает показать им всё это, прежде чем поглотит их. 
 
-HD 4 (Supernatural) / AC as Maille/ 1d6 Damage and Physique or Dodge Save to avoid being grabbed. 
+КЗ 4 (Сверхъестественное) / КБ как у кольчуги / Урон к6 и спасбосок уворота или стойкости, чтобы избежать его хватки.
 
 ### 13.10 Driven Warrior
 
@@ -1090,21 +1090,21 @@ The walls are marked with the scorched remains of tapestries. In the centre of t
 ***8***  
 A mineral stink precedes this room. Boiled out from the walls and the earth, the blood of conquests, execution and dynastic oppression has formed into a Black Pudding - dormant until torchlight rouses it. It will pursue as long as it takes, crawling across the countryside - blighting the earth.
 
-### 08.13 Treorci
+### 08.13 Треорчи
 
-Scant few fishing vessels bob alongside the town of Treorci despite its size - home to 91. Watching closely, the fishing boats are crowded with warriors. Watchtowers ring the city, watching the sea and the shore of Ruislip. Pirates are common - many vessels have been sunk, and the few that go out offer to pay 30sp a trip to guards. Most in the town are bilingual - switching mid-sentence from Brythonic to Ruis.  
+Несмотря на его размеры, у берегов городка Треорчи, где проживает 91 человек, покачивается всего несколько рыболовецких судов. Внимательно наблюдая, можно заметить, что рыбацкие лодки переполнены воинами. Сторожевые башни окружают город, наблюдая за морем и берегом Райслипа. Пираты --- обычное дело для этих мест: многие суда потоплены, а те немногие, что выходят в море, предлагают заплатить стражникам 30 см за поездку. Большинство жителей города говорят на двух языках, переходя на середине предложения с бриттского на райский.  
 
-Donnchadh (3HD, Leather, Shield, Bow, Spear) rails against Llewlyn for allowing the raids to continue. Not a day passes where he does not audibly curse Guthram. Any who killed Darlugdach, or convinced Llewlyn to raise an army, would have his eternal loyalty.
+Доннчад (3 КЗ, кожаный доспех, щит, лук, копьё) ругает Ллевлина за то, что тот позволяет рейдам продолжаться. Не проходит и дня, чтобы он вслух не проклинал Гутрам. Любой, кто убьёт Дарлугдах или убедит Ллевлина собрать армию, получит его вечную преданность.
 
-A meagre collection of fish-oil has the stamp of the Roaming Court upon it. 
+На скудной коллекции рыбьего жира стоит печать Бродячего двора. 
 
-_When the Roaming Court is here -_ Donnchadh drinks heavily, trying to build up the nerves to speak to his king. The displeasure at the amount of fish-oil they have gather dissuades him.
+*Когда здесь Бродячий двор* --- Доннчад сильно пьёт, пытаясь собраться с духом, чтобы поговорить со своим королём. Недовольство количеством рыбьего жира, которое они собирают, заставляет его передумать.
 
-10 footmen, 20 skirmishers, 2 fishing vessels. 
+10 пехотинцев, 20 застрельщиков, 2 рыболовецких судна.
 
-### 09.13 Sinkhole
+### 09.13 Карстовая воронка
 
-A hole in the earth interrupts the gently rolling grasslands. Egg-shaped, 30' by 15' at its thickest point. Arches of white rock catch the light from the surface - rounded and organic. The bones of the earth. A slope can be seen some 40' down, leading away and into the darkness beneath the soil. Body-temperature water flows over the stone. It feels thick to the touch. 
+Отверстие в земле пересекает пологие луга. Овальной формы, 30 на 15 футов в самом широком месте. Арки из белого камня отражают свет с поверхности --- округлые и органичные. Кости земли. Примерно на 40 футов ниже виден склон, ведущий в темноту под землёй. По камню стекает вода, соответствующая температуре человеческого тела. На ощупь она кажется плотной.
 
 ### 10.13 Centaur Grove
 
@@ -1166,25 +1166,25 @@ There is a 60% chance Ylmo is in her lair - otherwise returning on a 1-in-6 per 
 
 HD 14 / AC as Plate / Damage 1d6+3 
 
-### 08.14 Cernyff 
+### 08.14 Чернифф 
 
-Walled and smoky, Cernyff is a city of bridges over the river delta. The 2596 residents, speaking Brythonic and Ruis, are considered haughty by the rest of Ergyng - a centre of crafts and religious learning. A cathedral is being built - the workers encamped outside the walls in tentcloth shadow-city. Architects from across Albann consult on the construction. The old stones of abandoned fortifications are cleaned and repurposed. 
+Окружённый стенами и окутанный дымом, Чернифф --- это город мостов, перекинутых через дельту реки. 2596 жителей, говорящих на бриттском и райском языках, считаются высокомерными в Эргинге --- центре ремесёл и религиозного образования. Строится кафедральный собор --- рабочие разбили лагерь за стенами в теневом городе из тентов. Архитекторы со всего Олбанна консультируют по вопросам строительства. Старые камни заброшенных укреплений очищаются и используются по новому назначению. 
 
-The city is ruled by Prince Llwelyn (HD 3, Plate, Sword), favourite of the church. He is known to be close with the Archbishop Mab - much of his authority is seceded to her. This has empowered a wave of constructions throughout Ergyng, which has reduced funding elsewhere - most notably in the navy, set to patrol the Ruislip Channel. When the time comes to nominate a new king, Llwelyn plans to be sworn in as a priest - unable to sire heirs, therefore unsuited to the throne. 
+Городом правит принц Ллуэлин (КЗ 3, латы, меч), любимец церкви. Известно, что он близок с архиепископшей Мэб --- большая часть его полномочий передана ей. Это вызвало волну строительных работ по всему Эргингу, что привело к сокращению финансирования в других местах --- в первую очередь в военно-морском флоте, который должен патрулировать Рауслипский канал. Когда придёт время назначать нового короля, Ллуэлин планирует принять присягу в качестве священника --- он не сможет произвести на свет наследников и, следовательно, не годится для трона. 
 
-Mab travels with a pack of church-raised hounds, given as gifts to Christians who fight the witch and the beast. These dogs never test morale against supernatural foes.
+Мэб путешествует со сворой гончих, воспитанных церковью и подаренных христианам, которые борются с ведьмами и чудовищами. Эти собаки никогда не делают проверки боевого духа против сверхъестественных врагов.
 
-The proliferation of arts serve the expensive tastes of the priesthood - Cernyff is considered the centre of culture on Albann. Low-weight, high-value goods are commonly traded, where pirates can be avoided. Adjunct to the planned cathedral is an already extant school - with access to the coffers of the church, although no inclination to haggle. They are as likely to use force to take what they feel belongs to them. 
+Широкое распространение искусства удовлетворяет высокие вкусы духовенства --- Чернифф считается культурным центром Олбанна. Здесь обычно торгуют дешёвыми товарами, что позволяет избежать нападения пиратов. К планируемому собору примыкает уже существующая школа, которая имеет доступ к церковной казне, хотя и не склонна торговаться. Они с такой же вероятностью прибегнут к силе, чтобы забрать то, что, по их мнению, принадлежит им. 
 
-50 armoured footmen, 50 footmen, 50 skirmishers, 100 horsemen, 3 karvi-equivalent plus 5 fishing boats.
+50 тяжёлых пехотинцев, 50 пехотинцев, 50 застрельщиков, 100 всадников, 3 эквивалента карва плюс 5 рыбацких лодок.
 
-### 09.14 Wynne, the Ward 
+### 09.14 Уинн, подопечный 
 
-Any travelling along the river during the day will find the way blocked by a stout tree-trunk, set about with ropes and hooks. Atop it, a youth with a sling demands 30 silver for passage in Brythonic. They are well-dressed, and any with experience in Ergyng recognise them as a favoured ward of a noble family by the gold ring they wear. 
+Любой, кто днём отправится вдоль реки, обнаружит, что путь ему преграждает толстый ствол дерева, увешанный верёвками и крюками. На верхушке --- подростки с пращами по бриттски требуют 30 серебряных за проезд. Они хорошо одеты, и любой, кто знаком с Эргингом, узнает в них привилегированных подопечных знатной семьи по золотому кольцу, которое они носят. 
 
-If paid, they drop the silver into the river and runs away, laughing nastily.  
-If threatened, they will run away and report you to their family - a sure cause of issues.  
-If killed, a bounty of 500sp will be advertised for their whereabouts. 
+Если им заплатить, они выбрасывают серебро в реку и убегают, злобно смеясь.  
+В случае угрозы они убегут и донесут на вас своей семье, что, несомненно, вызовет проблемы.  
+В случае убийства за их местонахождение будет объявлена награда в размере 500 см.
 
 ### 11.14 St Anfan's Monastery
 
@@ -1241,17 +1241,17 @@ The map shows a forested island off the coast of Rhus - a path on the isle is ma
 
 All of the corpses have serious wounds, half-healed before death. 
 
-### 09.15 Drych
+### 09.15 Дрич
 
-Amongst the low shrubs and tangles of thorned plants, Drych lingers, seemingly in a state of torpor. Of the 39 residents, only 9 are human. The rest have negated themselves over long generations, leaving only Doppelgangers. Those in the know take the journey to hire these assassins and saboteurs. The 9 humans have no idea, the shifting faces of their fellow villagers giving an illusion of normalcy. 
+Среди низких кустарников и зарослей колючих растений будто притаился Дрич, по-видимому, в состоянии оцепенения. Из 39 жителей только 9 --- люди. Остальные на протяжении долгих поколений уничтожали себя, оставляя только двойников. Знающие люди отправляются в путешествие, чтобы нанять этих убийц и саботажников. 9 человек понятия не имеют, что их односельчане постоянно меняются, создавая иллюзию нормальности. 
 
-In the world, some 20 of their number are spread, coming home after their assignments. The wealth is buried - they only take it as a formality. 48912sp is buried beneath the village.
-	
-Stares linger on faces, and handshakes feel over-intimate. Visitors are scrutinised, dissected - memorised. If ever a need arose to borrow your face, it would be taken in an instant.
+Около 20 из них разбросаны по всему миру, они возвращаются домой после выполнения своих заданий. Сокровища зарыты --- они воспринимают их только как формальность. Под деревней похоронен 48912 см.
 
-_When the Roaming Court is here -_ faces blur, shift, change. Doubles are everywhere. Something is not right. Some of the Roaming Court is replaced.
+Взгляды задерживаются на лицах, а рукопожатия кажутся чересчур интимными. Посетителей тщательно изучают, препарируют --- запоминают. Если когда-нибудь возникнет необходимость позаимствовать ваше лицо, оно будет сделано в мгновение ока.
 
-2 footmen, 30 Doppelgangers. 
+*Когда здесь Бродячий двор* --- лица расплываются, смещаются, меняются. Двойники повсюду. Что-то не так. Часть Бродячего двора заменена.
+
+2 пехотинца, 30 двойников.
 
 ### 12.15 Gargoyle Bridge 
 
@@ -1515,32 +1515,32 @@ Lies will be paid, but when discovered mark the party as an enemy to any who wou
 
 8 пехотинцев, 10 застрельщиков.
 
-### 09.18 Haunted Flint Mine
+### 09.18 Кремневая шахта с привидениями
 
-A wound in the side of a hill shows signs of foot traffic. Within, hand-dug tunnels, the floor covered in flakes of flint. Worn antlers, mostly buried, protrude from the soil. Tittering and yelps can be heard from the depths. 35 Kobolds dwell within. They stalk intruders in bands of 3d6, throwing knives of flint before fleeing into the dark, leading to ambushes of a further 3d6 Kobolds.
+На склоне холма видны следы сапог. Внутри туннели, вырытые вручную, пол покрыт кремневыми отщепами. Из земли торчат потёртые оленьи рога, по большей части зарытые в землю. Из глубины доносятся хихиканье и визг. Внутри обитают 35 кобольдов. Они выслеживают незваных гостей группами по 3к6 особей, бросают кремневые ножи, а затем убегают в темноту, ведя преследователей в засаду к ещё 3к6 кобольдам.
 
-They are digging out their kin - each week after the first visit, 1d6 are dug out. If there are over 100, 2d6 are dug out a week. If there are over 200, they will dig deeper and unearth a Gothrog - the infection reaches bone.
+Они выкапывают своих сородичей --- каждую неделю после первого посещения выкапывается по к6 особей. Если их больше 100, то выкапывается 2к6 особей в неделю. Если их будет больше 200, они копнут глубже и обнаружат Готрога --- инфекция достигнет костей.
 
-The Gothrog, naming itself The Breaker of Crowns, will seek to establish itself a kingdom. If it fails to conquer Caernfon using the Kobolds, it will head for the Black Strath to dominate the Orcs of the mountains. The smoke and ash it gives off will allow the Orcs to operate during the day. The Breaker of Crowns cannot help but try and expand their reach endlessly. It wears a charm of golden arrowheads, and is able to cast _Protection from Missiles_ once a day.
+Готрог, называющий себя Сокрушителем корон, попытается основать собственное королевство. Если ему не удастся завоевать Кэрнфон с помощью кобольдов, он отправится в Чёрную лощину, чтобы господствовать над горными орками. Выделяющиеся при этом дым и пепел позволят оркам действовать в течение дня. Сокрушитель корон не может не пытаться бесконечно расширять сферу своего влияния. Он носит амулет в виде золотых наконечников стрел и способен использовать заклинание *защита от снарядов* один раз в день.
 
-The Kobolds have gathered some pitiful wealth (Monstrous I):
+Кобольды собрали кое-какие жалкие сокровища (Чудовища I):
 
-- 40sp in dirty Ergyng coins
-- 100sp in stolen food.
+- 40 см грязными монетами Эргинга
+- 100 см в виде украденной еды
 
-The Breaker of Crowns sits in a treasure-vault from Giantish times, laden with war-wealth (Monstrous V):
+Сокрушитель корон находится в сокровищнице времён Гигантов, наполненной военными сокровищами (Чудовища V):
 
-- 50 huge, golden coins, worked with human hands but sized for giants. Each worth 200sp.
-- 8 _Doubleface Drachm_ (&T)
-- 2000sp in huge bolts of silk in many fantastic, shimmering colours - enough to outfit a court.
-- 8 pouches of an unknown, extinct spice which causes euphoria if eaten or smoked. Worth 500sp each.
-- 100 _Throne Embers_ (&T)
-- 7 suits of _Thousand League Plate_ (&T)
-- _Ninorta_ (&T)
-- 4 Bags of Hydra Teeth
-- Dragon-Lung bellows
-- Five draughts of _Potion of Compression_ (&T)
-- Three _Proven Sons_ (&T)
+- 50 огромных золотых монет, изготовленных человеческими руками, но по размеру подходящих для гигантов. Каждая стоит 200 см.
+- 8 *двуликих драхм* (&T)
+- 2000 см в огромных рулонах шёлка фантастических, переливающихся цветов --- этого хватит, чтобы нарядить придворных.
+- 8 пакетиков неизвестной, исчезнувшей специи, которая вызывает эйфорию, если её съесть или выкурить. По 500 см за штуку.
+- 100 *углей трона* (&T)
+- 7 комплектов *лат тысячи лиг* (&T)
+- *Нинорта* (&T)
+- 4 мешка зубов гидры
+- Мехи из лёгких дракона
+- Пять глотков *зелья сжатия* (&T)
+- Три *проверенных сына* (&T)
 
 ### 11.18 Монастырь св. Гланирафора
 
@@ -1652,13 +1652,13 @@ He knows all the herbal Wards, but does not share them for fear of upsetting Eni
 
 8 застрельщиков плюс 3 рыбацкие лодки.
 
-### 08.19 Burnt Hillfort
+### 08.19 Сгоревшее городище
 
-Ravens wheel and play above the fallen stone walls. The earthworks atop the hills form ridges and exaggerations - the ditches filled with bramble and thistle. Within, the grass is thicker and greener in irregular circles. Stunted trees grow, using the remaining walls as a windbreak. It is always unseasonably warm atop within the ruins - snow never settles, always melting within the hour. Those camping here do not roll encounters in the night. 
+Вороны кружат и играют над разрушенными каменными стенами. Земляные валы на вершинах холмов образуют гребни и углубления --- рвы, заросшие ежевикой и чертополохом. Внутри, в неправильных кругах, трава гуще и зеленее. Чахлые деревья растут, используя остатки стен в качестве защиты от ветра. На вершине руин всегда не по сезону тепло --- снег никогда не оседает и всегда тает в течение часа. Те, кто разбивает здесь лагерь, ночью никого не встретят.
 
-### 09.19 Pyorran Wines 
+### 09.19 Пиоррские вина 
 
-Beside a tree, a covered wagon, barely hidden by some hacked-down branches. A dead horse, crow-worn, lies nearby. Within, 100 bottles of Pyorran wine - worth 40sp each. The owner of the cart is Gavin (1HD, Knife), a merchant in Caernfon, although he has nothing to prove this ownership. He will dispatch 15 mounted mercenaries to recover his cargo if needs be. They will (4-in-6 per settlement) track thieves through settlements, questioning and bribing locals.  The mercenaries will take the wine for themselves. 
+Рядом с деревом стоит крытая повозка, едва скрытая несколькими срубленными ветками. Неподалёку лежит мёртвая лошадь, изуродованная воронами. Внутри 100 бутылок пиоррского вина по 40 см за штуку. Владельцем повозки является Гэвин (1 КЗ, нож), торговец из Кэрнфона, хотя у него нет никаких доказательств этого владения. Он отправит 15 конных наёмников, чтобы забрать свой груз, если потребуется. Они будут (с шансом 4 из 6 для каждого населйнного пункта) выслеживать воров в поселениях, допрашивая и подкупая местных жителей. Вино наёмники заберут себе.
 
 ### 10.19 Fleeing Trees
 
@@ -1714,15 +1714,15 @@ Ouen (3HD, Leather, Bow, Axe) leads the band. His ears have been cut off to mark
 - *Друг Мурго* (&T)
 - 5 глотков *Змеиного напитка* (&T)
 
-### 08.20 Latin Tombstone
+### 08.20 Латинское надгробие
 
-A stone pillar atop the highest hill for miles. Atop the pillar, a statue, heavily worn by the weather. Carved into the pillar, Latin text: "GARRIUS, SON OF MARIAN, OF THE PRINCIPILLA DISTRICT FROM ROME, FIRST CENTURION OF THE NINTH LEGION, 20 YEARS OLD. HE FELL IN THE CONQUEST OF ALBANN AFTER KILLING A BARBARIAN PRIEST."
+Каменная колонна на вершине самого высокого холма на многие мили вокруг. На вершине колонны --- статуя, сильно потрёпанная погодой. На колонне вырезан текст на латыни: "ГАРРИУС, СЫН МАРИАНА, ИЗ РИМСКОГО ОКРУГА ПРИНЦИПИЛЛА, ПЕРВЫЙ ЦЕНТУРИОН ДЕВЯТОГО ЛЕГИОНА, 20 ЛЕТ. ОН ПАЛ ПРИ ЗАВОЕВАНИИ ОЛБАННА, УБИВ ВАРВАРСКОГО СВЯЩЕННИКА".
 
-### 09.20 Kerwyn 'o Eyes
+### 09.20 Кервин на Очах
 
-These hills are haunted by Kerwyn 'o Eyes, bedecked in stolen sight. An Ogre who desires eyes. If she sees eyes, she squats down low and stalks the head containing them. At night, the victim might awaken, a huge weight on their chest as large, clumsy fingers seek the soft wetness of eye-sockets. 
+На этих холмах обитает Кервин на Очах, украшенная украденным зрением. Людоедша, которая жаждет глаз. Если она видит глаза, она приседает пониже и крадётся к голове, в которой они находятся. Ночью жертва может проснуться с ощущением огромной тяжести на груди, пока большие неуклюжие пальцы ищут мягкую влагу в глазницах. 
 
-Kerwyn only kills as a side-effect. If it was easier to extract eyes from the living, she would. She carries 400 eyeballs, kept fresh by unknown means. 
+Кервин убивает только в качестве побочного эффекта. Если бы было проще извлечь глаза у живых, она бы так и делала. Она несёт на себе 400 глазных яблок, сохранившихся свежими неизвестным образом.
 
 ### 12.20 Bait Twins 
 
@@ -1782,11 +1782,11 @@ HD 7 / AC as Leather / Damage 1d6+2
 
 7 footmen plus 3 boats.
 
-### 09.21 Watching Whales
+### 09.21 Наблюдающие киты
 
-Whales wait off the coast, almost as if watching the shore. If a vessel launches, all dive too deep for harpooning. 
+Киты ждут у берега, как будто наблюдают за берегом. Если судно отчаливает, все ныряют слишком глубоко, чтобы поймать их гарпуном. 
 
-If one launched before dawn, they might swim up to the vessel and investigate, gently nudging the boat with their marine brows. 
+Если кто-то выйдет в море до рассвета, они могут подплыть к судну и исследовать его, слегка подталкивая лодку своими морскими бровями.
 
 ### 10.21 Ffordunum
 
