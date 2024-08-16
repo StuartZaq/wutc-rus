@@ -199,7 +199,7 @@ geometry: margin=1in
 Узловатые корни спускаются с потолка в этой камере. На них нанизаны раскрашенные тыквы, изображающие сцены поклонения природе и говорящие деревья. Что бы в них когда-то ни содержалось, оно давным-давно превратилось в труху.
 
 **a**  
-По пути в _6_, в стены этого коридора боковым профилем вмурованы скелеты. У некоторых в руках проржавевшие короткие мечи.
+По пути в *6*, в стены этого коридора боковым профилем вмурованы скелеты. У некоторых в руках проржавевшие короткие мечи.
 
 **3**  
 В этой камере было вырыто двадцать могил, каждая отмечена лопатой или киркой. На каждую был положен мешочек с 25 серебряными монетами. Если какой-либо из них будет взят, все броски реакции в гробнице будут иметь штраф -2.
@@ -234,7 +234,7 @@ geometry: margin=1in
 **11**  
 Стены покрыты раскрашенными деревянными досками, на которых изображены легионы на лодках, покидающие остров, задрапированный золотой тканью, под аплодисменты собственной армии. Во главе толпы стоит коронованная фигура.
 
-У южной стены возвышается каменный стол, на котором стоит саркофаг. На крышке изображён коронованный мужчина в доспехах, руки скрючены, но ничего не держат. Саркофаг, должно быть, был вскрыт, и он пуст. Если меч из _10_ вложить в руки фигуры, стены за обоими саркофагами медленно опускаются в пол, открывая два входа в _12._
+У южной стены возвышается каменный стол, на котором стоит саркофаг. На крышке изображён коронованный мужчина в доспехах, руки скрючены, но ничего не держат. Саркофаг, должно быть, был вскрыт, и он пуст. Если меч из *10* вложить в руки фигуры, стены за обоими саркофагами медленно опускаются в пол, открывая два входа в *12.*
 
 **12**  
 В стеклянном сосуде находится человек, не тронутый временем. На нём корона Бриттов, обёрнутая непрерывными лентами из перламутра и увенчанная изумрудами, стоимостью 12000 см для того, кто может себе это позволить. Его одеяние украшено золотыми нитями и пурпурными лентами. Мех горностая покрывает большую часть его часть. На его пальце *Украденная звезда*, излучающая нежный свет. Остальные пальцы увешаны серебряными и золотыми кольцами с драгоценными камнями --- всего 12, каждое стоимостью 350 см. В левой руке он держит *Дрот шипов*. Если сосуд разбить, тело быстро разлагается. Богатство остаётся нетронутым, за исключением одежды, которая испорчена.
@@ -269,12 +269,12 @@ geometry: margin=1in
 **e1**  
 Единственная тяжёлая деревянная дверь, укреплённая железными полосами, защищёнными от ржавчины. Она не заперта и хорошо смазана, открывается почти бесшумно. По обе стороны от двери стоят канделябры.
 
-*Если в колокол позвонили:* 4 жителя деревни с копьями и колокольчиками охраняют вход. Факелы окружают их по бокам. Дверь заперта изнутри на засов. Если они зазвонят в колокольчики, все остальные жители деревни и Медузы соберутся в _2_. Стражники у дверей потребуют, чтобы незваные гости покинули остров на ломаном пиктском языке. Чтобы выломать закрытую на засов дверь, требуется совокупная сила 45 и таран. Те, кто будут выбирать дверь, будут измотаны, получая штраф -2 ко всем броскам до конца дня.
+*Если в колокол позвонили:* 4 жителя деревни с копьями и колокольчиками охраняют вход. Факелы окружают их по бокам. Дверь заперта изнутри на засов. Если они зазвонят в колокольчики, все остальные жители деревни и Медузы соберутся в *2*. Стражники у дверей потребуют, чтобы незваные гости покинули остров на ломаном пиктском языке. Чтобы выломать закрытую на засов дверь, требуется совокупная сила 45 и таран. Те, кто будут выбирать дверь, будут измотаны, получая штраф -2 ко всем броскам до конца дня.
 
 **1**  
 Стены украшены мозаикой, изображающей рудокопов, богатства и резьбу по камню --- всё было отполировано до ослепительного блеска. Пол очищен от мусора.
 
-*Если позвонили в колокольчики:* каждый раунд из _2_ делают 8 выстрелов дальнобойными атаками --- 4 стрелы и 4 дротика. Кроме того, они бросают бутылки с чернилами, чтобы попытаться ослепить нападающих и испортить их зеркала. У них достаточно боеприпасов, чтобы делать это на протяжении 4 раундов. Если дела идут плохо, 3 Медузы вступят в бой, используя свои превращающие в камень лица. В этот момент жители деревни ложатся на пол, стремясь избежать случайного окаменения.
+*Если позвонили в колокольчики:* каждый раунд из *2* делают 8 выстрелов дальнобойными атаками --- 4 стрелы и 4 дротика. Кроме того, они бросают бутылки с чернилами, чтобы попытаться ослепить нападающих и испортить их зеркала. У них достаточно боеприпасов, чтобы делать это на протяжении 4 раундов. Если дела идут плохо, 3 Медузы вступят в бой, используя свои превращающие в камень лица. В этот момент жители деревни ложатся на пол, стремясь избежать случайного окаменения.
 
 **2**  
 Длинная комната с каменным столом, идущим перпендикулярно восточной стене. На столешнице вырезаны сцены сельскохозяйственного изобилия --- поднимаются и транспортируются огромные снопы пшеницы.
@@ -294,7 +294,7 @@ geometry: margin=1in
 **5**  
 В этой комнате установлен ряд небольших каменных постаментов, каждый из которых достаточно тяжёл, чтобы разбить выложенный каменной плиткой пол, если его сдвинуть.
 
-*Если в колокол позвонили:* 4 жителя деревни с копьями наблюдают за проходом в _4_. Они будут использовать постаменты в качестве прикрытия --- действуют как щит до тех пор, пока их не окружат с флангов.
+*Если в колокол позвонили:* 4 жителя деревни с копьями наблюдают за проходом в *4*. Они будут использовать постаменты в качестве прикрытия --- действуют как щит до тех пор, пока их не окружат с флангов.
 
 **6**  
 Маленькая комната, стены выкрашены чернилами. На картинах изображены сцены горящих городов и нежные прибрежные пейзажи. Внимательно наблюдая за картинами, можно заметить, что прибрежные сцены движутся --- это изображение побережья Лотинга.
@@ -303,13 +303,13 @@ geometry: margin=1in
 Высокое помещение, в крыше которого есть несколько узких окон. С потолка свисает огромный медный колокол с верёвочным звонарём. Это колокол, который призывает жителей деревни защищать сокровищницу.
 
 **e2**  
-С острого выступа скалы можно безопасно перепрыгнуть на крышу сокровищницы, что позволит проникнуть через окна в _7_ или спуститься во внутренний двор _3_.
+С острого выступа скалы можно безопасно перепрыгнуть на крышу сокровищницы, что позволит проникнуть через окна в *7* или спуститься во внутренний двор *3*.
 
 **8**  
 Длинное помещение, в котором доминирует длинный стол, уставленный различными весами и механизмами для измерения веса. В шкафу у западной стены хранится множество свинцовых гирь с точными весами, тщательно обозначенными латиницей.
 
 **9**  
-У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в _11_ и повёрнут одновременно. Это разблокирует _a_.  
+У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в *11* и повёрнут одновременно. Это разблокирует *a*.  
 Взлом механизма --- это проверка ловкости с помощью 6 кубиков --- неудача приводит к поломке механизма, повреждая его без возможности восстановления. Это становится очевидным, как только кто-то приступает к взлому --- в этот момент ещё не поздно остановится.
 
 **a**
@@ -339,11 +339,11 @@ geometry: margin=1in
 - *Открывашка* (&T)
 
 **11**  
-У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в _9_ и повёрнут одновременно. Это разблокирует _a_.  
+У стены возвышается механизм из латунных и железных шестерёнок. Выступающая часть представляет собой трубку, заканчивающуюся замочной скважиной. Ключ, который носит Сабина или который может быть найден в 15.09, подходит, но ни один из них нельзя повернуть по отдельности --- другой ключ должен быть вставлен в механизм в *9* и повёрнут одновременно. Это разблокирует *a*.  
 Взлом механизма --- это проверка ловкости с помощью 6 кубиков --- неудача приводит к поломке механизма, повреждая его без возможности восстановления. Это становится очевидным, как только кто-то приступает к взлому --- в этот момент ещё не поздно остановится.
 
 **12**  
-Рулоны ткани смягчают каменные стены этой камеры, каждый из которых многократно латался и ремонтировался. Груды шёлка скрывают ткацкие станки и наполовину вышитую одежду. Среди тканей ждёт Аэлина, голова которой увита водяными змеями яркой расцветки. Каждый день она надевает новый халат, всегда соответствующий цветам растений в _3_. Ткани --- весом 20 предметов --- стоят 2500 см.
+Рулоны ткани смягчают каменные стены этой камеры, каждый из которых многократно латался и ремонтировался. Груды шёлка скрывают ткацкие станки и наполовину вышитую одежду. Среди тканей ждёт Аэлина, голова которой увита водяными змеями яркой расцветки. Каждый день она надевает новый халат, всегда соответствующий цветам растений в *3*. Ткани --- весом 20 предметов --- стоят 2500 см.
 
 *Если в колокол позвонили:* Аэлины здесь нет. За 6 детьми с завязанными глазами ухаживают 4 пожилых жителя деревни.
 
@@ -367,7 +367,7 @@ geometry: margin=1in
 
 ## 21.05 Оросей
 
-Морская пещера ведет вглубь Оросея, демонстрируя признаки великолепной каменной обработки --- естественный потолок поддерживают колонны, на которых вырезаны плавные сцены празднеств и пыток. Проход не освещён, и невероятно длинный --- плыть по нему целый день --- ведёт в Подземный мир. Культ друидов называет его _Дубвин_, христианский _Ад_. Подробное описание этого царства выходит за рамки данного документа --- это скорее подземелье, чем ландшафт.
+Морская пещера ведет вглубь Оросея, демонстрируя признаки великолепной каменной обработки --- естественный потолок поддерживают колонны, на которых вырезаны плавные сцены празднеств и пыток. Проход не освещён, и невероятно длинный --- плыть по нему целый день --- ведёт в Подземный мир. Культ друидов называет его *Дубвин*, христианский *Ад*. Подробное описание этого царства выходит за рамки данного документа --- это скорее подземелье, чем ландшафт.
 
 ## 23.05 Мелиста, логово Бейтир
 
@@ -408,13 +408,13 @@ geometry: margin=1in
 
 - 40 пиктских серебряных монет.
 - 40 бутылок мёда, стоимостью 200 см.
-- _Клеймо_ многовековой давности. (&T)
+- *Клеймо* многовековой давности. (&T)
 - 12 каменных масок гноллов.
 - Вырванная страница из старой книги. На латыни здесь подробно описана безымянная могила. На ней содержится много предостережений о том, что могилу нельзя тревожить. Изучая горы, можно определить, что она находится в 12.11 (Гробница III):
 	+ 1000 см в серебряных монетах Форту
 	+ Десять корзин сушёных ароматных цветов --- всё ещё имеют резкий запах. Стоят 1000 см.
 	+ Один *пудинговый камень*. (&T)
-	+ 14 _жемчужин прокажённого._ (&T)
+	+ 14 *жемчужин прокажённого.* (&T)
 	+ Свинцовый гроб, закрытый и оплавленный. Внутри труп ведьмы.
 
 ### 08.03 Келкирк
@@ -534,12 +534,12 @@ geometry: margin=1in
 
 ### 12.05 Масочный отшельник
 
-Грязный, дряхлый старик мочится в развилку реки и мерзко смеётся про себя. Он носит три маски, каждая из которых сделана с лица орка. Он знает, как использовать заклинание _очарование монстра_, но никогда им не пользовался. Помимо прочего, он забыл своё имя и многое другое.  
+Грязный, дряхлый старик мочится в развилку реки и мерзко смеётся про себя. Он носит три маски, каждая из которых сделана с лица орка. Он знает, как использовать заклинание *очарование монстра*, но никогда им не пользовался. Помимо прочего, он забыл своё имя и многое другое.  
 Если он поймёт, что его заметили, он убежит в сторону гор (12.06). За ним нетрудно угнаться.
 
 ### 15.05 Древесный дворец
 
-_Внимание: магия контроля разума._
+*Внимание: магия контроля разума.*
 
 Густая листва Чёрной лощины приобретает здесь имитационную форму --- зал из искривлённых ветвей и корней в древесном сумраке. Ни одна птица не поёт здесь без разрешения самопровозглашённого монарха. Здесь обитает дриада, пятнадцать орков и пять пиктов, полностью подчиняющихся её воле. Все ждут в деревянном дворце, храня молчание, согласно её приказам. Любой громкий шум привлекает внимание дриады, которая посылает воинов схватить незваных гостей, чтобы получить от них "клятвы верности".
 
@@ -548,10 +548,10 @@ _Внимание: магия контроля разума._
 Дриада накопила некоторое богатство, понимая, что это является требованием королевской семьи. Оно лежит в небольшой кучке у кустарникового трона (Чудовище II):
 
 - 600 см в серебряных монетах Форту.
-- 200 _победных ауреусов._ (&T)
+- 200 *победных ауреусов.* (&T)
 - 3 запечатанных контейнера с благословенной почвой, использованной для засева церковного двора. Стоят 225 см.
 - 2 флакона духов --- куплены связанным воином. Пахнут увядающими цветами. Стоит 200 см.
-- Три дозы _Змеиной тяги._ (&T)
+- Три дозы *Змеиной тяги.* (&T)
 
 ### 16.05 Речные ловушки
 
@@ -601,16 +601,16 @@ _Внимание: магия контроля разума._
 
 Они вооружены копьями и щитами. У двадцати из них по короткому луку и по 20 стрел.
 
-Командир (4 КЗ, тяжёлая лакированная броня, _Не упокоенный мститель_ (&T), щит) древний, разбуженный первыми ударами кирки по стенам горы. Он знает обычаи людей. Он может говорить по-пиктски.
+Командир (4 КЗ, тяжёлая лакированная броня, *Не упокоенный мститель* (&T), щит) древний, разбуженный первыми ударами кирки по стенам горы. Он знает обычаи людей. Он может говорить по-пиктски.
 
 Они планируют сжечь форт, когда будут уходить --- когда в следующий раз пойдёт дождь, и каждый из них будет нагружен двумя железными слитками.
 
 Они собрали значительный клад (Чудовище III и Бандиты II):
 
 - 600 см в серебряных монетах Форту.
-- 200 _бронзовых имитаций._ (&T)
+- 200 *бронзовых имитаций.* (&T)
 - 100 слитков железа, стоимостью 4000 см.
-- Один глоток _жидкой чувствительности._ (&T)
+- Один глоток *жидкой чувствительности.* (&T)
 
 ### 19.06 Первая крепость
 
@@ -622,8 +622,8 @@ _Внимание: магия контроля разума._
 
 Они накопили богатство за время своей долгой войны. В камере для выращивания много чего навалено. (Чудовище IV):
 
-- 12 _двуликих драхм._ (&T)
-- _Демоноликая монета_ (&T) --- на аверсе изображена гримасничающая собачья голова.
+- 12 *двуликих драхм.* (&T)
+- *Демоноликая монета* (&T) --- на аверсе изображена гримасничающая собачья голова.
 	+ Демон внутри проявляется с оскаленной мордой пса, телом раздутого паука и ногами молодой женщины. Обожжённые детские ручки вытягиваются вперёд по обе стороны от головы. В последний раз его использовал проконсул Мариус --- он может говорить о заговорах и выслеживать добычу.
 - 6 слитков золотой руды стоимостью 800 см.
 - *Сердце дерева.* (&T)
@@ -661,12 +661,12 @@ _Внимание: магия контроля разума._
 Если язык попадает в яму, тот, кто уронил язык, восстанавливает к6 ОЗ.  
 В любом случае, запечатываемые раны покрываются густой, липкой слюной.
 
-Если оружие брошено, Аватар подползает, чтобы отомстить. Смотри _8_.
+Если оружие брошено, Аватар подползает, чтобы отомстить. Смотри *8*.
 
 **5**  
-Перед огромным человеком (КЗ 8, _Окровавленная доска_ (&T), меч) валяются скелеты. Он обнажён и густо покрыт татуировками с христианскими мотивами. Мечи заполняют комнату. Он встаёт со своего трона из мешковины и объявляет смерть незваным гостям на архаичном пиктском языке.
+Перед огромным человеком (КЗ 8, *Окровавленная доска* (&T), меч) валяются скелеты. Он обнажён и густо покрыт татуировками с христианскими мотивами. Мечи заполняют комнату. Он встаёт со своего трона из мешковины и объявляет смерть незваным гостям на архаичном пиктском языке.
 
-Мужчина носит _Подневольную руку_ (&T) и использует эту силу для атаки на расстояния, используя множество мечей в комнате, разрешая атаки обычным образом. Он не убегает.
+Мужчина носит *Подневольную руку* (&T) и использует эту силу для атаки на расстояния, используя множество мечей в комнате, разрешая атаки обычным образом. Он не убегает.
 
 Его сиденье сделано из мешочков с золотыми монетами, которыми ему заплатили - 400 монет, каждая достоинством в 10 см. На них нанесён оттиск на латыни, на одной стороне изображён орел. Надпись гласит: "ИМПЕРСКАЯ ПРОВИНЦИЯ ОЛБАНН --- МИЛОСТЬЮ ИМПЕРАТОРА АВГУСТИНА".
 
@@ -675,7 +675,7 @@ _Внимание: магия контроля разума._
 У нижнего края камеры сходятся несколько проходов --- деревянный пол обеспечивает удобство использования.
 
 **6**  
-Под деревянным полом, обеспечивающим доступ к _5_ и *7*, скрыт узкий 20-футовый спуск в широкую камеру в форме колбы. Гниющие кости заполняют пространство вместе с обрывками разрушенных доспехов, сделанных из стальных полос. Если поискать несколько часов, можно найти 200 крупных золотых монет (стоимостью 10 см каждая), а также бутылку _Ищущей тьмы_ (&T), спрятанную в складках халата.
+Под деревянным полом, обеспечивающим доступ к *5* и *7*, скрыт узкий 20-футовый спуск в широкую камеру в форме колбы. Гниющие кости заполняют пространство вместе с обрывками разрушенных доспехов, сделанных из стальных полос. Если поискать несколько часов, можно найти 200 крупных золотых монет (стоимостью 10 см каждая), а также бутылку *Ищущей тьмы* (&T), спрятанную в складках халата.
 
 Любой, кто проводит так много времени среди мёртвых, должен пройти спасбросок стойкости или подхватить болезнь. В течение следующих 3 дней они начинают кашлять отвратительной чёрной кашицей, смешанной с кровью. Это наносит 1к6 урона телосложению каждый день, который уменьшается вдвое, если не предпринимать никаких действий. Продолжайте проходить спасбросок стойкости каждый день --- если успешно пройти два спасброска подряд, болезнь проходит.
 
@@ -748,7 +748,7 @@ A nearby tree bends beneath the weight of the crows, waiting for the last cow to
 
 ### 13.08 Burnt Cairn
 
-Within an overhang stands a tall cairn, the stones scorched. The cairn is built around _Itheadair Cinnidh_ (&T). The weapon is unmarked by flames. 
+Within an overhang stands a tall cairn, the stones scorched. The cairn is built around *Itheadair Cinnidh* (&T). The weapon is unmarked by flames. 
 
 Within the cairn are burnt bones, a broken dagger, a sundered helm and a golden ring (50sp). The ring has 'FORGIVENESS' written in Latin on the outside.
 
@@ -796,7 +796,7 @@ At the base of the tunnels, they still guard the wealth left here (Monstrous III
 
 - 300 heavy gold coins. They are stamped in Latin, are have an eagle on one face. The inscription reads "IMPERIAL PROVINCE ALBANN - BY GRACE OF EMPEROR AUGUSTIN". Each is worth 10sp.
 - An ancient, vellum map of northern Albann written in Latin. It is wrapped around a slight brass key. All labels bar one have been crossed out in a scratchy hand. The isle of Lothing [21.03], has been labelled 'Treasury'.
-- 4 _Bitter Builders_ (&T)
+- 4 *Bitter Builders* (&T)
 
 ### 16.09 Quiet Pool
 
@@ -814,17 +814,17 @@ This is the home of a deathless sorcerer, Mergyl (3HD, None, Shortsword). They a
 
 They carry the following items:
 
-- 3 earth-stained wooden figurines (_used for Hold Person_).
-- 2 live Light-Drinking Cave Eels in a slimy jar (_used for Colour Spray_).
-- 2 sets of eyes harvested from mother foxes (_used to cast Darkness_).
-- a Cloud Giant finger (_used to cast Lightning Bolt_).
-- a bag of Hydra Teeth (_used to cast Animate Dead_).
-- a vial containing 3 doses of the _Blood of Command_ (&T) - affecting Plants.
+- 3 earth-stained wooden figurines (*used for Hold Person*).
+- 2 live Light-Drinking Cave Eels in a slimy jar (*used for Colour Spray*).
+- 2 sets of eyes harvested from mother foxes (*used to cast Darkness*).
+- a Cloud Giant finger (*used to cast Lightning Bolt*).
+- a bag of Hydra Teeth (*used to cast Animate Dead*).
+- a vial containing 3 doses of the *Blood of Command* (&T) - affecting Plants.
 
-Upon their finger is _Ommon._ (&T)
+Upon their finger is *Ommon.* (&T)
 
-They are willing to gift the knowledge and material components for _Hold Person, Colour Spray_ and _Darkness_ for those able to bring him a griffon chick. He knows about the nest in Shoal (05.05). They call down this offer from a window on the Second Floor to those approaching. He wishes to groom the griffon for marriage, thereby adding _Fly_ to his repertoire.  
-If violence looks likely, they will cast _Hold Person_, then _Darkness_, then _Animate Dead_. _Colour Spray_ is used if any manage to enter the tower, and _Lightning Bolt_ only if defeat seems likely.
+They are willing to gift the knowledge and material components for *Hold Person, Colour Spray* and *Darkness* for those able to bring him a griffon chick. He knows about the nest in Shoal (05.05). They call down this offer from a window on the Second Floor to those approaching. He wishes to groom the griffon for marriage, thereby adding *Fly* to his repertoire.  
+If violence looks likely, they will cast *Hold Person*, then *Darkness*, then *Animate Dead*. *Colour Spray* is used if any manage to enter the tower, and *Lightning Bolt* only if defeat seems likely.
 
 **Ground Floor**  
 Unlit and dusty - sounds echoes strangely in this cramped chamber. A borehole leads straight down into the rock - a rope heading straight down. Hauling on the rope for 5 minutes brings up a Light-Drinking Cave Eel. Live bait is required to attract another. Fishing for more than 3 days consecutively will kill the population of eels. A half-ladder leads up to the First Floor. 
@@ -845,7 +845,7 @@ Entirely empty bar a small floor cushion - this is where Mergyl sits and worries
 
 ### 13.10 Driven Warrior
 
-A young Brythonic warrior, Ortor (2HD, Shield, Sword) pulls on his horses reins - the horse being stuck in the thick mud. He does not ask for help with words - but has plenty of pleading looks. To those who help, he explains that he seeks _Itheadair Cinnidh,_ an enchanted blade. He would use it to kill the father of his beloved, who denies them marriage. He has heard it lies somewhere in the mountains.  
+A young Brythonic warrior, Ortor (2HD, Shield, Sword) pulls on his horses reins - the horse being stuck in the thick mud. He does not ask for help with words - but has plenty of pleading looks. To those who help, he explains that he seeks *Itheadair Cinnidh,* an enchanted blade. He would use it to kill the father of his beloved, who denies them marriage. He has heard it lies somewhere in the mountains.  
 Unassisted, he will be killed by orcs.
 
 Unfortunately for Ortor, patricide will not endear his beloved. 
@@ -854,7 +854,7 @@ Unfortunately for Ortor, patricide will not endear his beloved.
 
 A wound in the side of a hill, 2' across. Within is a shimmering lump of meteoric iron, shrouded in alien glasses. A crystallised badger skeleton is fused with it, but can be broken off if careful.
 
-There is enough iron to make a sword, or two shortswords. Powdered entirely, it is enough for five castings of _Teleport._
+There is enough iron to make a sword, or two shortswords. Powdered entirely, it is enough for five castings of *Teleport.*
 
 ### 10.11 Бричдин 
 
@@ -872,12 +872,12 @@ There is enough iron to make a sword, or two shortswords. Powdered entirely, it 
 
 40 всадников (КБ как лёгкий доспех)
 
-### 11.11 Fleeing Baker
+### 11.11 Бегство от Пекаря
 
-Travelling through the hills, a young peasant, Eilian, explodes out of the undergrowth and tries to hide in any carts, or simply behind the party. In Brythonic, they promise to explain later. Pursuing them comes a tall, angry older peasant, who demands to know if the party as seen 'a young waif or such.' They brandish a rolling pin.
+Путешествуя по холмам, молодой крестьянин Эйлиан выскакивает из подлеска и пытается спрятаться за телегами или просто за спинами группы. На бриттском он обещает объясниться позже. За ними гонится высокий, сердитый пожилой крестьянин, который требует сообщить, не видели ли они <<малолетнего беспризорника или что-то в этом роде>>. Он размахивает скалкой.
 
-If the party hand over Eilian, they receive a clip around the ear and are dragged back to Rhaglan.  
-If not, Eilian thanks them - they were held in an unfair apprenticeship as a cheesemaker, and decided to flee. They have yet to consider a plan much beyond this. 
+Если отряд выдаст Эйлиана, он получит оплеуху и его утащат обратно в Раглан.  
+В противном случае, Эйлиан отблагодарит их --- его несправедливо взяли в ученики к сыроварам, и они решили сбежать. Ему ещё предстоит обдумать план, гораздо более серьёзный.
 
 ### 15.11 Dun Bedale 
 
@@ -931,24 +931,24 @@ A huge, dirty sack, made just for him, contains all his possessions (Monstrous I
 - 600sp
 - 2 vials of ambergris, worth 300sp.
 - 20 rations of smoked bacon, worth 400sp.
-- A tub of _The Reviled Ointment_ (&T) - enough for 4 uses.
+- A tub of *The Reviled Ointment* (&T) - enough for 4 uses.
 - 11 animal corpses in various states of decomposition.
 
-### 12.12 Rhaglan 
+### 12.12 Раглан 
 
-The village of Rhaglan is surrounded by their long-legged wetland cows. Picts, Norsefolk and Ruis alike do not trust these bovines - only Brythons herd them. Between the herds, raised beehives are dotted, a somnolent buzzing emerging at all hours.
+Деревня Раглан окружена их длинноногими болотными коровами. Пикты, варяги и райсы не доверяют этим животным --- их пасут только бритты. Между стадами разбросаны ульи, из которых в любое время суток доносится усыпляющее жужжание.
 
-The 98 inhabitants of Rhaglan make much of their cheese - each cluster of buildings another secret recipe. Rivalry is common - the young men of each farmstead often race on horseback, kicking and shoving one another. Death or injury is not punished. Apprentices from other villages make up for those lost to the races.
+98 жителей Раглана варят много сыра --- в каждом комплексе зданий есть свой секретный рецепт. Здесь распространено соперничество --- молодые люди из каждой усадьбы часто соревнуются верхом, пиная и пихая друг друга. Смерть или увечья не наказываются. Подмастерья из других деревень восполняют потери на скачках.
 
-Siôn (3HD, Leather, Bow, Sword) killed four in his youth, and has buried four sons in turn. His authority is Rhaglan is absolute when it comes to outsiders. Internal disputes do not concern him.
+Сион (3 КЗ, кожаный доспех, лук, меч) в юности убил четверых и по очереди похоронил четверых сыновей. Его авторитет в Раглане абсолютен, когда дело касается посторонних. Внутренние споры его не касаются.
 
-A third of the cows and hives bear the mark of the Roaming Court, earmarked for consumption when they next visit.
+Треть коров и ульев имеют метку Бродячего двора, предназначенную для употребления в пищу при следующем посещении.
 
-The elders know that the blood, skull or shoe of a horse protect from witch-craft, although there has been no cause to use such a ward for years.
+Старейшины знают, что кровь, череп или подкова лошади защищают от колдовства, хотя уже много лет не было причин использовать такие амулеты.
 
-_When the Roaming Court is here -_ a huge slaughter and smoking of meat and cheese as the Court resupplies. 
+*Когда здесь Бродячий двор* --- массово забивают и коптят мясо и сыры, чтобы пополнить запасы Двора. 
 
-10 skirmishers, 10 horsemen (AC as leather).
+10 застрельщиков, 10 всадников (КБ как кожаный доспех).
 
 ### 14.12 Bog Pigs
 
@@ -976,11 +976,11 @@ Combining the contents of nine king-barrows gives an abundance of grave-goods (T
 - 3 vials of sacred unguents, worth 300sp.
 - 5 sacks of (still viable) ornamental seeds, for growth in the afterlife. Worth 400sp.
 - 9 rings for rulers dead - worth 900sp.
-- _Gilt Chariot_ (&T)
-- _Giantish Sword_ (&T)
-- A single measure of _The Eager Dose._ (&T)
-- A _Learned Spider,_ (&T) trapped in a glass jar - hibernating.
-- A pouch of _Worm Bones._ (&T)
+- *Gilt Chariot* (&T)
+- *Giantish Sword* (&T)
+- A single measure of *The Eager Dose.* (&T)
+- A *Learned Spider,* (&T) trapped in a glass jar - hibernating.
+- A pouch of *Worm Bones.* (&T)
 
 ### 19.12 Auld Emyr
 
@@ -1037,20 +1037,20 @@ Ten suits of fire-chewed armour are clustered together in the middle of this cha
 ***6***  
 A huge assemblage of scorched bones, unchewed, form a cone towards the Eastern wall. Flattened rats - forming discs of fur - litter the floor by the entrances. If an open flame is carried into the room, it uncoils, a Salamander - and seeks to warm itself. Fire or blood - both will be pursued. Neither will satisfy. 
 
-If any are adjacent to the Eastern wall when the Salamander attacks and misses, the wall is destroyed, revealing the hidden room _G._ Otherwise, this will have to be found and done with hammers and picks - 3 Turns of work.
+If any are adjacent to the Eastern wall when the Salamander attacks and misses, the wall is destroyed, revealing the hidden room *G.* Otherwise, this will have to be found and done with hammers and picks - 3 Turns of work.
 
 ***7***  
-Wooden Druidic sculpture, heavy with Ghom carvings, shares space with golden Christian iconography. Locked (but dry-rotted) chests contain the wealth of the kingdom denied to the invaders. Before a black granite statuette of Onthloug, three-armed, bearing weapons, the proliferation of tongues holding laughing children, is the body of Dyfid, dried but unchewed by rats. At her hip is a _Cracked Horn_ (&T), and upon her finger a _False Gift_ (&T). She wears silvered mail and a sword with milky opals in the hilt (worth 400sp). 
+Wooden Druidic sculpture, heavy with Ghom carvings, shares space with golden Christian iconography. Locked (but dry-rotted) chests contain the wealth of the kingdom denied to the invaders. Before a black granite statuette of Onthloug, three-armed, bearing weapons, the proliferation of tongues holding laughing children, is the body of Dyfid, dried but unchewed by rats. At her hip is a *Cracked Horn* (&T), and upon her finger a *False Gift* (&T). She wears silvered mail and a sword with milky opals in the hilt (worth 400sp). 
 
 In the chests (Tomb IV*): 
 
 - 1200sp in old silver Brythonic coins.
-- 15 _Doubleface Drachm_ (&T)
+- 15 *Doubleface Drachm* (&T)
 - A chest-full of mixed quality jewellery - worth 800sp in total. 
 
 The assorted religious icons could be sold for 1000sp, but would fill a wagon. 
 
-*_Note that some of the hoard is hidden further in._
+\* *Note that some of the hoard is hidden further in.*
 
 ***8***  
 The stones are far more cracked here than elsewhere - the soot thicker and darker. Nothing else remains of any contents. Any Fire Elementals brought here add 2 HD and add 2 to all Damage rolls.
@@ -1079,13 +1079,13 @@ The earliest panels depict the coming of invaders from the sea, armoured in band
 In rusted maille, 11 Skeletons grip axes. Scraps of burnt flesh still cling to their bones - rendered fat to their amour. They await the breach from the invaders. 
 
 ***5***  
-Deformed iron bars separate off six smaller cells - four of which contain piles of bone, backed into the corners. Gates set into the bars are fused - 3 Turns work to pry each loose. Amongst each pile of bones, 1d6 _Victory Aureus_ (&T) can be found, depicting a boar being torn to pieces.
+Deformed iron bars separate off six smaller cells - four of which contain piles of bone, backed into the corners. Gates set into the bars are fused - 3 Turns work to pry each loose. Amongst each pile of bones, 1d6 *Victory Aureus* (&T) can be found, depicting a boar being torn to pieces.
 
 ***6***  
 Amongst half-burnt furniture and scraps of fabric, a Salamander coils, dying over and over. The glow is less than embers - in such a state, it is all the more eager to steal your heat. 
 
 ***7***  
-The walls are marked with the scorched remains of tapestries. In the centre of the room, a pedestal, untouched by flames. Atop it, a _Genealogical Tree,_ detailing the lineage of Dyfid and her hero-ancestors who overthrew invaders once before. 
+The walls are marked with the scorched remains of tapestries. In the centre of the room, a pedestal, untouched by flames. Atop it, a *Genealogical Tree,* detailing the lineage of Dyfid and her hero-ancestors who overthrew invaders once before. 
 
 ***8***  
 A mineral stink precedes this room. Boiled out from the walls and the earth, the blood of conquests, execution and dynastic oppression has formed into a Black Pudding - dormant until torchlight rouses it. It will pursue as long as it takes, crawling across the countryside - blighting the earth.
@@ -1114,13 +1114,13 @@ A mineral stink precedes this room. Boiled out from the walls and the earth, the
 
 Вероятность того, что они находятся в своем логове, составляет 20%, в противном случае они возвращаются с шансом 2 из 6 каждый ход. Из можно будет услышать за 1 ход до того, как они вернуться, они будут вопить и улюлюкать, таща труп животного, либо загоняя живого зверя, бросая камни и размахивая двуручными дубинами.
 
-### 13.13 Maeyfed
+### 13.13 Мэйфед
 
-Much smoke rises from the hastily erected chimneys of Maeyfed - home to 160, and stretched to the limit. Of the population, nearly half fled Norsefolk rule during the foundation of Hwicce - or else are the children of these refugees. This has led to a stratification - the Old Families keep to themselves, and are unlikely to share with the Young Families happily. They keep their houses tidy whilst the new shelters succumb to rot.
+Из наспех возведённых дымоходов Мэйфеда, где проживает 160 человек, поднимается много дыма, и они напряжены до предела. Почти половина населения бежала от правления варяг во время основания Хвичче --- или же это дети этих беженцев. Это привело к расслоению --- старые семьи держатся особняком и вряд ли будут счастливы делиться с молодыми семьями. Они поддерживают порядок в своих домах, в то время как новые укрытия приходят в упадок.
 
-Cathan (2HD, Shield, Sling, Sword) finds himself representing the Young half the village. Naturally, he is in a secret relationship with Mari, the daughter of Seren (3HD, Maille, Club), the matriarch of the Old Families. Seren plans to allow a marriage if both leave the village - Mari hopes such a union would heal the rift. 
+Катан (2 КЗ, щит, праща, меч) представляет молодую половину деревни. Естественно, он состоит в тайных отношениях с Мари, дочерью Серен (3 КЗ, кольчуга, дубинка), матриарха старых семей. Серен планирует разрешить брак, если они оба покинут деревню --- Мари надеется, что такой союз устранит раскол. 
 
-20 footmen, 10 skirmishers.
+20 пехотинцев, 10 застрельщиков.
 
 ### 15.13 Eightfold Sacrifice Returned
 
@@ -1186,28 +1186,28 @@ HD 14 / AC as Plate / Damage 1d6+3
 В случае угрозы они убегут и донесут на вас своей семье, что, несомненно, вызовет проблемы.  
 В случае убийства за их местонахождение будет объявлена награда в размере 500 см.
 
-### 11.14 St Anfan's Monastery
+### 11.14 Монастырь св. Анфана
 
-At the centre of a spread of small gardens, a monastery of grey stone housing 75 monks. Wicker beehives are scattered throughout - the low hum of bees is constant. Eleven standards are planted in the earth nearby - marking the presence of noble houses. Each is worn, the heraldic animals animated by the wind. 
+В центре небольшого сада находится монастырь из серого камня, в котором проживают 75 монахов. Повсюду разбросаны плетёные ульи, из которых не прекращается низкое жужжание пчёл. Поблизости в землю воткнуты одиннадцать штандартов, обозначающих присутствие знатных домов. Все они изношены, а ветер оживляет геральдических животных на них. 
 
-The abbot, Tomos, is not a favourite of King Cadoc - the Roaming Court never visits the monastery. A collection of 11 disfavoured nobles fill the hostels. None would move openly against the King - but they could be convinced to, with a suitable plan. Any such plots overheard are retold to Tomos who informs Prince Llwelyn via messenger. The Prince will use this as blackmail to involve plotters (player characters and nobles alike) in his schemes. 
+Настоятель Томос не является фаворитом короля Кадока --- Бродячий двор никогда не посещает монастырь. В общежитиях проживает 11 дворян, находящихся в немилости. Никто из них не выступил бы открыто против короля, но их можно убедить, разработав подходящий план. Все подслушанные заговоры передаются Томосу, который сообщает принцу Ллуэлину через посыльного. Принц использует это как шантаж, чтобы вовлечь заговорщиков (как персонажей игроков, так и дворян) в свои планы. 
 
-The monks cultivate the ivy clinging to the building carefully - explaining it is God's hand of protection against witches or the devils of the land.
+Монахи заботливо ухаживают за плющом, обвивающим здание, объясняя, что это Божья рука, защищающая от ведьм и дьяволов.
 
-The Monastery is wealthy (Temple II):
+Монастырь богат (Храм II):
 
-- 4000sp in silver Ergyng coins
-- 53 silver _Nomad Bowls_ (&T)
-- 71 gold _Nomad Bowls_ (&T)
-- 5 bottles of Ergyng wine, worth 100sp
-- A figurine of St Anfan in ivory, worth 400sp
-- Atop one of the graves the Monastery overlooks, a _Puddingstone_ (&T). Within the grave is a Fallen Druid (_as Druid, serving Onthloug_), not permitted to die but unable to escape the grave, the weight of earth sealing them within. 
+- 4000 см в серебряных монетах Эргинга
+- 53 серебряные *чашечки кочевников* (&T)
+- 71 золотая *чашечка кочевников* (&T)
+- 5 бутылок Эргингского вина стоимостью 100 см
+- Статуэтка св. Анфана из слоновой кости стоимостью 400 см
+- На вершине одной из могил, с которой открывается вид на монастырь, находится *пудинговый камень* (&T). В могиле лежит Павший друид (*друид, служащий Онтлугу*), которому не позволено умереть, но он не может выбраться из могилы, так как тяжесть земли запечатывает его внутри.
 
-### 12.14 Elfhome
+### 12.14 Эльфийский дом
 
-Beside the river, a ramshackle camp - fireless, invisible at night. 19 Elves dwell within - wearing worn, cast-off clothing and holding makeshift weapons. Their faces are unmarked but for vague confusion. They remember nothing but emerging from the river. Some have drowned themselves trying to return to the river. Those remaining wait for others to come - each month, another 1d4 emerge and join the camp. They have nothing to offer, but are starving - untrained in fishing or hunting. 
+На берегу реки стоит ветхий лагерь --- без костра, невидимый ночью. В нём обитают 19 эльфов, одетых в поношенную одежду изгнанников и держащих в руках самодельное оружие. На их лицах ничего не видно, кроме смутного замешательства. Они ничего не помнят, кроме того, как выбрались из реки. Некоторые утонули, пытаясь вернуться в реку. Те, кто остался, ждут прихода других --- каждый месяц появляется ещё к4 эльфа и присоединяется к лагерю. Им нечего предложить, но они голодают --- они не обучены рыбной ловле или охоте. 
 
-They have the feeling of visitors. When one dies, the corpse decomposes in minutes. They have a lifespan of 24 months, and gain the knowledge of a random spell for each month of life after the first year. The oldest here is 11 months old.  
+Они чувствуют себя инопланетными гостями. Когда кто-то умирает, труп разлагается за считанные минуты. Продолжительность их жизни составляет 24 месяца, и по истечении первого года они получают знания о случайном заклинании на каждый месяц жизни. Самому старшему из них 11 месяцев.
 
 ### 16.14 Sculptor's House
 
@@ -1253,25 +1253,25 @@ All of the corpses have serious wounds, half-healed before death.
 
 2 пехотинца, 30 двойников.
 
-### 12.15 Gargoyle Bridge 
+### 12.15 Мост с горгульями 
 
-A wide, weathered stone bridge crosses the water. On both sides, squat gargoyles have been carved into the bridge itself, their mouths wide open. Looking into the mouth, it slopes towards an opening in the throat. If a coin is deposited in the mouth, it slides down and lands somewhere inside the gargoyle with a clink of metal on metal. Re-roll all encounters for the next d6 days, and take the highest result.
+Широкий, выветрившийся каменный мост пересекает реку. По обеим сторонам моста высечены приземистые горгульи с широко открытыми ртами. Если заглянуть в пасть, то можно увидеть, что она переходит в горло. Если монета попадет в рот, она соскользнёт вниз и приземлится где-нибудь внутри горгульи со звоном металла о металл. В течение следующих к6 дней перебрасывайте все броски на случайные столкновения, беря большее значение.
 
-If one (or both) gargoyles are interfered with, reroll any encounter results of 'No encounter' for the next d6 weeks.
+Если вы посягнёсе на одну (или обе) горгульи, следующие к6 недель перебрасывайте все результаты "Без столкновения".
 
-Each has 20 usable gold coins in their belly - the rest are corroded silver and bronze.
+У каждой в животе по 20 пригодных к употреблению золотых монет, остальные --- из проржавевшего серебра и бронзы.
 
-### 13.15 Druidic Runestone 
+### 13.15 Друидический рунический камень 
 
-Hidden amongst the vegetation, a mossclad runestone. It is inscribed in Ghom, and reads: 
+Спрятанный среди растительности, покрытый мхом рунический камень. Надпись на нём сделана на гоме и гласит: 
 
-"ROADS CAST   
-AS A NET ACROSS  
-MOTHER SOIL  
-DEMANDS TEETH  
-TO CLEANSE"
+<<ДОРОГИ, РАСКИНУТЫЕ,  
+КАК СЕТЬ  
+ПО РОДНОЙ ЗЕМЛЕ,  
+ТРЕБУЮТ ЗУБОВ  
+ДЛЯ ОЧИЩЕНИЯ>>
 
-Beneath this inscription, a carving. Many small, simple figures flee before a giant with eight waving tendrils emerging from its head. 
+Под этой надписью высечен рисунок. Множество маленьких, простых фигурок убегают от гиганта с восемью развевающимися усиками, торчащими из его головы.
 
 ### 14.15 Stashed Components
 
@@ -1330,26 +1330,26 @@ Each wears scraps of ruined armour, and weapons rusted to clubs. Statistics as Z
 
 15 застрельщиков.
 
-### 10.16 Faceless Tomb 
+### 10.16 Безликая гробница 
 
-Hidden in a fold between the hills, an unmarked tomb made of huge stone blocks. They show signs of being moved with tools. It takes a combined Strength of 40 to move. Within are 30 skeletons. Instead of faces, they have a plane of smooth, rounded bone. 
+В прогалине между холмами находится безымянная гробница, сложенная из огромных каменных блоков. На них видны следы того, что их передвигали с помощью инструментов. Для перемещения требуется общая Сила 40. Внутри находятся 30 скелетов. Вместо лиц у них гладкая, округлая костяная пластина. 
 
-Amongst the bone, various pieces of low-value jewellery in a variety of styles - worth 300sp.
+Среди костей --- различные недорогие украшения в различных стилях стоимостью 300 см.
 
-### 11.16 Ogre Mound
+### 11.16 Курган огров
 
-Rivalling the height of the trees, an immense mound. It is made of everything - all manner of items, plants, animals, minerals - thrown into a stinking heap. A tunnel has been precariously scooped out - and leads to a central hollow chamber, the stench overpowering. This is where two Ogres lair. Currently, they only desire to possess one another - fingers in mouths, pressed together, heaving and pulling. If interrupted, they will kill intruders, add their possessions and corpses to the mound.
+Огромный курган, по высоте не уступающий деревьям. Он состоит из всего --- всевозможных предметов, растений, животных, минералов --- сваленных в зловонную кучу. Туннель был ненадёжно вырыт и ведёт в центральную полую камеру, в которой стоит невыносимое зловоние. Именно здесь находятся логова двух огров. В настоящее время они хотят только обладать друг другом --- засунув пальцы в рот, прижавшись друг к другу, вздымаясь и притягивая друг друга. Если их прервать, они убьют незваных гостей и добавят их имущество и трупы к кургану.
 
-For each day spent sifting through their hoard, a Physique save is required to avoid contracting a serious corpse-illness. This deals 1d6 Constitution damage damage each day. A Physique save should be made each day - two consecutive successes indicating recovery. Once recovered, 1d4 Constitution returns a day. Reaching 0 Constitution indicates death.
+За каждый день, потраченный на изучение их запасов, требуется спасбросок Стойкости, чтобы избежать серьёзной трупной болезни. Она наносит к6 урона по Телосложению каждый день. После заражения спасбросок Стойкости потребуется делать каждый день --- два последовательных успеха означают выздоровление. После восстановления, 1d4 Телосложения восстанавливается ежедневно. Если Телосложение упадёт до 0, вы умираете.
 
-Their combined hoard is considerable (Monstrous III):
+Их общий клад значителен (Чудовища III):
 
-- 800sp in Ergyng coins.
-- A small bag of uncut precious stones - worth 250sp.
-- _Fools Cymbals._ (&T)
-- _Hulghavar._ (&T)
-- 14 _Leper Pearls._ (&T)
-- 4 draughts of _Goldsong Elixir._ (&T)
+- 800 см монетами Эргинга.
+- Небольшой мешочек с необработанными драгоценными камнями стоимостью 250 см.
+- *Кимвалы дурака.* (&T)
+- *Халхавар.* (&T)
+- 14 *жемчужин прокажённых.* (&T)
+- 4 глотков *элексира золотой песни.* (&T)
 
 ### 13.16 Tongueless Wolfkiller 
 
@@ -1420,40 +1420,40 @@ There is a 1-in-6 chance a Fallen Druid is present on any given visit.
 
 Он брат Чулага (11.18) --- они могут убить друг друга.
 
-### 11.17 A Witch
+### 11.17 Ведьма
 
-Where the trees grow thick a moss-heavy hovel sits. From the eaves hang all manner of dried animal components. Birds on nearby trees watch closely, leaving the anarchic sprawl of a garden unmolested.
+Там, где деревья растут гуще, стоит лачуга, поросшая мхом. С карнизов свисают всевозможные сушёные продукты животного происхождения. Птицы на ближайших деревьях внимательно наблюдают за происходящим, не нарушая беспорядочного разрастания сада.
 
-This is the house of Enid (3HD, Shortsword). She is only the latest to dwell here - a long line of witches uninterrupted by new churches or invaders from the sea. All in Ergyng know how to find her, although such a journey is never made lightly. 
+Это дом Энид (3 КЗ, короткий меч). Она лишь последняя из живущих здесь --- длинный род ведьм, который, который не прервали новые церкви или захватчики с моря. Все в Эргинге знают, как найти её, хотя такое путешествие никогда не даётся легко. 
 
-Any work undertaken by a witch does not come free. 
+Любая работа, за которую берётся ведьма, не даётся бесплатно. 
 
-Enid seeks an apprentice - she feels her bones becoming long. She would see Atiq dead for his hunting of magic users. If either of these are done, she offers hospitality. If both are done, her loyalty would last as long as she drew breath. She would be willing to teach any spells and wards to such friends. 
+Энид ищет ученика --- она чувствует, что её кости становятся длиннее. Она хотела бы видеть Атика мёртвым из-за его охоты на чародеев. Если что-то из этого будет сделано, она предложит гостеприимство. Если будет сделано и то, и другое, её верность будет длиться до тех пор, пока она дышит. Она была бы готова обучить таких друзей любым заклинаниям и амулетам. 
 
-She has the knowledge of the following spells, and has the components for any marked with an \*. Animal Growth\*, Baleful Polymorph, Charm Monster, Charm Person\*, Clairvoyance\*, Confusion\*, Cure Light Wounds\*, Cure Critical Wounds, Detect Magic\*, Fly\*, Light, Sleep\*.
+Она знает следующие заклинания, и у неё есть компоненты для любого из них, отмеченного символом \*. Рост животных\*, Зловещий полиморф, Очарование монстра, Очарование персоны\*, Ясновидение\*, Путаница\*, Лечение лёгких ран\*, Лечение критических ран, Обнаружить магию\*, Полёт\*, Свет, Сон\*.
 
-She knows all the uses of plants for Warding, but guards this knowledge jealously. 
+Она знает всё о том, как использовать растения для защиты, но ревностно оберегает это знание. 
 
-Hidden in the hovel, the accrued ephemera of generations (Magic User II):
+Спрятанное в лачуге, накопленное за несколько поколений сокровище (Маг II):
 
-- 400sp in a mix of many different coins.
-- 6 _Doubleface Drachm._(&T)
-- 1 _Demonface Coin_ (&T). The obverse depicts a dessicated human face.
-	+ The demon within manifests as a shrivelled warrior of the invokers culture. Their weapons are all flowing silver and cold white fire. It wishes only to slay other supernatural beings. After the killing, demands 1 human sacrifice per HD the target had. This price must be paid within the hour, or the invoker is taken instead. 
-- 10 pouches of various spices, transported over many seas. Worth 400sp.
-- 15 _Silver Nails_ (&T)
+- 400 см представленных разными монетами.
+- 6 *двуликих драхм* (&T)
+- 1 *Монета с лицом демона* (&T). На аверсе изображено иссушенное человеческое лицо.
+	+ Демон внутри проявляется как сморщенный воин из культуры призывателей. Всё их оружие --- струится серебром и холоднм белым огнём. Он желает убивать только других сверхъестественных существ. После убийства требует 1 человеческую жертву за каждый КЗ цели. Эта цена должна быть оплачена в течение часа, в противном случае он заберёт призывателя в уплату. 
+- 10 мешочков с различными специями, перевозимыми через многие моря. Стоимость 400 см.
+- 15 *серебряных гвоздей* (&T)
 
-### 12.17 Rhedynfre
+### 12.17 Редингфре
 
-Upon the river forks in the shallows of Moerheb Weald, Rhedynfre sits. 62 dwell in the simple houses of wood, the trees festooned with simple carved charms depicting arboreal predators. With each fish they take, they thank the river. Each deer felled is given a name. 
+Там где река вытекает в лощины Мёрхеб Вельд, стоит Редингфре. 62 жителя живут в простых деревянных домах, деревья украшены простыми резными оберегами, изображающими древесных хищников. За каждую пойманную рыбу они благодарят реку. Каждому убитому оленю дают имя. 
 
-Eight in the village keep themselves apart - houses of stone, laid long ago. Metal gates stand over fresh wooden doors, sap still bleeding from the planks. Once a month, they take food and are locked in.
+Восемь домов в деревне стоят особняком --- каменные, построенные давным-давно. Металлические ворота закрывают свежие деревянные двери, из досок ещё сочится сок. Раз в месяц им приносят еду, и их запирают.
 
-They are the Werewolves of Rhedynfre. They are able to transform at will, but are compelled to feed by the moon. Internally, they debate if they should take action against Hwicce. Their sacrifices buy the safety of the village, and all are given respect. They are named Newyddilyn, Bwlch, Gruffudd, Saith, Reece, Cled, Caron, Dafydd, Gilvaethwy and Pedr. They despise the Fallen Druids. 
+Они --- оборотни из Редингфре. Они способны превращаться по своему желанию, но вынуждены питаться по зову луны. Внутри себя они спорят, стоит ли им принимать меры против Хвичче. Их жертвы обеспечивают безопасность деревни, и все они пользуются уважением. Их зовут Ньюиддилин, Булч, Груффуд, Сайтх, Рис, Клед, Карон, Дафидд, Гилветви и Педр. Они презирают Падших друидов. 
 
-The Roaming Court does not visit here - they err away from the forest. 
+Бродячий двор сюда не заглядывает --- они держатся подальше от леса. 
 
-10 skirmishers, 8 werewolves
+10 застрельщиков, 8 оборотней
 
 ### 15.17 Cenwy
 
@@ -1488,7 +1488,7 @@ Any strike with a rolled result of 16+ indicates a successful grapple with a ton
 
 ### 18.17 Vagn's Raiders 
 
-Partially hidden on the beach, two _Karvi_. 36 Norsefolk, laden with maille, axes, swords and javelins, labour to construct a set of small wooden huts. They are led by Olaf (4HD, Maille, Two-Handed Axe), and have been dispatched by King Vagn to see what has become of Hwicce. Any who provide them information - or act as their spies - can expect to be rewarded in chunky gold rings. They are stamped with a profile image of Vagn, and have been brought here for this purpose alone. Alternatively, in exchange for 500sp worth of information, they will teach the Norse art of the Throwing Axe - launching it as such that it always bounces and attacks again.
+Partially hidden on the beach, two *Karvi*. 36 Norsefolk, laden with maille, axes, swords and javelins, labour to construct a set of small wooden huts. They are led by Olaf (4HD, Maille, Two-Handed Axe), and have been dispatched by King Vagn to see what has become of Hwicce. Any who provide them information - or act as their spies - can expect to be rewarded in chunky gold rings. They are stamped with a profile image of Vagn, and have been brought here for this purpose alone. Alternatively, in exchange for 500sp worth of information, they will teach the Norse art of the Throwing Axe - launching it as such that it always bounces and attacks again.
 
 Each day spent in their employ pays 10sp, but information must be found at least once a month.
 
@@ -1556,22 +1556,22 @@ Lies will be paid, but when discovered mark the party as an enemy to any who wou
 
 15 пехотинцев без доспехов, 15 застрельщиков
 
-### 12.18 Fallen Druid Sentries
+### 12.18 Часовые павших друидов
 
-Olwyn, a Fallen Druid and her retinue of 28 maintain a fireless camp here, watching the border, ready to harass any intruders into the Moerheb Weald.
+Олвин, павшая друидка, и её свита из 28 человек разбили здесь лагерь без костров, наблюдая за границей и готовые отразить нападение любых незваных гостей на Мёрхеб Вельд.
 
-Olwyn seeks to elevate her position within the cult - she has carved away her cheeks so that her (weighted and elongated) tongue spills forth, tattooed to appear as a mass of smaller tongues. If a group presents themselves humbly, she ask them to aid her in attacking St Glanyrafor's Monastery. She will pay them with an oak token of favour allowing movement within Moerheb Weald without attacks from Fallen Druid forces. If the group undertakes the assault single-handedly and succeeds, she will offer to teach a single spell.   
-She is inducted into the magic arts - those spells with a (number) indicate how many components she carries. Those without she has the ability to cast once a day. Bless (1), Colour Spray (1), Cure Light Wounds (2), Hold Person (1), Sleep.
+Олвин стремится возвысить своё положение в культе --- она вырезала себе щеки, так что её (утяжеленный и удлиненный) язык вываливается наружу, и сделала татуировку в виде множества маленьких язычков. Если группа людей смиренно представится, она попросит их помочь ей в нападении на монастырь Св. Гланирафора. Она подарит им дубовый знак благосклонности, позволяющий передвигаться по Мёрхеб Вельд без нападений со стороны Падших друидов. Если группа предпримет атаку в одиночку и добьется успеха, она предложит научить её одному заклинанию.   
+Она посвящена в магические искусства --- (цифры) у заклинаний указывают, сколько компонентов у неё есть. Заклинания без цифры она может использовать один раз в день. Благословение (1), Цветные брызги (1), Лечение лёгких ран (2), Удержание персоны (1), Сон.
 
-Her retinue are unarmoured, painted with purple berry juice to simulate tendrils and tongues spilling from their mouths and their old scars. Each has a shield, a javelin and club. At night, 5 are on guard, rotating once. They are forbidden to speak with outsiders - those who present themselves peacefully are disarmed and presented to Olwyn. Others are clubbed into unconsciousness and captured as sacrifices.
+Её свита без доспехов, раскрашена соком фиолетовых ягод, чтобы имитировать усики и вываливающиеся изо рта языки, а также старые шрамы. У каждого есть щит, дротик и дубинка. Ночью на страже стоят пятеро, сменяясь один раз. Им запрещено разговаривать с посторонними --- тех, кто ведёт себя мирно, обезоруживают и представляют Олвин. Остальных забивают дубинками до потери сознания и захватывают для жертвоприношений.
 
-The camp offers some wealth (Magic User I):
+В лагере есть некоторые богатства (Маг I):
 
-- 400sp in unmarked silver coins - for bribes
-- 100sp of preserved vegetables (10 portions)
-- 200sp of preserved meats (10 portions)
-- A single unworked block of ivory, worth 200sp.
-- 2 draughts of _Potion of Expansion_ (&T)
+- 400 см серебряными монетами без опознавательных знаков --- для взяток
+- 100 см в виде консервированных овощей (10 порций)
+- 200 см мясных консервов (10 порций)
+- Один необработанный брусок слоновой кости стоимостью 200 см.
+- 2 глотка *напитка расширения* (&T)
 
 ### 13.18 Crone Pine 
 
@@ -1607,16 +1607,16 @@ At night, 10 warriors are posted as lookouts. The Fallen Druids sleep beneath th
 
 Beneath an obvious mound of soil, the treasure of their order (Temple III): 
 
-- 400 _Victory Aureus_ (&T). The obverse depicts a figure with a laurel crown and Latin numbers reading "392". The Reverse depicts a wolf biting the head of a seal.
+- 400 *Victory Aureus* (&T). The obverse depicts a figure with a laurel crown and Latin numbers reading "392". The Reverse depicts a wolf biting the head of a seal.
 - 98 doses of brewed mushrooms - potent psychedelics used in traditional Druid-cult ceremonies. Worth 3920sp. 
 - 9 baskets of Decorative Shells, shimmering in the light. Worth 1350sp in total.
 - 40 Silver Ingots, stamped with an imperial eagle. Worth 2000sp in total.
-- A _Puddingstone_ (&T)
-- A _God Casket_ (&T)
-- A _Treeheart_ (&T)
-- A _Stolen Shroud_ (&T)
-- A _Screaming Head_ (&T)
-- 3 draughts of _Hero-Mead_ (&T)
+- A *Puddingstone* (&T)
+- A *God Casket* (&T)
+- A *Treeheart* (&T)
+- A *Stolen Shroud* (&T)
+- A *Screaming Head* (&T)
+- 3 draughts of *Hero-Mead* (&T)
 
 ### 17.18 Math 
 
@@ -1660,21 +1660,21 @@ He knows all the herbal Wards, but does not share them for fear of upsetting Eni
 
 Рядом с деревом стоит крытая повозка, едва скрытая несколькими срубленными ветками. Неподалёку лежит мёртвая лошадь, изуродованная воронами. Внутри 100 бутылок пиоррского вина по 40 см за штуку. Владельцем повозки является Гэвин (1 КЗ, нож), торговец из Кэрнфона, хотя у него нет никаких доказательств этого владения. Он отправит 15 конных наёмников, чтобы забрать свой груз, если потребуется. Они будут (с шансом 4 из 6 для каждого населйнного пункта) выслеживать воров в поселениях, допрашивая и подкупая местных жителей. Вино наёмники заберут себе.
 
-### 10.19 Fleeing Trees
+### 10.19 Убегающие деревья
 
-The trees here lean away from the body of the forest, as if trying to escape. Their trunks run nearly perpendicular to the ground, the branches and leaves straining. All growth is in one direction - away.
+Деревья здесь отклоняются от основной части леса, как будто пытаются убежать. Их стволы расположены почти перпендикулярно земле, ветви и листья вытянуты в ту же сторону. Все растения растут в одном направлении --- прочь.
 
-### 11.19 Forgotten Dwelling
+### 11.19 Забытое жилище
 
-Hidden in the hills, a small hovel, the fire long dead - moss reclaims the walls. Within, in the dirt, are 10 sequential _Doubleface Drachm_ (&T) - arranged into a tiny section of the greater map. Bones moulder besides this discovery. Nothing else remains.
+Спрятанная в холмах маленькая лачуга, огонь в которой давно погас --- стены покрыты мхом. Внутри, в земле, находятся 10 последовательных *двуликих драхм (&T)*, расположенных в виде крошечного участка большой карты. Кроме этого открытия здесь лишь превращающиеся в прах кости. Больше ничего не осталось.
 
-### 12.19 Rotten Quiver
+### 12.19 Сгнивший колчан
 
-A body, pincushioned with 20 arrows, is propped up against a tree. A grand hunting horn (worth 300sp) is still worn on a strap. The tongue has been removed. The body has been gnawed by scavengers.
+Тело, утыканное 20 стрелами, прислонено к дереву. Большой охотничий рог (стоимостью 300 см) всё ещё висит на ремешке. Язык был удалён. Тело было обглодано падальщиками.
 
 ### 13.19 Captive Village
 
-_c.w. mind control magic._
+*c.w. mind control magic.*
 
 A green mirror of Llanyndras forms in the Weald - the enraptured population of 38 train for war against the Fallen Druids. Three Dryads, hidden in the trees, oversee their preparation and despair - they have much to learn of war, and know it. Whilst their human-harvest is limited to the nearby villages, they will not learn what they need. 
 
@@ -1724,9 +1724,9 @@ Ouen (3HD, Leather, Bow, Axe) leads the band. His ears have been cut off to mark
 
 Кервин убивает только в качестве побочного эффекта. Если бы было проще извлечь глаза у живых, она бы так и делала. Она несёт на себе 400 глазных яблок, сохранившихся свежими неизвестным образом.
 
-### 12.20 Bait Twins 
+### 12.20 Близнецы-наживочники 
 
-Just off the shore, a single boat bobs in the waves no matter the weather. Within the boat, young twins, each fishing in a different direction. The boat is always full of fish. They sell their hand-made bait, which never fails to secure a catch - 10sp per hookload. They do not allow themselves to be seen returning home. At night, they watch the sea for sign of their parents. 
+Недалеко от берега на волнах покачивается одинокая лодка, независимо от погоды. В лодке молодые близнецы, каждый из которых ловит рыбу в своём направлении. Лодка всегда полна рыбы. Они продают приманку, сделанную своими руками, которая всегда приносит хороший улов --- по 10 см за штуку. Они стараются, чтобы никто не видел, как они возвращаются домой. По ночам они наблюдают за морем в поисках родителей.
 
 ### 13.20 Llanyndras
 
@@ -1748,17 +1748,17 @@ If freed, it rampages across Moerheb Weald - particularly victimising the Fallen
 
 Amongst the debris, a hoard scattered from centuries of rampage (Monstrous III): 
 
-- 6 _Dog Spirit Banks_ (&T), the collars marked with Latin script reading "Prosperity, Wealth, Security" - each worth 500sp.
-- 5 _Twisted Javelinheads_ (&T)
+- 6 *Dog Spirit Banks* (&T), the collars marked with Latin script reading "Prosperity, Wealth, Security" - each worth 500sp.
+- 5 *Twisted Javelinheads* (&T)
 - 10 surviving pornographic vases - worth 750sp total.
 - 3 magic items 
-- 3 draughts of the _Potion of Architecture Friendship_ (&T)
-- A _Silvered Skull_ (&T)
-- A _Bitter Builder_ (&T)
+- 3 draughts of the *Potion of Architecture Friendship* (&T)
+- A *Silvered Skull* (&T)
+- A *Bitter Builder* (&T)
 
 ### 15.20 Eel-knots
 
-Eels form knots in the river here, their slime coating the riverbanks. At the centre of the knot of eels, a _Demonface Coin_ (&T). On the obverse, a protruding cephalopodic entity. Invoked, the demon manifests as a mass of rotting fish threaded through with hair-width razor-sharp tentacles. It can infest animals and see through their eyes. If coaxed, it may share what is has seen.
+Eels form knots in the river here, their slime coating the riverbanks. At the centre of the knot of eels, a *Demonface Coin* (&T). On the obverse, a protruding cephalopodic entity. Invoked, the demon manifests as a mass of rotting fish threaded through with hair-width razor-sharp tentacles. It can infest animals and see through their eyes. If coaxed, it may share what is has seen.
 
 ### 16.20 Ancient Wolf-Den
 
@@ -1788,17 +1788,17 @@ HD 7 / AC as Leather / Damage 1d6+2
 
 Если кто-то выйдет в море до рассвета, они могут подплыть к судну и исследовать его, слегка подталкивая лодку своими морскими бровями.
 
-### 10.21 Ffordunum
+### 10.21 Ффордунум
 
-A badly constructed, fresh palisade surrounds Ffordunum, the 44 residents working themselves around the clock. A band of Norse raiders have demanded protection money - far more than the village can afford. In 8 weeks time, they will descend to burn and pillage if not paid. The petitions of the village to Caernfon have fallen on deaf ears.  They have resolved to die. They can only provide food and board for those willing to try and help.
+Ффордунум окружён плохо построенным свежим частоколом, 44 местных жителя работают по очереди круглосуточно. Банда варяжских налётчиков потребовала денег за защиту --- гораздо больше, чем деревня может себе позволить. Через 8 недель они начнут жечь и грабить, если им не заплатят. Просьбы жителей деревни, обращённые к Кэрнфону, остались без внимания. Они решили, что лучше умрут. Они могут обеспечить едой и ночлегом только тех, кто готов попытаться помочь.
 
-There are 35 raiders, armoured in maille and bearing shields, swords, axes and javelins. They will arrive in a Snekkja. 30 of villagers are old enough to fight. They have spears for everyone, 8 bows, 12 wood-axes and 3 boats.
+Всего будет 35 налётчиков, закованных в кольчуги и вооружённых щитами, мечами, топорами и дротиками. Они прибудут на снеккаре. 30 жителей деревни уже достаточно взрослые, чтобы сражаться. У них есть копья на каждого, 8 луков, 12 топоров для рубки деревьев и 3 лодки.
 
-The court does not visit Ffordunum.
+Двор не посещает Ффордунум.
 
-22 footmen*, 8 skirmishers.
+22 пехотинца\*, 8 застрельщиков.
 
-*_Unarmoured & Unwilling_
+\* *Упрямы и без доспехов*
 
 ### 16.21 Sea Binding 
 
